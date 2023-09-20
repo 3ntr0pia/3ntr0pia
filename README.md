@@ -56,6 +56,7 @@ I'm proud to be a part of the Fractal Game Studio team. Currently, I'm juggling 
 | ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) | Photoshop | 🔵🔵🔵🔵🔵⚪ |
 | ![Premiere](https://img.icons8.com/color/48/000000/adobe-premiere-pro.png) | Premiere | 🟢🟢🟢🟢⚪⚪ |
 | ![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png) | After Effects | 🟢🟢🟢🟢⚪⚪ |
+| ![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png) | Adobe XD | 🟢🟢🟢⚪⚪⚪ |
 
 ### **Audio & 3D Modeling Software:**
 |  |  |  |
