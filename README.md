@@ -1,6 +1,6 @@
-# Hello! I'm Lau although on the internet I like to call myself "3ntr0pia".👋
+# Hello! I'm Lau 👋
 
-
+(Although on the internet I like to call myself "3ntr0pia").
 Welcome to my GitHub profile! I'm a newcomer to the world of programming, but my curiosity for code started at a young age. I remember tinkering with game codes and creating mods as a child. While I pursued a degree in audiovisuals, I soon realized it wasn't my true passion. Now, I'm venturing into the vast universe of programming, eager to explore and learn.
 
 ## 🎮 Hobbies:
