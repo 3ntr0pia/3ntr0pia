@@ -1,16 +1,73 @@
-### Hi there 👋
+# Hello! I'm Lau although on the internet I like to call myself "3ntr0pia".👋
 
-<!--
-**3ntr0pia/3ntr0pia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a newcomer to the world of programming, but my curiosity for code started at a young age. I remember tinkering with game codes and creating mods as a child. While I pursued a degree in audiovisuals, I soon realized it wasn't my true passion. Now, I'm venturing into the vast universe of programming, eager to explore and learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Hobbies:
+Growing up surrounded by computers and gaming consoles, my enthusiasm for video games was inevitable. I've been a gamer since I was a child. Apart from gaming, I'm passionate about technology, watching animes, and reading. I also enjoy setting up game servers with my group of friends. Music holds a special place in my heart, and I play the ukulele!
+
+## 🌱 Current Endeavors:
+I'm proud to be a part of the Fractal Game Studio team. Currently, I'm juggling between two programming courses - one in the morning and another in the evening. My ambition is to continue my education over the next few years, aiming to become a competent individual in the industry and broaden my horizons.
+
+## 👩‍💻 Skills & Tools:
+
+## 🌟 Skill Levels:
+1. 🔴⚪⚪⚪⚪⚪ - Getting Acquainted
+2. 🟡🟡⚪⚪⚪⚪ - Beginner
+3. 🟢🟢🟢⚪⚪⚪ - Novice
+4. 🟢🟢🟢🟢⚪⚪ - Fairly Skilled
+5. 🔵🔵🔵🔵🔵⚪ - Good Level
+6. ⭐⭐⭐⭐⭐⭐ - Pro (It's nice to dream)
+
+### **Programming Languages:**
+|  |  |  |
+|--------------|--------------|--------------|
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | JavaScript | 🟡🟡⚪⚪⚪⚪ |
+| ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) | TypeScript | 🟡🟡⚪⚪⚪⚪ |
+| ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) | C# | 🟡🟡⚪⚪⚪⚪ |
+| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | Java | 🔴⚪⚪⚪⚪⚪ |
+
+### **Frameworks & Libraries:**
+|  |  |  |
+|--------------|--------------|--------------|
+| ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) | Angular | 🟡🟡⚪⚪⚪⚪ |
+| ![React](https://img.icons8.com/color/48/000000/react-native.png) | React | 🟡🟡⚪⚪⚪⚪ |
+| ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | Bootstrap | 🟢🟢🟢⚪⚪⚪ |
+
+### **Web Technologies:**
+|  |  |  |
+|--------------|--------------|--------------|
+| ![HTML](https://img.icons8.com/color/48/000000/html-5.png) | HTML |🟢🟢🟢⚪⚪⚪ |
+| ![CSS](https://img.icons8.com/color/48/000000/css3.png) | CSS | 🟢🟢🟢⚪⚪⚪ |
+| ![SASS](https://img.icons8.com/color/48/000000/sass.png) | SASS | 🟢🟢🟢⚪⚪⚪ |
+
+### **Databases:**
+|  |  |  |
+|--------------|--------------|--------------|
+| ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | MongoDB | 🟢🟢🟢⚪⚪⚪ |
+| ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | MySQL |  🟢🟢🟢⚪⚪⚪|
+
+### **Design & Editing Software:**
+|  |  |  |
+|--------------|--------------|--------------|
+| ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) | Photoshop | 🔵🔵🔵🔵🔵⚪ |
+| ![Premiere](https://img.icons8.com/color/48/000000/adobe-premiere-pro.png) | Premiere | 🟢🟢🟢🟢⚪⚪ |
+| ![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png) | After Effects | 🟢🟢🟢🟢⚪⚪ |
+
+### **Audio & 3D Modeling Software:**
+|  |  |  |
+|--------------|--------------|--------------|
+| ![Audacity](https://img.icons8.com/color/48/000000/audacity.png) | Audacity | 🟢🟢🟢⚪⚪⚪ |
+| ![Blender](https://img.icons8.com/color/48/000000/blender-3d.png) | Blender | 🟡🟡⚪⚪⚪⚪ |
+| ![Cinema4D](https://img.icons8.com/color/48/000000/cinema-4d.png) | Cinema4D | 🟡🟡⚪⚪⚪⚪ |
+
+
+
+
+
+
+
+Thank you for stopping by! Feel free to explore my repositories and connect with me.
+
+
+
