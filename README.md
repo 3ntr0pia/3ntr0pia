@@ -79,7 +79,8 @@ Visit my social networks:
     <img src="https://simpleicons.org/icons/discord.svg" width="30" height="30">
 </a>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 Thank you for stopping by! Feel free to explore my repositories and connect with me.
 
