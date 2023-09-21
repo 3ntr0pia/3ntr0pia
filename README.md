@@ -40,7 +40,7 @@ I'm proud to be a part of the Fractal Game Studio team. Currently, I'm juggling 
 ### **Web Technologies:**
 |  |  |  |
 |--------------|--------------|--------------|
-| ![HTML](https://img.icons8.com/color/48/000000/html-5.png) | HTML |🟢🟢🟢⚪⚪⚪ |
+| ![HTML](https://img.icons8.com/color/48/000000/html-5.png) | HTML |🟢🟢🟢🟢⚪⚪ |
 | ![CSS](https://img.icons8.com/color/48/000000/css3.png) | CSS | 🟢🟢🟢⚪⚪⚪ |
 | ![SASS](https://img.icons8.com/color/48/000000/sass.png) | SASS | 🟢🟢🟢⚪⚪⚪ |
 
