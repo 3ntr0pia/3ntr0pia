@@ -9,6 +9,13 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: NickRTR/WakaTime-Readme@v1.2.1  
+        with:  
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          THEME: "block-purple"
+          name: suputamadre
+          
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -16,12 +23,12 @@ jobs:
           SHOW_OS: False
           SHOW_PROJECTS: False
           SHOW_DAYS_OF_WEEK: False
-          SHOW_LANGUAGE: True
+          SHOW_LANGUAGE: False
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
           SHOW_PROFILE_VIEWS: False
           SHOW_EDITORS: False
           SHOW_LANGUAGE_PER_REPO: False
-          SHOW_SHORT_INFO: True
+          SHOW_SHORT_INFO: False
           SHOW_LOC_CHART: True
-          
+          name: Waka
