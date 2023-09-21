@@ -78,8 +78,8 @@ Visit my social networks:
 <a href="https://discord.gg/Wf6q6tHg">
     <img src="https://simpleicons.org/icons/discord.svg" width="30" height="30">
 </a>
-<!--START_SECTION:suputamadre-->
-<!--END_SECTION:suputamadre-->
+<!--WakaTime-Start-->
+<!--WakaTime-End-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2019%20mins-blue)
