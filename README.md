@@ -79,6 +79,7 @@ Visit my social networks:
     <img src="https://simpleicons.org/icons/discord.svg" width="30" height="30">
 </a>
 
+![Codewars Badge](https://www.codewars.com/users/3ntr0pia/badges/large)
 
 Thank you for stopping by! Feel free to explore my repositories and connect with me.
 
