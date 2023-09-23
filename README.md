@@ -47,8 +47,10 @@ I'm proud to be a part of the Fractal Game Studio team. Currently, I'm juggling 
 ### **Databases:**
 |  |  |  |
 |--------------|--------------|--------------|
-| ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | MongoDB | 🟢🟢🟢⚪⚪⚪ |
+| ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | MongoDB | 🟢🟢⚪⚪⚪⚪ |
 | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | MySQL |  🟢🟢🟢⚪⚪⚪|
+| ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | Firebase | 🟢🟢⚪⚪⚪⚪ |
+
 
 ### **Design & Editing Software:**
 |  |  |  |
