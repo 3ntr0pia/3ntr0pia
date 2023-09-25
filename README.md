@@ -72,15 +72,20 @@ I'm proud to be a part of the Fractal Game Studio team. Currently, I'm juggling 
 
 
 Visit my social networks:
-<a href="https://twitter.com/Lau_3ntr0pia">
+<ul>
+    <li><a href="https://twitter.com/Lau_3ntr0pia">
     <img src="https://simpleicons.org/icons/twitter.svg" width="30" height="30">
-</a>
-<a href="https://www.twitch.tv/3ntr0pia_">
+</a></li>
+    <li><a href="https://www.twitch.tv/3ntr0pia_">
     <img src="https://simpleicons.org/icons/twitch.svg" width="30" height="30">
-</a>
-<a href="https://discord.gg/Wf6q6tHg">
+</a></li>
+    <li><a href="https://discord.gg/Wf6q6tHg">
     <img src="https://simpleicons.org/icons/discord.svg" width="30" height="30">
-</a>
+</a></li>
+</ul>
+
+
+
 
 ![Codewars Badge](https://www.codewars.com/users/3ntr0pia/badges/large)
 
