@@ -43,6 +43,10 @@ jobs:
     - name: Run script to generate chart
       run: |
         python3 generate_chart.py
+    - name: List files in current directory
+      run: 
+        ls -la
+        git add ./chart.png
 
     - name: Update README.md with the latest chart link
       run: |
