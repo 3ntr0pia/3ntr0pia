@@ -47,7 +47,7 @@ jobs:
       run: 
         ls -la
     - name: Generate png
-      run: 
+      run: |
         git add ./chart.png
     - name: Update README.md with the latest chart link
       run: |
