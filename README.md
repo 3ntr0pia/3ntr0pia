@@ -86,7 +86,7 @@ Visit my social networks:
 </a></li>
 </ul>
 
-![WakaTime graph](https://wakatime.com/share/@3ntr0pia/b553dd2d-70da-477e-88b9-fc62a5201c58.svg)
+![WakaTime graph](https://wakatime.com/share/@3ntr0pia/48cc10ab-ec7a-4610-a8cb-ab1fdada643d.svg)
 
 
 
