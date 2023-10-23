@@ -14,9 +14,12 @@ jobs:
       uses: actions/checkout@v2
 
     # Asegurarse de que el directorio json_data exista
-    - name: Ensure json_data directory exists
+    - name: Create json_data directory
       run: mkdir -p json_data
-
+      
+    - name: Check current working directory
+      run: pwd
+      
     # Listar directorios después de crear json_data
     - name: List directories after creating json_data
       run: ls -la
