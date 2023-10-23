@@ -15,7 +15,10 @@ jobs:
 
     # Asegurarse de que el directorio json_data exista
     - name: Create json_data directory
-      run: mkdir -p json_data
+      run: |
+        mkdir -p json_data
+        cd json_data
+        ls -la
       
     - name: Check current working directory
       run: pwd
