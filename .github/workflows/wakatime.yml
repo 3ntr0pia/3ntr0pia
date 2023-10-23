@@ -12,6 +12,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      
+    - name: Ensure json_data directory exists
+      run: mkdir -p json_data
 
     - name: Set up Node.js
       uses: actions/setup-node@v2
