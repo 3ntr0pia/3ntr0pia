@@ -12,15 +12,22 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
-      
+
+    # Asegurarse de que el directorio json_data exista
     - name: Ensure json_data directory exists
       run: mkdir -p json_data
 
+    # Listar directorios después de crear json_data
+    - name: List directories after creating json_data
+      run: ls -la
+
+    # Configurar Node.js
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
         node-version: '16' 
 
+    # Instalar y ejecutar wakatime-to-json
     - name: Install and run wakatime-to-json
       env:
         WAKATIME_USER: ${{ secrets.WAKATIME_USER }}
@@ -29,30 +36,37 @@ jobs:
         npm install wakatime-to-json
         npx wakatime-to-json -o ./json_data/$(date +"%Y-%m-%d").json
 
+    # Listar contenidos del directorio json_data
+    - name: List contents of json_data directory
+      run: ls -la json_data/
+
+    # Configurar Python
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x' 
 
+    # Instalar dependencias de Python
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install matplotlib
 
-
+    # Ejecutar script para generar gráfico
     - name: Run script to generate chart
+      run: python3 generate_chart.py
+
+    # Intentar agregar chart.png al commit
+    - name: Add chart to git
       run: |
-        python3 generate_chart.py
-    - name: List files in current directory
-      run: 
-        ls -la
-    - name: Generate png
-      run: |
-        git add chart.png
+        git add chart.png || echo "chart.png does not exist."
+
+    # Actualizar README.md con el enlace del gráfico más reciente
     - name: Update README.md with the latest chart link
       run: |
         echo "![WakaTime languages chart](chart.png)" > README.md
 
+    # Commit y push de los cambios
     - name: Commit and push changes
       run: |
         git config user.name "GitHub Action"
