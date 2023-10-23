@@ -1,3 +1,5 @@
+![imagen](https://github.com/3ntr0pia/3ntr0pia/assets/74710813/0119b053-1541-44b8-bad0-0fd4f5266671)
+
 # Hello! I'm Lau  👋
 
 (Although on the internet I like to call myself "3ntr0pia").                            
