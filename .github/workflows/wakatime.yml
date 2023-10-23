@@ -48,7 +48,7 @@ jobs:
         ls -la
     - name: Generate png
       run: |
-        git add ./chart.png
+        git add chart.png
     - name: Update README.md with the latest chart link
       run: |
         echo "![WakaTime languages chart](chart.png)" > README.md
