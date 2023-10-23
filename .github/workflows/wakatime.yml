@@ -20,10 +20,12 @@ jobs:
 
     - name: Install and run wakatime-to-json
       env:
-        WAKATIME_USER: '@3ntr0pia'  # Reemplaza '@3ntr0pia' con tu nombre de usuario de WakaTime si es diferente
+        WAKATIME_USER: ${{ secrets.WAKATIME_USER }}
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       run: |
         npm install wakatime-to-json
         npx wakatime-to-json -o ./wakatime-data.json
+
 
     - name: Commit and push changes
       run: |
