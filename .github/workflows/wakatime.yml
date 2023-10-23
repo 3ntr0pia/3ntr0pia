@@ -3,6 +3,7 @@ name: Update WakaTime Data
 on:
   schedule:
     - cron: '0 0 */14 * *'  # Ejecuta esta acción cada 14 días
+  workflow_dispatch:      # Allows manual triggering
 
 jobs:
   update-data:
