@@ -19,6 +19,8 @@ jobs:
         node-version: '16'  # Updated to Node.js version 16
 
     - name: Install and run wakatime-to-json
+      env:
+        WAKATIME_USER: '@3ntr0pia'  # Reemplaza '@3ntr0pia' con tu nombre de usuario de WakaTime si es diferente
       run: |
         npm install wakatime-to-json
         npx wakatime-to-json -o ./wakatime-data.json
