@@ -31,7 +31,7 @@ jobs:
       run: |
         git config user.name "GitHub Action"
         git config user.email "github-action@users.noreply.github.com"
-        git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/3ntr0pia/3ntr0pia.git
+        git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/3ntr0pia/3ntr0pia.git
         git add wakatime-data.json
         git commit -m "Update WakaTime data"
         git push
