@@ -19,6 +19,12 @@ def accumulate_data():
     with open(latest_json_file, 'r') as f:
         new_data = json.load(f)
 
+    # Aquí estamos asegurándonos de que cada archivo JSON tenga la clave "languages"
+    # y que el arreglo no esté vacío antes de continuar.
+    if "languages" not in new_data or not new_data["languages"]:
+        print(f"El archivo {latest_json_file} no contiene datos válidos.")
+        return
+
     if os.path.exists(ACCU_FILE):
         with open(ACCU_FILE, 'r') as f:
             accu_data = json.load(f)
@@ -45,6 +51,9 @@ def accumulate_data():
 
 def generate_chart():
     data = accumulate_data()
+    if not data:
+        print("No se pudo generar la gráfica debido a la falta de datos.")
+        return
     languages = data["languages"]
     names = [lang["name"] for lang in languages]
     total_seconds = [lang["total_seconds"] for lang in languages]
