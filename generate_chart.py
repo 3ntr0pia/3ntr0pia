@@ -20,8 +20,6 @@ def accumulate_data():
         with open(latest_json_file, 'r') as f:
             new_data = json.load(f)
 
-        # Aquí estamos asegurándonos de que cada archivo JSON tenga la clave "languages"
-        # y que el arreglo no esté vacío antes de continuar.
         if "languages" not in new_data or not new_data["languages"]:
             print(f"El archivo {latest_json_file} no contiene datos válidos.")
             return
@@ -32,19 +30,16 @@ def accumulate_data():
         else:
             accu_data = {"languages": []}
 
-        # Suma las estadísticas de los nuevos datos al archivo acumulado
         for new_lang in new_data["languages"]:
             found = False
             for accu_lang in accu_data["languages"]:
                 if accu_lang["name"] == new_lang["name"]:
                     accu_lang["total_seconds"] += new_lang["total_seconds"]
-                    # Actualizar otros campos relevantes si es necesario
                     found = True
                     break
             if not found:
                 accu_data["languages"].append(new_lang)
 
-        # Guarda los datos acumulados actualizados
         with open(ACCU_FILE, 'w') as f:
             json.dump(accu_data, f, indent=4)
 
