@@ -29,10 +29,16 @@ jobs:
         npm install wakatime-to-json
         npx wakatime-to-json -o ./json_data/$(date +"%Y-%m-%d").json
 
-    - name: Set up Python and install dependencies
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x' 
+
+    - name: Install dependencies
       run: |
-        sudo apt-get install python3.8
-        python3 -m pip install matplotlib
+        python -m pip install --upgrade pip
+        pip install matplotlib
+
 
     - name: Run script to generate chart
       run: |
