@@ -1,0 +1,4073 @@
+{
+  "2023-10-22": {
+    "languages": [],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
+    "range": {
+      "start": "2023-10-21T22:00:00Z",
+      "end": "2023-10-22T21:59:59Z",
+      "date": "2023-10-22",
+      "text": "Sun Oct 22nd 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-21": {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 3410.610548,
+        "digital": "0:56:50",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 50,
+        "percent": 56.09
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 2445.674187,
+        "digital": "0:40:45",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 45,
+        "percent": 40.22
+      },
+      {
+        "name": "Text",
+        "total_seconds": 131.805753,
+        "digital": "0:02:11",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 11,
+        "percent": 2.17
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 38.28806,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 0.63
+      },
+      {
+        "name": "XML",
+        "total_seconds": 35.480919,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 0.58
+      },
+      {
+        "name": "C++",
+        "total_seconds": 9.624334,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.16
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 9.450814,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.16
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 41,
+      "total_seconds": 6080.934615,
+      "digital": "1:41",
+      "decimal": "1.68",
+      "text": "1 hr 41 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6080.934615,
+        "digital": "1:41:20",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6080.934615,
+        "digital": "1:41:20",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6080.934615,
+        "digital": "1:41:20",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "core",
+        "total_seconds": 3310.241514,
+        "digital": "0:55:10",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 10,
+        "percent": 53.16
+      },
+      {
+        "name": "days.interface",
+        "total_seconds": 2619.097392,
+        "digital": "0:43:39",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 39,
+        "percent": 42.06
+      },
+      {
+        "name": "main-page.component",
+        "total_seconds": 39.839222,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.64
+      },
+      {
+        "name": "search.component",
+        "total_seconds": 39.839222,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.64
+      },
+      {
+        "name": "forms",
+        "total_seconds": 39.839222,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.64
+      },
+      {
+        "name": "common",
+        "total_seconds": 39.839222,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.64
+      },
+      {
+        "name": "days.component",
+        "total_seconds": 39.839222,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.64
+      },
+      {
+        "name": "detail.component",
+        "total_seconds": 39.839222,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.64
+      },
+      {
+        "name": "day",
+        "total_seconds": 39.550688,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.64
+      },
+      {
+        "name": "city",
+        "total_seconds": 19.335885,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.31
+      },
+      {
+        "name": "viajes.module",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "platform-browser",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "app.component",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 6080.934615,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "1:41:20",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "ProductoViajes",
+        "total_seconds": 6080.934615,
+        "color": null,
+        "digital": "1:41:20",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-10-20T22:00:00Z",
+      "end": "2023-10-21T21:59:59Z",
+      "date": "2023-10-21",
+      "text": "Sat Oct 21st 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-20": {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 4159.634481,
+        "digital": "1:09:19",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 19,
+        "percent": 45.2
+      },
+      {
+        "name": "C++",
+        "total_seconds": 1879.63399,
+        "digital": "0:31:19",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 19,
+        "percent": 20.42
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 1586.115162,
+        "digital": "0:26:26",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 26,
+        "percent": 17.23
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 631.80026,
+        "digital": "0:10:31",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 31,
+        "percent": 6.86
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 381.373473,
+        "digital": "0:06:21",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 21,
+        "percent": 4.14
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 341.486899,
+        "digital": "0:05:41",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 41,
+        "percent": 3.71
+      },
+      {
+        "name": "Text",
+        "total_seconds": 207.58163,
+        "digital": "0:03:27",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 27,
+        "percent": 2.26
+      },
+      {
+        "name": "XML",
+        "total_seconds": 13.05222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.14
+      },
+      {
+        "name": "Brainfuck",
+        "total_seconds": 2.717018,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 33,
+      "total_seconds": 9203.395133,
+      "digital": "2:33",
+      "decimal": "2.55",
+      "text": "2 hrs 33 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 9203.395133,
+        "digital": "2:33:23",
+        "decimal": "2.55",
+        "text": "2 hrs 33 mins",
+        "hours": 2,
+        "minutes": 33,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 9203.395133,
+        "digital": "2:33:23",
+        "decimal": "2.55",
+        "text": "2 hrs 33 mins",
+        "hours": 2,
+        "minutes": 33,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 9203.395133,
+        "digital": "2:33:23",
+        "decimal": "2.55",
+        "text": "2 hrs 33 mins",
+        "hours": 2,
+        "minutes": 33,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "core",
+        "total_seconds": 631.80026,
+        "digital": "0:10:31",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 31,
+        "percent": 41.58
+      },
+      {
+        "name": "days.interface",
+        "total_seconds": 319.843911,
+        "digital": "0:05:19",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 19,
+        "percent": 21.05
+      },
+      {
+        "name": "common",
+        "total_seconds": 70.143802,
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 4.62
+      },
+      {
+        "name": "search.component",
+        "total_seconds": 70.143802,
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 4.62
+      },
+      {
+        "name": "days.component",
+        "total_seconds": 70.143802,
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 4.62
+      },
+      {
+        "name": "main-page.component",
+        "total_seconds": 70.143802,
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 4.62
+      },
+      {
+        "name": "detail.component",
+        "total_seconds": 70.143802,
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 4.62
+      },
+      {
+        "name": "viajes.module",
+        "total_seconds": 53.371754,
+        "digital": "0:00:53",
+        "decimal": "0.00",
+        "text": "53 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 53,
+        "percent": 3.51
+      },
+      {
+        "name": "app.component",
+        "total_seconds": 53.371754,
+        "digital": "0:00:53",
+        "decimal": "0.00",
+        "text": "53 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 53,
+        "percent": 3.51
+      },
+      {
+        "name": "platform-browser",
+        "total_seconds": 53.371754,
+        "digital": "0:00:53",
+        "decimal": "0.00",
+        "text": "53 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 53,
+        "percent": 3.51
+      },
+      {
+        "name": "city",
+        "total_seconds": 33.128981,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 2.18
+      },
+      {
+        "name": "forms",
+        "total_seconds": 15.229945,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 1
+      },
+      {
+        "name": "pipes",
+        "total_seconds": 6.526064,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.43
+      },
+      {
+        "name": "\"./main.js\"",
+        "total_seconds": 1.977733,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.13
+      },
+      {
+        "name": "vite",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "laravel-vite-plugin",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 9203.395133,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "2:33:23",
+        "decimal": "2.55",
+        "text": "2 hrs 33 mins",
+        "hours": 2,
+        "minutes": 33,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 3412.59194,
+        "color": null,
+        "digital": "0:56:52",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 52,
+        "percent": 37.08
+      },
+      {
+        "name": "ProductoViajes",
+        "total_seconds": 2480.476996,
+        "color": null,
+        "digital": "0:41:20",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 20,
+        "percent": 26.95
+      },
+      {
+        "name": "Actividad1.3",
+        "total_seconds": 2390.913738,
+        "color": null,
+        "digital": "0:39:50",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 50,
+        "percent": 25.98
+      },
+      {
+        "name": "LaUltimaCerilla",
+        "total_seconds": 810.210891,
+        "color": null,
+        "digital": "0:13:30",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 30,
+        "percent": 8.8
+      },
+      {
+        "name": "PHPMyAdmin_test",
+        "total_seconds": 93.43233,
+        "color": null,
+        "digital": "0:01:33",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 33,
+        "percent": 1.02
+      },
+      {
+        "name": "my-project",
+        "total_seconds": 15.769238,
+        "color": null,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.17
+      },
+      {
+        "name": "Wordpress",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2023-10-19T22:00:00Z",
+      "end": "2023-10-20T21:59:59Z",
+      "date": "2023-10-20",
+      "text": "Fri Oct 20th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-19": {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 6178.82921,
+        "digital": "1:42:58",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 58,
+        "percent": 49.68
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 6172.30847,
+        "digital": "1:42:52",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 52,
+        "percent": 49.63
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 46.231145,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.37
+      },
+      {
+        "name": "Text",
+        "total_seconds": 36.623339,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 0.29
+      },
+      {
+        "name": "ActionScript 3",
+        "total_seconds": 2.282943,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 27,
+      "total_seconds": 12436.275107,
+      "digital": "3:27",
+      "decimal": "3.45",
+      "text": "3 hrs 27 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 12436.275107,
+        "digital": "3:27:16",
+        "decimal": "3.45",
+        "text": "3 hrs 27 mins",
+        "hours": 3,
+        "minutes": 27,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 12436.275107,
+        "digital": "3:27:16",
+        "decimal": "3.45",
+        "text": "3 hrs 27 mins",
+        "hours": 3,
+        "minutes": 27,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 12436.275107,
+        "digital": "3:27:16",
+        "decimal": "3.45",
+        "text": "3 hrs 27 mins",
+        "hours": 3,
+        "minutes": 27,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "core",
+        "total_seconds": 5037.604355,
+        "digital": "1:23:57",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 57,
+        "percent": 51.13
+      },
+      {
+        "name": "days.interface",
+        "total_seconds": 3738.96573,
+        "digital": "1:02:18",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 18,
+        "percent": 37.95
+      },
+      {
+        "name": "common",
+        "total_seconds": 398.573256,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 4.05
+      },
+      {
+        "name": "equipo-futbol",
+        "total_seconds": 159.219981,
+        "digital": "0:02:39",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 39,
+        "percent": 1.62
+      },
+      {
+        "name": "days.component",
+        "total_seconds": 97.761175,
+        "digital": "0:01:37",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 37,
+        "percent": 0.99
+      },
+      {
+        "name": "main-page.component",
+        "total_seconds": 79.174613,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 0.8
+      },
+      {
+        "name": "platform-browser",
+        "total_seconds": 60.019558,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 0.61
+      },
+      {
+        "name": "app.component",
+        "total_seconds": 60.019558,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 0.61
+      },
+      {
+        "name": "days-component.component",
+        "total_seconds": 46.008702,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.47
+      },
+      {
+        "name": "gifs.service",
+        "total_seconds": 29.701633,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.3
+      },
+      {
+        "name": "lista.component",
+        "total_seconds": 22.687985,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.23
+      },
+      {
+        "name": "card.component",
+        "total_seconds": 22.687985,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.23
+      },
+      {
+        "name": "formularios.component",
+        "total_seconds": 17.358203,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.18
+      },
+      {
+        "name": "forms",
+        "total_seconds": 17.358203,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.18
+      },
+      {
+        "name": "pais.interface",
+        "total_seconds": 13.996969,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.14
+      },
+      {
+        "name": "paises.service",
+        "total_seconds": 13.996969,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.14
+      },
+      {
+        "name": "actor",
+        "total_seconds": 11.003316,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.11
+      },
+      {
+        "name": "info-actor",
+        "total_seconds": 11.003316,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.11
+      },
+      {
+        "name": "gifs.interfaces",
+        "total_seconds": 5.020512,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.05
+      },
+      {
+        "name": "detail.component",
+        "total_seconds": 3.75047,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.04
+      },
+      {
+        "name": "testing",
+        "total_seconds": 3.585616,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.04
+      },
+      {
+        "name": "paises.component",
+        "total_seconds": 1.504397,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.02
+      },
+      {
+        "name": "viaje.module",
+        "total_seconds": 1.189935,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 12436.275107,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "3:27:16",
+        "decimal": "3.45",
+        "text": "3 hrs 27 mins",
+        "hours": 3,
+        "minutes": 27,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "ProductoViajes",
+        "total_seconds": 11982.235352,
+        "color": null,
+        "digital": "3:19:42",
+        "decimal": "3.32",
+        "text": "3 hrs 19 mins",
+        "hours": 3,
+        "minutes": 19,
+        "seconds": 42,
+        "percent": 96.35
+      },
+      {
+        "name": "ejercicio-input-output",
+        "total_seconds": 217.602014,
+        "color": null,
+        "digital": "0:03:37",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 37,
+        "percent": 1.75
+      },
+      {
+        "name": "Actividad1.2",
+        "total_seconds": 127.373614,
+        "color": null,
+        "digital": "0:02:07",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 7,
+        "percent": 1.02
+      },
+      {
+        "name": "producto1",
+        "total_seconds": 40.883049,
+        "color": null,
+        "digital": "0:00:40",
+        "decimal": "0.00",
+        "text": "40 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 40,
+        "percent": 0.33
+      },
+      {
+        "name": "03-gifs-app",
+        "total_seconds": 34.722145,
+        "color": null,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.28
+      },
+      {
+        "name": "angular-repaso",
+        "total_seconds": 33.458933,
+        "color": null,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 0.27
+      }
+    ],
+    "range": {
+      "start": "2023-10-18T22:00:00Z",
+      "end": "2023-10-19T21:59:59Z",
+      "date": "2023-10-19",
+      "text": "Thu Oct 19th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-18": {
+    "languages": [
+      {
+        "name": "C++",
+        "total_seconds": 1584.444765,
+        "digital": "0:26:24",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 24,
+        "percent": 39.97
+      },
+      {
+        "name": "C",
+        "total_seconds": 1311.958131,
+        "digital": "0:21:51",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 51,
+        "percent": 33.1
+      },
+      {
+        "name": "C#",
+        "total_seconds": 781.370716,
+        "digital": "0:13:01",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 1,
+        "percent": 19.71
+      },
+      {
+        "name": "Ezhil",
+        "total_seconds": 229.73507,
+        "digital": "0:03:49",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 49,
+        "percent": 5.8
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 49.779074,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 1.26
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 4.077947,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.1
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 2.301377,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.06
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 6,
+      "total_seconds": 3963.66708,
+      "digital": "1:06",
+      "decimal": "1.10",
+      "text": "1 hr 6 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3048.736214,
+        "digital": "0:50:48",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 48,
+        "percent": 76.92
+      },
+      {
+        "name": "Visual Studio",
+        "total_seconds": 914.930866,
+        "digital": "0:15:14",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 14,
+        "percent": 23.08
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3963.66708,
+        "digital": "1:06:03",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3963.66708,
+        "digital": "1:06:03",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 685.175439,
+        "digital": "0:11:25",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 25,
+        "percent": 49.85
+      },
+      {
+        "name": "StreamWriter(ruta+))sw",
+        "total_seconds": 685.175439,
+        "digital": "0:11:25",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 25,
+        "percent": 49.85
+      },
+      {
+        "name": "app.component",
+        "total_seconds": 4.077947,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.3
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 3963.66708,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "1:06:03",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 2406.256639,
+        "color": null,
+        "digital": "0:40:06",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 6,
+        "percent": 60.71
+      },
+      {
+        "name": "PruebasLaura",
+        "total_seconds": 781.370716,
+        "color": null,
+        "digital": "0:13:01",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 1,
+        "percent": 19.71
+      },
+      {
+        "name": "Dayz-HeroesAndBandits",
+        "total_seconds": 503.138873,
+        "color": null,
+        "digital": "0:08:23",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 23,
+        "percent": 12.69
+      },
+      {
+        "name": "DayZ-Clothing-Properties-Guide",
+        "total_seconds": 170.346608,
+        "color": null,
+        "digital": "0:02:50",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 50,
+        "percent": 4.3
+      },
+      {
+        "name": "pong-score-board",
+        "total_seconds": 102.554244,
+        "color": null,
+        "digital": "0:01:42",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 42,
+        "percent": 2.59
+      }
+    ],
+    "range": {
+      "start": "2023-10-17T22:00:00Z",
+      "end": "2023-10-18T21:59:59Z",
+      "date": "2023-10-18",
+      "text": "Wed Oct 18th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-17": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 12023.220992,
+        "digital": "3:20:23",
+        "decimal": "3.33",
+        "text": "3 hrs 20 mins",
+        "hours": 3,
+        "minutes": 20,
+        "seconds": 23,
+        "percent": 84.25
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 1380.430483,
+        "digital": "0:23:00",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 0,
+        "percent": 9.67
+      },
+      {
+        "name": "SWIG",
+        "total_seconds": 570.112836,
+        "digital": "0:09:30",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 30,
+        "percent": 4
+      },
+      {
+        "name": "Text",
+        "total_seconds": 196.830547,
+        "digital": "0:03:16",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 16,
+        "percent": 1.38
+      },
+      {
+        "name": "XML",
+        "total_seconds": 54.970228,
+        "digital": "0:00:54",
+        "decimal": "0.00",
+        "text": "54 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 0.39
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 29.769991,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.21
+      },
+      {
+        "name": "Ezhil",
+        "total_seconds": 14.826885,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.1
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 57,
+      "total_seconds": 14270.161962,
+      "digital": "3:57",
+      "decimal": "3.95",
+      "text": "3 hrs 57 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 12889.731479,
+        "digital": "3:34:49",
+        "decimal": "3.57",
+        "text": "3 hrs 34 mins",
+        "hours": 3,
+        "minutes": 34,
+        "seconds": 49,
+        "percent": 90.33
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 1380.430483,
+        "digital": "0:23:00",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 0,
+        "percent": 9.67
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 14270.161962,
+        "digital": "3:57:50",
+        "decimal": "3.95",
+        "text": "3 hrs 57 mins",
+        "hours": 3,
+        "minutes": 57,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 13630.252013,
+        "digital": "3:47:10",
+        "decimal": "3.78",
+        "text": "3 hrs 47 mins",
+        "hours": 3,
+        "minutes": 47,
+        "seconds": 10,
+        "percent": 95.52
+      },
+      {
+        "name": "Building",
+        "total_seconds": 639.909949,
+        "digital": "0:10:39",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 39,
+        "percent": 4.48
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "EvaluacionLaura",
+        "total_seconds": 3776.438324,
+        "digital": "1:02:56",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 56,
+        "percent": 69.64
+      },
+      {
+        "name": "GestionAlmacen",
+        "total_seconds": 674.639309,
+        "digital": "0:11:14",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 14,
+        "percent": 12.44
+      },
+      {
+        "name": "Listas",
+        "total_seconds": 674.639309,
+        "digital": "0:11:14",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 14,
+        "percent": 12.44
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 148.683152,
+        "digital": "0:02:28",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 28,
+        "percent": 2.74
+      },
+      {
+        "name": "StreamWriter(ruta+))sw",
+        "total_seconds": 148.683152,
+        "digital": "0:02:28",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 28,
+        "percent": 2.74
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 14270.161962,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "3:57:50",
+        "decimal": "3.95",
+        "text": "3 hrs 57 mins",
+        "hours": 3,
+        "minutes": 57,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "PruebasLaura",
+        "total_seconds": 12215.09217,
+        "color": null,
+        "digital": "3:23:35",
+        "decimal": "3.38",
+        "text": "3 hrs 23 mins",
+        "hours": 3,
+        "minutes": 23,
+        "seconds": 35,
+        "percent": 85.6
+      },
+      {
+        "name": "TEST_PHPMyAdmin",
+        "total_seconds": 1380.430483,
+        "color": null,
+        "digital": "0:23:00",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 0,
+        "percent": 9.67
+      },
+      {
+        "name": "Listas",
+        "total_seconds": 674.639309,
+        "color": null,
+        "digital": "0:11:14",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 14,
+        "percent": 4.73
+      }
+    ],
+    "range": {
+      "start": "2023-10-16T22:00:00Z",
+      "end": "2023-10-17T21:59:59Z",
+      "date": "2023-10-17",
+      "text": "Tue Oct 17th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-16": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 6432.222466,
+        "digital": "1:47:12",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 12,
+        "percent": 99.07
+      },
+      {
+        "name": "SWIG",
+        "total_seconds": 57.124548,
+        "digital": "0:00:57",
+        "decimal": "0.00",
+        "text": "57 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 57,
+        "percent": 0.88
+      },
+      {
+        "name": "Ezhil",
+        "total_seconds": 3.067121,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.05
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 48,
+      "total_seconds": 6492.414135,
+      "digital": "1:48",
+      "decimal": "1.80",
+      "text": "1 hr 48 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 6492.414135,
+        "digital": "1:48:12",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6492.414135,
+        "digital": "1:48:12",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6432.222466,
+        "digital": "1:47:12",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 12,
+        "percent": 99.07
+      },
+      {
+        "name": "Building",
+        "total_seconds": 60.191669,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 0.93
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "StreamWriter(rutaJson))sw",
+        "total_seconds": 1132.698554,
+        "digital": "0:18:52",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 52,
+        "percent": 30.2
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 1132.698554,
+        "digital": "0:18:52",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 52,
+        "percent": 30.2
+      },
+      {
+        "name": ">sw",
+        "total_seconds": 1080.968023,
+        "digital": "0:18:00",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 0,
+        "percent": 28.82
+      },
+      {
+        "name": "Biblioteca20",
+        "total_seconds": 404.376028,
+        "digital": "0:06:44",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 44,
+        "percent": 10.78
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 6492.414135,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "1:48:12",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Biblioteca20",
+        "total_seconds": 6492.414135,
+        "digital": "1:48:12",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-10-15T22:00:00Z",
+      "end": "2023-10-16T21:59:59Z",
+      "date": "2023-10-16",
+      "text": "Mon Oct 16th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-15": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 5788.421022,
+        "digital": "1:36:28",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 28,
+        "percent": 94.33
+      },
+      {
+        "name": "XML",
+        "total_seconds": 145.965101,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 2.38
+      },
+      {
+        "name": "Text",
+        "total_seconds": 124.238236,
+        "digital": "0:02:04",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 2.02
+      },
+      {
+        "name": "SWIG",
+        "total_seconds": 55.991858,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 0.91
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 12.021613,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.2
+      },
+      {
+        "name": "Ezhil",
+        "total_seconds": 9.545129,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.16
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 42,
+      "total_seconds": 6136.182959,
+      "digital": "1:42",
+      "decimal": "1.70",
+      "text": "1 hr 42 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 6136.182959,
+        "digital": "1:42:16",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6136.182959,
+        "digital": "1:42:16",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5924.680871,
+        "digital": "1:38:44",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 44,
+        "percent": 96.55
+      },
+      {
+        "name": "Building",
+        "total_seconds": 204.806651,
+        "digital": "0:03:24",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 24,
+        "percent": 3.34
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 6.695437,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.11
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "StreamWriter(ruta+nombre))sw",
+        "total_seconds": 909.499643,
+        "digital": "0:15:09",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 9,
+        "percent": 41.37
+      },
+      {
+        "name": "Biblioteca",
+        "total_seconds": 861.884095,
+        "digital": "0:14:21",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 21,
+        "percent": 39.21
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 263.966852,
+        "digital": "0:04:23",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 23,
+        "percent": 12.01
+      },
+      {
+        "name": "DocumentosAlmacen",
+        "total_seconds": 79.835198,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 3.63
+      },
+      {
+        "name": "StreamWriter(nombre))sw",
+        "total_seconds": 51.696551,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 2.35
+      },
+      {
+        "name": "sr",
+        "total_seconds": 15.964073,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.73
+      },
+      {
+        "name": "StreamWriter(ruta,append:))streamWriter",
+        "total_seconds": 15.54919,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.71
+      },
+      {
+        "name": "StreamWriter(RutaCompleta))sw",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 6136.182959,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "1:42:16",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ejercicio17",
+        "total_seconds": 6012.719252,
+        "digital": "1:40:12",
+        "decimal": "1.67",
+        "text": "1 hr 40 mins",
+        "hours": 1,
+        "minutes": 40,
+        "seconds": 12,
+        "percent": 97.99
+      },
+      {
+        "name": "Archivos",
+        "total_seconds": 123.463707,
+        "digital": "0:02:03",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 3,
+        "percent": 2.01
+      }
+    ],
+    "range": {
+      "start": "2023-10-14T22:00:00Z",
+      "end": "2023-10-15T21:59:59Z",
+      "date": "2023-10-15",
+      "text": "Sun Oct 15th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-14": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 11216.221861,
+        "digital": "3:06:56",
+        "decimal": "3.10",
+        "text": "3 hrs 6 mins",
+        "hours": 3,
+        "minutes": 6,
+        "seconds": 56,
+        "percent": 67.37
+      },
+      {
+        "name": "Other",
+        "total_seconds": 3513.567589,
+        "digital": "0:58:33",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 33,
+        "percent": 21.1
+      },
+      {
+        "name": "Text",
+        "total_seconds": 873.82337,
+        "digital": "0:14:33",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 33,
+        "percent": 5.25
+      },
+      {
+        "name": "SWIG",
+        "total_seconds": 507.207202,
+        "digital": "0:08:27",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 27,
+        "percent": 3.05
+      },
+      {
+        "name": "XML",
+        "total_seconds": 342.734966,
+        "digital": "0:05:42",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 42,
+        "percent": 2.06
+      },
+      {
+        "name": "Ezhil",
+        "total_seconds": 99.842719,
+        "digital": "0:01:39",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 39,
+        "percent": 0.6
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 95.648363,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 0.57
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 37,
+      "total_seconds": 16649.04607,
+      "digital": "4:37",
+      "decimal": "4.62",
+      "text": "4 hrs 37 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 13135.478481,
+        "digital": "3:38:55",
+        "decimal": "3.63",
+        "text": "3 hrs 38 mins",
+        "hours": 3,
+        "minutes": 38,
+        "seconds": 55,
+        "percent": 78.9
+      },
+      {
+        "name": "Firefox",
+        "total_seconds": 3513.567589,
+        "digital": "0:58:33",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 33,
+        "percent": 21.1
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 16649.04607,
+        "digital": "4:37:29",
+        "decimal": "4.62",
+        "text": "4 hrs 37 mins",
+        "hours": 4,
+        "minutes": 37,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 12221.487949,
+        "digital": "3:23:41",
+        "decimal": "3.38",
+        "text": "3 hrs 23 mins",
+        "hours": 3,
+        "minutes": 23,
+        "seconds": 41,
+        "percent": 73.41
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 3513.567589,
+        "digital": "0:58:33",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 33,
+        "percent": 21.1
+      },
+      {
+        "name": "Building",
+        "total_seconds": 853.75863,
+        "digital": "0:14:13",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 13,
+        "percent": 5.13
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 60.231902,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 0.36
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "StreamWriter(Ruta+Nombre+ExtensionSeleccionada(TipoDocumento)))sw",
+        "total_seconds": 2055.757763,
+        "digital": "0:34:15",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 15,
+        "percent": 24.1
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 1971.108706,
+        "digital": "0:32:51",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 51,
+        "percent": 23.11
+      },
+      {
+        "name": "StreamWriter(Ruta+Nombre+))sw",
+        "total_seconds": 1827.52864,
+        "digital": "0:30:27",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 27,
+        "percent": 21.43
+      },
+      {
+        "name": "DocumentosAlmacen",
+        "total_seconds": 823.959403,
+        "digital": "0:13:43",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 43,
+        "percent": 9.66
+      },
+      {
+        "name": "Ejercicio15_nuevo",
+        "total_seconds": 438.548967,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 5.14
+      },
+      {
+        "name": ">sw",
+        "total_seconds": 438.548967,
+        "digital": "0:07:18",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 18,
+        "percent": 5.14
+      },
+      {
+        "name": "StreamWriter(RutaCompleta))sw",
+        "total_seconds": 270.065879,
+        "digital": "0:04:30",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 30,
+        "percent": 3.17
+      },
+      {
+        "name": "StreamWriter(rutaCompleta))sw",
+        "total_seconds": 202.294652,
+        "digital": "0:03:22",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 22,
+        "percent": 2.37
+      },
+      {
+        "name": "StreamWriter(rutajson))sw",
+        "total_seconds": 156.397488,
+        "digital": "0:02:36",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 36,
+        "percent": 1.83
+      },
+      {
+        "name": "StreamReader(rutaStreamWriter))(!sr",
+        "total_seconds": 105.444124,
+        "digital": "0:01:45",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 45,
+        "percent": 1.24
+      },
+      {
+        "name": "StreamWriter(ruta,append:))sw",
+        "total_seconds": 105.444124,
+        "digital": "0:01:45",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 45,
+        "percent": 1.24
+      },
+      {
+        "name": "StreamWriter(rutaStreamWriter,append:))sw",
+        "total_seconds": 105.444124,
+        "digital": "0:01:45",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 45,
+        "percent": 1.24
+      },
+      {
+        "name": "jsonSerializer",
+        "total_seconds": 9.517973,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.11
+      },
+      {
+        "name": "JsonTextReader(StringReader()))jsonSerializer",
+        "total_seconds": 9.517973,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.11
+      },
+      {
+        "name": "StringUtils",
+        "total_seconds": 9.517973,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.11
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 13135.478481,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "3:38:55",
+        "decimal": "3.63",
+        "text": "3 hrs 38 mins",
+        "hours": 3,
+        "minutes": 38,
+        "seconds": 55,
+        "percent": 78.9
+      },
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 3513.567589,
+        "machine_name_id": "018b28c6-01b3-4032-8343-73f6437d9ec4",
+        "digital": "0:58:33",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 33,
+        "percent": 21.1
+      }
+    ],
+    "projects": [
+      {
+        "name": "DocumentosAlmacen",
+        "total_seconds": 10266.101553,
+        "digital": "2:51:06",
+        "decimal": "2.85",
+        "text": "2 hrs 51 mins",
+        "hours": 2,
+        "minutes": 51,
+        "seconds": 6,
+        "percent": 61.66
+      },
+      {
+        "name": "TEST_PHPMyAdmin",
+        "total_seconds": 3513.567589,
+        "digital": "0:58:33",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 33,
+        "percent": 21.1
+      },
+      {
+        "name": "Ejercicio15_nuevo",
+        "total_seconds": 2458.07257,
+        "digital": "0:40:58",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 58,
+        "percent": 14.76
+      },
+      {
+        "name": "Archivos",
+        "total_seconds": 411.304358,
+        "digital": "0:06:51",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 51,
+        "percent": 2.47
+      }
+    ],
+    "range": {
+      "start": "2023-10-13T22:00:00Z",
+      "end": "2023-10-14T21:59:59Z",
+      "date": "2023-10-14",
+      "text": "Sat Oct 14th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-13": {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 20394.367299,
+        "digital": "5:39:54",
+        "decimal": "5.65",
+        "text": "5 hrs 39 mins",
+        "hours": 5,
+        "minutes": 39,
+        "seconds": 54,
+        "percent": 68.17
+      },
+      {
+        "name": "C#",
+        "total_seconds": 8048.793807,
+        "digital": "2:14:08",
+        "decimal": "2.23",
+        "text": "2 hrs 14 mins",
+        "hours": 2,
+        "minutes": 14,
+        "seconds": 8,
+        "percent": 26.9
+      },
+      {
+        "name": "XML",
+        "total_seconds": 1082.916237,
+        "digital": "0:18:02",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 2,
+        "percent": 3.62
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 260.632701,
+        "digital": "0:04:20",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 20,
+        "percent": 0.87
+      },
+      {
+        "name": "Text",
+        "total_seconds": 62.354141,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 0.21
+      },
+      {
+        "name": "Objective-C",
+        "total_seconds": 51.193809,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 0.17
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 17.57136,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.06
+      }
+    ],
+    "grand_total": {
+      "hours": 8,
+      "minutes": 18,
+      "total_seconds": 29917.829354,
+      "digital": "8:18",
+      "decimal": "8.30",
+      "text": "8 hrs 18 mins"
+    },
+    "editors": [
+      {
+        "name": "Firefox",
+        "total_seconds": 20394.367299,
+        "digital": "5:39:54",
+        "decimal": "5.65",
+        "text": "5 hrs 39 mins",
+        "hours": 5,
+        "minutes": 39,
+        "seconds": 54,
+        "percent": 68.17
+      },
+      {
+        "name": "Visual Studio",
+        "total_seconds": 9262.829354,
+        "digital": "2:34:22",
+        "decimal": "2.57",
+        "text": "2 hrs 34 mins",
+        "hours": 2,
+        "minutes": 34,
+        "seconds": 22,
+        "percent": 30.96
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 260.632701,
+        "digital": "0:04:20",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 20,
+        "percent": 0.87
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 29917.829354,
+        "digital": "8:18:37",
+        "decimal": "8.30",
+        "text": "8 hrs 18 mins",
+        "hours": 8,
+        "minutes": 18,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 20394.367299,
+        "digital": "5:39:54",
+        "decimal": "5.65",
+        "text": "5 hrs 39 mins",
+        "hours": 5,
+        "minutes": 39,
+        "seconds": 54,
+        "percent": 68.17
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 8378.477231,
+        "digital": "2:19:38",
+        "decimal": "2.32",
+        "text": "2 hrs 19 mins",
+        "hours": 2,
+        "minutes": 19,
+        "seconds": 38,
+        "percent": 28
+      },
+      {
+        "name": "Building",
+        "total_seconds": 992.170503,
+        "digital": "0:16:32",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 32,
+        "percent": 3.32
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 152.814321,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 0.51
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "StreamWriter(ruta,append:))escritor",
+        "total_seconds": 421.908607,
+        "digital": "0:07:01",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 1,
+        "percent": 30.69
+      },
+      {
+        "name": "StreamWriter(,append:))escritor",
+        "total_seconds": 271.15329,
+        "digital": "0:04:31",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 31,
+        "percent": 19.72
+      },
+      {
+        "name": "actividad15",
+        "total_seconds": 149.418496,
+        "digital": "0:02:29",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 29,
+        "percent": 10.87
+      },
+      {
+        "name": ">sw",
+        "total_seconds": 149.418496,
+        "digital": "0:02:29",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 29,
+        "percent": 10.87
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 61.644101,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 4.48
+      },
+      {
+        "name": "sr",
+        "total_seconds": 60.537114,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 4.4
+      },
+      {
+        "name": "File",
+        "total_seconds": 60.537114,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 4.4
+      },
+      {
+        "name": "StreamWriter(ruta))sw",
+        "total_seconds": 60.537114,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 4.4
+      },
+      {
+        "name": "StreamWriter(rutaLista,append:))sw",
+        "total_seconds": 60.537114,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 4.4
+      },
+      {
+        "name": "StreamReader(rutaStreamWriter))(!sr",
+        "total_seconds": 21.953601,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 1.6
+      },
+      {
+        "name": "StreamWriter(ruta,append:))sw",
+        "total_seconds": 21.953601,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 1.6
+      },
+      {
+        "name": "StreamWriter(rutaStreamWriter,append:))sw",
+        "total_seconds": 21.953601,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 1.6
+      },
+      {
+        "name": "StreamWriter(ruta+))sw",
+        "total_seconds": 11.099091,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.81
+      },
+      {
+        "name": "StreamWriter(RutaCompleta))sw",
+        "total_seconds": 2.054986,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.15
+      }
+    ],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 20394.367299,
+        "machine_name_id": "018b28c6-01b3-4032-8343-73f6437d9ec4",
+        "digital": "5:39:54",
+        "decimal": "5.65",
+        "text": "5 hrs 39 mins",
+        "hours": 5,
+        "minutes": 39,
+        "seconds": 54,
+        "percent": 68.17
+      },
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 9523.462055,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "2:38:43",
+        "decimal": "2.63",
+        "text": "2 hrs 38 mins",
+        "hours": 2,
+        "minutes": 38,
+        "seconds": 43,
+        "percent": 31.83
+      }
+    ],
+    "projects": [
+      {
+        "name": "wakatime",
+        "total_seconds": 13180.933627,
+        "digital": "3:39:40",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 40,
+        "percent": 44.06
+      },
+      {
+        "name": "TEST_PHPMyAdmin",
+        "total_seconds": 7346.066373,
+        "digital": "2:02:26",
+        "decimal": "2.03",
+        "text": "2 hrs 2 mins",
+        "hours": 2,
+        "minutes": 2,
+        "seconds": 26,
+        "percent": 24.55
+      },
+      {
+        "name": "TodoSobreArchivos",
+        "total_seconds": 7222.5767,
+        "digital": "2:00:22",
+        "decimal": "2.00",
+        "text": "2 hrs",
+        "hours": 2,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 24.14
+      },
+      {
+        "name": "Ejercicio15_nuevo",
+        "total_seconds": 1798.037985,
+        "digital": "0:29:58",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 58,
+        "percent": 6.01
+      },
+      {
+        "name": "actividad15",
+        "total_seconds": 270.329495,
+        "digital": "0:04:30",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 30,
+        "percent": 0.9
+      },
+      {
+        "name": "Archivos",
+        "total_seconds": 88.885174,
+        "digital": "0:01:28",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 28,
+        "percent": 0.3
+      },
+      {
+        "name": "oauth",
+        "total_seconds": 11,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.04
+      }
+    ],
+    "range": {
+      "start": "2023-10-12T22:00:00Z",
+      "end": "2023-10-13T21:59:59Z",
+      "date": "2023-10-13",
+      "text": "Fri Oct 13th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-12": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 7878.49247,
+        "digital": "2:11:18",
+        "decimal": "2.18",
+        "text": "2 hrs 11 mins",
+        "hours": 2,
+        "minutes": 11,
+        "seconds": 18,
+        "percent": 58.31
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 3165.069472,
+        "digital": "0:52:45",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 45,
+        "percent": 23.42
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 923.826434,
+        "digital": "0:15:23",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 23,
+        "percent": 6.84
+      },
+      {
+        "name": "XML",
+        "total_seconds": 669.302164,
+        "digital": "0:11:09",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 9,
+        "percent": 4.95
+      },
+      {
+        "name": "Text",
+        "total_seconds": 636.315606,
+        "digital": "0:10:36",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 36,
+        "percent": 4.71
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 167.092534,
+        "digital": "0:02:47",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 47,
+        "percent": 1.24
+      },
+      {
+        "name": "SWIG",
+        "total_seconds": 72.361455,
+        "digital": "0:01:12",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 12,
+        "percent": 0.54
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 45,
+      "total_seconds": 13512.460135,
+      "digital": "3:45",
+      "decimal": "3.75",
+      "text": "3 hrs 45 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 9256.471695,
+        "digital": "2:34:16",
+        "decimal": "2.57",
+        "text": "2 hrs 34 mins",
+        "hours": 2,
+        "minutes": 34,
+        "seconds": 16,
+        "percent": 68.5
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 4255.98844,
+        "digital": "1:10:55",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 55,
+        "percent": 31.5
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13512.460135,
+        "digital": "3:45:12",
+        "decimal": "3.75",
+        "text": "3 hrs 45 mins",
+        "hours": 3,
+        "minutes": 45,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 12779.93456,
+        "digital": "3:32:59",
+        "decimal": "3.53",
+        "text": "3 hrs 32 mins",
+        "hours": 3,
+        "minutes": 32,
+        "seconds": 59,
+        "percent": 94.58
+      },
+      {
+        "name": "Building",
+        "total_seconds": 590.491977,
+        "digital": "0:09:50",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 50,
+        "percent": 4.37
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 142.033598,
+        "digital": "0:02:22",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 22,
+        "percent": 1.05
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "actividad15",
+        "total_seconds": 724.04042,
+        "digital": "0:12:04",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 4,
+        "percent": 26.57
+      },
+      {
+        "name": "StreamReader(rutaArchivo))(!sr",
+        "total_seconds": 505.581246,
+        "digital": "0:08:25",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 25,
+        "percent": 18.56
+      },
+      {
+        "name": "EjecicioIA1",
+        "total_seconds": 286.690327,
+        "digital": "0:04:46",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 10.52
+      },
+      {
+        "name": "transaccion",
+        "total_seconds": 225.368232,
+        "digital": "0:03:45",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 45,
+        "percent": 8.27
+      },
+      {
+        "name": ">sw",
+        "total_seconds": 140.789845,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 5.17
+      },
+      {
+        "name": "StreamReader(rutaStreamWriter))(!sr",
+        "total_seconds": 78.371557,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 2.88
+      },
+      {
+        "name": "StreamWriter(rutaStreamWriter,append:))sw",
+        "total_seconds": 78.371557,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 2.88
+      },
+      {
+        "name": "StreamWriter(ruta,append:))sw",
+        "total_seconds": 78.371557,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 2.88
+      },
+      {
+        "name": "StreamWriter(ruta2,append:))sw",
+        "total_seconds": 78.141789,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 2.87
+      },
+      {
+        "name": "StreamReader(rutaArchivo))(sr",
+        "total_seconds": 73.208699,
+        "digital": "0:01:13",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 13,
+        "percent": 2.69
+      },
+      {
+        "name": "File",
+        "total_seconds": 62.513706,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 2.29
+      },
+      {
+        "name": "StreamWriter(rutaLista,append:))sw",
+        "total_seconds": 62.513706,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 2.29
+      },
+      {
+        "name": "StreamWriter(ruta))sw",
+        "total_seconds": 62.513706,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 2.29
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 62.513706,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 2.29
+      },
+      {
+        "name": "sr",
+        "total_seconds": 62.513706,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 2.29
+      },
+      {
+        "name": "StreamWriter(ruta))(transacciontransacciones)escritor",
+        "total_seconds": 61.322095,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 2.25
+      },
+      {
+        "name": "(writer)(linecontents)writer",
+        "total_seconds": 9.952875,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.37
+      },
+      {
+        "name": "OpenHandle(path,mode,FileAccess",
+        "total_seconds": 9.952875,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.37
+      },
+      {
+        "name": "(writer)(linecontents)cancellationToken",
+        "total_seconds": 9.952875,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.37
+      },
+      {
+        "name": "AsyncStreamReader(path,encoding))cancellationToken",
+        "total_seconds": 9.952875,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.37
+      },
+      {
+        "name": "CancellationTokenSource",
+        "total_seconds": 9.952875,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.37
+      },
+      {
+        "name": "OpenHandle(path,FileMode",
+        "total_seconds": 9.952875,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.37
+      },
+      {
+        "name": "StreamReader(path,encoding,detectEncodingFromByteOrderMarks:)",
+        "total_seconds": 9.952875,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.37
+      },
+      {
+        "name": "StreamReader(path,encoding)",
+        "total_seconds": 9.952875,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.37
+      },
+      {
+        "name": "Actividad15",
+        "total_seconds": 2.147238,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.08
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 13512.460135,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "3:45:12",
+        "decimal": "3.75",
+        "text": "3 hrs 45 mins",
+        "hours": 3,
+        "minutes": 45,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "actividad15",
+        "total_seconds": 5944.656485,
+        "digital": "1:39:04",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 4,
+        "percent": 43.99
+      },
+      {
+        "name": "TEST_PHPMyAdmin",
+        "total_seconds": 3165.069472,
+        "digital": "0:52:45",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 45,
+        "percent": 23.42
+      },
+      {
+        "name": "EjecicioIA1",
+        "total_seconds": 3154.111594,
+        "digital": "0:52:34",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 34,
+        "percent": 23.34
+      },
+      {
+        "name": "HolaMundoPHP",
+        "total_seconds": 1019.224474,
+        "digital": "0:16:59",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 59,
+        "percent": 7.54
+      },
+      {
+        "name": "Archivos",
+        "total_seconds": 157.703616,
+        "digital": "0:02:37",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 37,
+        "percent": 1.17
+      },
+      {
+        "name": "webapp",
+        "total_seconds": 71.694494,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 0.53
+      }
+    ],
+    "range": {
+      "start": "2023-10-11T22:00:00Z",
+      "end": "2023-10-12T21:59:59Z",
+      "date": "2023-10-12",
+      "text": "Thu Oct 12th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-11": {
+    "languages": [],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
+    "range": {
+      "start": "2023-10-10T22:00:00Z",
+      "end": "2023-10-11T21:59:59Z",
+      "date": "2023-10-11",
+      "text": "Wed Oct 11th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-10": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 6183.005293,
+        "digital": "1:43:03",
+        "decimal": "1.72",
+        "text": "1 hr 43 mins",
+        "hours": 1,
+        "minutes": 43,
+        "seconds": 3,
+        "percent": 95.85
+      },
+      {
+        "name": "SWIG",
+        "total_seconds": 146.70052,
+        "digital": "0:02:26",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 26,
+        "percent": 2.27
+      },
+      {
+        "name": "Ezhil",
+        "total_seconds": 98.807981,
+        "digital": "0:01:38",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 38,
+        "percent": 1.53
+      },
+      {
+        "name": "XML",
+        "total_seconds": 12.196176,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.19
+      },
+      {
+        "name": "C++",
+        "total_seconds": 9.843432,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.15
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 47,
+      "total_seconds": 6450.553402,
+      "digital": "1:47",
+      "decimal": "1.78",
+      "text": "1 hr 47 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 6440.70997,
+        "digital": "1:47:20",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 20,
+        "percent": 99.85
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 9.843432,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.15
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6450.553402,
+        "digital": "1:47:30",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6161.047967,
+        "digital": "1:42:41",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 41,
+        "percent": 95.51
+      },
+      {
+        "name": "Building",
+        "total_seconds": 177.356165,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 2.75
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 112.14927,
+        "digital": "0:01:52",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 52,
+        "percent": 1.74
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "GestionAlmacen",
+        "total_seconds": 858.206447,
+        "digital": "0:14:18",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 18,
+        "percent": 82.74
+      },
+      {
+        "name": "Ejercicio13",
+        "total_seconds": 179.076279,
+        "digital": "0:02:59",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 59,
+        "percent": 17.26
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 6450.553402,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "1:47:30",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "GestionAlmacen",
+        "total_seconds": 6092.346593,
+        "color": null,
+        "digital": "1:41:32",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 32,
+        "percent": 94.45
+      },
+      {
+        "name": "Ejercicio13",
+        "total_seconds": 348.363377,
+        "color": null,
+        "digital": "0:05:48",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 48,
+        "percent": 5.4
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 9.843432,
+        "color": null,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.15
+      }
+    ],
+    "range": {
+      "start": "2023-10-09T22:00:00Z",
+      "end": "2023-10-10T21:59:59Z",
+      "date": "2023-10-10",
+      "text": "Tue Oct 10th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-10-09": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 3956.250039,
+        "digital": "1:05:56",
+        "decimal": "1.08",
+        "text": "1 hr 5 mins",
+        "hours": 1,
+        "minutes": 5,
+        "seconds": 56,
+        "percent": 73.57
+      },
+      {
+        "name": "C++",
+        "total_seconds": 775.682556,
+        "digital": "0:12:55",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 55,
+        "percent": 14.42
+      },
+      {
+        "name": "SWIG",
+        "total_seconds": 610.79353,
+        "digital": "0:10:10",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 10,
+        "percent": 11.36
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 15.420937,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.29
+      },
+      {
+        "name": "XML",
+        "total_seconds": 13.086257,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.24
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 6.430046,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.12
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 29,
+      "total_seconds": 5377.663365,
+      "digital": "1:29",
+      "decimal": "1.48",
+      "text": "1 hr 29 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 4580.129826,
+        "digital": "1:16:20",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 20,
+        "percent": 85.17
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 797.533539,
+        "digital": "0:13:17",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 17,
+        "percent": 14.83
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5377.663365,
+        "digital": "1:29:37",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4748.944068,
+        "digital": "1:19:08",
+        "decimal": "1.32",
+        "text": "1 hr 19 mins",
+        "hours": 1,
+        "minutes": 19,
+        "seconds": 8,
+        "percent": 88.31
+      },
+      {
+        "name": "Building",
+        "total_seconds": 531.007257,
+        "digital": "0:08:51",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 51,
+        "percent": 9.87
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 97.71204,
+        "digital": "0:01:37",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 37,
+        "percent": 1.82
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Ejercicio13",
+        "total_seconds": 3088.988722,
+        "digital": "0:51:28",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 5377.663365,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "1:29:37",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ejercicio13",
+        "total_seconds": 4580.129826,
+        "color": null,
+        "digital": "1:16:20",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 20,
+        "percent": 85.17
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 775.682556,
+        "color": null,
+        "digital": "0:12:55",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 55,
+        "percent": 14.42
+      },
+      {
+        "name": "webapp",
+        "total_seconds": 21.850983,
+        "color": null,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.41
+      },
+      {
+        "name": "Actividad14",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2023-10-08T22:00:00Z",
+      "end": "2023-10-09T21:59:59Z",
+      "date": "2023-10-09",
+      "text": "Mon Oct 9th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  }
+}
