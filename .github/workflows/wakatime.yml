@@ -1,9 +1,9 @@
-name: Update WakaTime Data
+name: Update WakaTime Data and Generate Chart
 
 on:
   schedule:
     - cron: '0 0 */14 * *'  
-  workflow_dispatch:      
+  workflow_dispatch:
 
 jobs:
   update-data:
@@ -24,16 +24,26 @@ jobs:
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       run: |
         npm install wakatime-to-json
-        npx wakatime-to-json -o ./wakatime-data.json
+        npx wakatime-to-json -o ./json_data/$(date +"%Y-%m-%d").json
 
+    - name: Set up Python and install dependencies
+      run: |
+        sudo apt-get install python3.8
+        python3 -m pip install matplotlib
+
+    - name: Run script to generate chart
+      run: |
+        python3 generate_chart.py
+
+    - name: Update README.md with the latest chart link
+      run: |
+        echo "![WakaTime languages chart](chart.png)" > README.md
 
     - name: Commit and push changes
       run: |
         git config user.name "GitHub Action"
         git config user.email "github-action@users.noreply.github.com"
         git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/3ntr0pia/3ntr0pia.git
-        git add wakatime-data.json
-        git commit -m "Update WakaTime data"
+        git add chart.png json_data/*.json README.md
+        git commit -m "Update WakaTime data, generate chart, and save accumulated data"
         git push
-
-
