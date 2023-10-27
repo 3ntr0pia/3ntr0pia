@@ -1,0 +1,100 @@
+{
+    "languages": [
+        {
+            "name": "C#",
+            "total_seconds": 51008.191084
+        },
+        {
+            "name": "JSON",
+            "total_seconds": 1233.8345919999997
+        },
+        {
+            "name": "SQL",
+            "total_seconds": 892.582318
+        },
+        {
+            "name": "Binary",
+            "total_seconds": 1194.508019
+        },
+        {
+            "name": "Text",
+            "total_seconds": 3780.7216740000003
+        },
+        {
+            "name": "XML",
+            "total_seconds": 1708.6933089999998
+        },
+        {
+            "name": "Java",
+            "total_seconds": 0
+        },
+        {
+            "name": "HTML",
+            "total_seconds": 13134.85497
+        },
+        {
+            "name": "C++",
+            "total_seconds": 4865.113344
+        },
+        {
+            "name": "PHP",
+            "total_seconds": 0
+        },
+        {
+            "name": "TypeScript",
+            "total_seconds": 10330.306198
+        },
+        {
+            "name": "C",
+            "total_seconds": 1318.114156
+        },
+        {
+            "name": "SCSS",
+            "total_seconds": 3.125774
+        },
+        {
+            "name": "TSConfig",
+            "total_seconds": 38.28806
+        },
+        {
+            "name": "CSS",
+            "total_seconds": 397.168858
+        },
+        {
+            "name": "YAML",
+            "total_seconds": 3227.178346
+        },
+        {
+            "name": "JavaScript",
+            "total_seconds": 381.373473
+        },
+        {
+            "name": "Brainfuck",
+            "total_seconds": 2.717018
+        },
+        {
+            "name": "ActionScript 3",
+            "total_seconds": 2.282943
+        },
+        {
+            "name": "Ezhil",
+            "total_seconds": 357.01692399999996
+        },
+        {
+            "name": "Markdown",
+            "total_seconds": 67.350434
+        },
+        {
+            "name": "SWIG",
+            "total_seconds": 1190.436444
+        },
+        {
+            "name": "Other",
+            "total_seconds": 23907.934888000003
+        },
+        {
+            "name": "Objective-C",
+            "total_seconds": 51.193809
+        }
+    ]
+}
