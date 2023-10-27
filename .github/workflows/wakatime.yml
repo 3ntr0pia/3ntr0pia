@@ -68,11 +68,6 @@ jobs:
         pwd
         ls -la
 
-    # Actualizar README.md con el enlace del gráfico más reciente
-    - name: Update README.md with the latest chart link
-      run: |
-        echo "![WakaTime languages chart](chart.png)" > README.md
-
     # Commit y push de los cambios
     - name: Commit and push changes
       run: |
