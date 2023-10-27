@@ -20,12 +20,10 @@ def accumulate_data():
         with open(latest_json_file, 'r') as f:
             new_data = json.load(f)
 
-        # Check if the data is structured by date
         if not any(isinstance(val, dict) and "languages" in val for val in new_data.values()):
             print(f"El archivo {latest_json_file} no contiene datos válidos.")
             return
 
-        # Extract and sum the languages data from each date
         all_languages = {}
         for date, data in new_data.items():
             for lang in data["languages"]:
@@ -36,7 +34,6 @@ def accumulate_data():
                 else:
                     all_languages[name] = total_seconds
 
-        # Convert the accumulated data into the expected format
         accumulated_languages = [{"name": name, "total_seconds": total_seconds} for name, total_seconds in all_languages.items()]
 
         if os.path.exists(ACCU_FILE):
@@ -63,25 +60,36 @@ def accumulate_data():
         print(f"Error en accumulate_data: {e}")
         return None
 
-def generate_radial_chart():
+def generate_doughnut_chart():
     try:
         data = accumulate_data()
         if not data:
             print("No se pudo generar la gráfica debido a la falta de datos.")
             return
         
-        # Filtrar los lenguajes especificados
         languages = [lang for lang in data["languages"] if lang["name"] not in ["Brainfuck", "Other", "Text"]]
-        names = [lang["name"] for lang in languages]
-        total_seconds = [lang["total_seconds"] for lang in languages]
-
-        # Crear un gráfico radial
-        plt.figure(figsize=(10,7))
-        plt.pie(total_seconds, labels=names, autopct='%1.1f%%', startangle=90, colors=plt.cm.Paired.colors)
-        plt.title('Languages Used Over Time')
+        languages.sort(key=lambda x: x["total_seconds"], reverse=True)
+        
+        top_5_languages = languages[:5]
+        others_seconds = sum([lang["total_seconds"] for lang in languages[5:]])
+        top_5_languages.append({"name": "Other Languages", "total_seconds": others_seconds})
+        
+        names = [lang["name"] for lang in top_5_languages]
+        total_seconds = [lang["total_seconds"] for lang in top_5_languages]
+        
+        colors = plt.cm.Paired.colors
+        
+        fig, ax = plt.subplots(figsize=(10,7))
+        wedges, texts, autotexts = ax.pie(total_seconds, labels=names, autopct='%1.1f%%', startangle=90, colors=colors, wedgeprops=dict(width=0.3))
+        
+        for text in texts + autotexts:
+            text.set_color('lightblue')
+        
+        ax.set_title('Top 5 Languages Used + Other Languages - Doughnut Chart')
         plt.tight_layout()
         plt.savefig('./chart.png')
-    except Exception as e:
-        print(f"Error en generate_radial_chart: {e}")
 
-generate_radial_chart()
+    except Exception as e:
+        print(f"Error en generate_doughnut_chart: {e}")
+
+generate_doughnut_chart()
