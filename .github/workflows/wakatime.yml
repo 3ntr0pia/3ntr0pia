@@ -58,6 +58,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install matplotlib
 
+    # Eliminar el gráfico existente
+    - name: Remove existing chart
+      run: |
+        if [ -f chart.png ]; then
+          rm chart.png
+        fi
+
     # Ejecutar script para generar gráfico
     - name: Run script to generate chart
       run: python3 generate_chart.py
