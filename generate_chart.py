@@ -21,7 +21,7 @@ def accumulate_data():
             new_data = json.load(f)
 
         if not any(isinstance(val, dict) and "languages" in val for val in new_data.values()):
-            print(f"El archivo {latest_json_file} no contiene datos válidos.")
+            print(f"El archivo {{latest_json_file}} no contiene datos válidos.")
             return
 
         all_languages = {}
@@ -57,7 +57,7 @@ def accumulate_data():
 
         return accu_data
     except Exception as e:
-        print(f"Error en accumulate_data: {e}")
+        print(f"Error en accumulate_data: {{e}}")
         return None
 
 def generate_doughnut_chart():
@@ -86,10 +86,15 @@ def generate_doughnut_chart():
             text.set_color('lightblue')
         
         ax.set_title('Top 5 Languages Used + Other Languages - Doughnut Chart')
+        
+        # Set transparent background
+        fig.patch.set_alpha(0.0)
+        ax.patch.set_alpha(0.0)
+        
         plt.tight_layout()
-        plt.savefig('./chart.png')
+        plt.savefig('./chart.png', transparent=True)
 
     except Exception as e:
-        print(f"Error en generate_doughnut_chart: {e}")
+        print(f"Error en generate_doughnut_chart: {{e}}")
 
 generate_doughnut_chart()
