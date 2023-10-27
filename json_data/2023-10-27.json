@@ -223,6 +223,7 @@
       {
         "name": "WebApiBiblioteca",
         "total_seconds": 2415.161479,
+        "color": null,
         "digital": "0:40:15",
         "decimal": "0.67",
         "text": "40 mins",
@@ -234,6 +235,7 @@
       {
         "name": "WebApiAlmacen",
         "total_seconds": 2157.676493,
+        "color": null,
         "digital": "0:35:57",
         "decimal": "0.58",
         "text": "35 mins",
@@ -245,6 +247,7 @@
       {
         "name": "spring-boot-web",
         "total_seconds": 32.559,
+        "color": null,
         "digital": "0:00:32",
         "decimal": "0.00",
         "text": "32 secs",
@@ -486,6 +489,7 @@
       {
         "name": "PruebaConInma",
         "total_seconds": 3803.331248,
+        "color": null,
         "digital": "1:03:23",
         "decimal": "1.05",
         "text": "1 hr 3 mins",
@@ -497,6 +501,7 @@
       {
         "name": "WebApiAlmacen",
         "total_seconds": 3116.368405,
+        "color": null,
         "digital": "0:51:56",
         "decimal": "0.85",
         "text": "51 mins",
@@ -508,6 +513,7 @@
       {
         "name": "cursodesarrolloweb",
         "total_seconds": 684.302469,
+        "color": null,
         "digital": "0:11:24",
         "decimal": "0.18",
         "text": "11 mins",
@@ -519,6 +525,7 @@
       {
         "name": "Unknown Project",
         "total_seconds": 2.206282,
+        "color": null,
         "digital": "0:00:02",
         "decimal": "0.00",
         "text": "2 secs",
