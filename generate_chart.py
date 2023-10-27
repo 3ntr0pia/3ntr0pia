@@ -20,9 +20,24 @@ def accumulate_data():
         with open(latest_json_file, 'r') as f:
             new_data = json.load(f)
 
-        if "languages" not in new_data or not new_data["languages"]:
+        # Check if the data is structured by date
+        if not any(isinstance(val, dict) and "languages" in val for val in new_data.values()):
             print(f"El archivo {latest_json_file} no contiene datos válidos.")
             return
+
+        # Extract and sum the languages data from each date
+        all_languages = {}
+        for date, data in new_data.items():
+            for lang in data["languages"]:
+                name = lang["name"]
+                total_seconds = lang["total_seconds"]
+                if name in all_languages:
+                    all_languages[name] += total_seconds
+                else:
+                    all_languages[name] = total_seconds
+
+        # Convert the accumulated data into the expected format
+        accumulated_languages = [{"name": name, "total_seconds": total_seconds} for name, total_seconds in all_languages.items()]
 
         if os.path.exists(ACCU_FILE):
             with open(ACCU_FILE, 'r') as f:
@@ -30,7 +45,7 @@ def accumulate_data():
         else:
             accu_data = {"languages": []}
 
-        for new_lang in new_data["languages"]:
+        for new_lang in accumulated_languages:
             found = False
             for accu_lang in accu_data["languages"]:
                 if accu_lang["name"] == new_lang["name"]:
