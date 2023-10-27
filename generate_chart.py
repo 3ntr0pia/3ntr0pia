@@ -63,25 +63,25 @@ def accumulate_data():
         print(f"Error en accumulate_data: {e}")
         return None
 
-def generate_chart():
+def generate_radial_chart():
     try:
         data = accumulate_data()
         if not data:
             print("No se pudo generar la gráfica debido a la falta de datos.")
             return
-        languages = data["languages"]
+        
+        # Filtrar los lenguajes especificados
+        languages = [lang for lang in data["languages"] if lang["name"] not in ["Brainfuck", "Other", "Text"]]
         names = [lang["name"] for lang in languages]
         total_seconds = [lang["total_seconds"] for lang in languages]
 
+        # Crear un gráfico radial
         plt.figure(figsize=(10,7))
-        plt.barh(names, total_seconds, color='skyblue')
-        plt.xlabel('Total Seconds')
-        plt.ylabel('Languages')
+        plt.pie(total_seconds, labels=names, autopct='%1.1f%%', startangle=90, colors=plt.cm.Paired.colors)
         plt.title('Languages Used Over Time')
-        plt.gca().invert_yaxis()
         plt.tight_layout()
-        plt.savefig('./chart.png')
+        plt.savefig('./radial_chart.png')
     except Exception as e:
-        print(f"Error en generate_chart: {e}")
+        print(f"Error en generate_radial_chart: {e}")
 
-generate_chart()
+generate_radial_chart()
