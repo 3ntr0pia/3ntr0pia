@@ -80,7 +80,7 @@ def generate_radial_chart():
         plt.pie(total_seconds, labels=names, autopct='%1.1f%%', startangle=90, colors=plt.cm.Paired.colors)
         plt.title('Languages Used Over Time')
         plt.tight_layout()
-        plt.savefig('./radial_chart.png')
+        plt.savefig('./chart.png')
     except Exception as e:
         print(f"Error en generate_radial_chart: {e}")
 
