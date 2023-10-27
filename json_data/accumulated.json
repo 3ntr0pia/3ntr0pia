@@ -2,27 +2,27 @@
     "languages": [
         {
             "name": "C#",
-            "total_seconds": 306049.146504
+            "total_seconds": 357057.337588
         },
         {
             "name": "JSON",
-            "total_seconds": 7403.007551999997
+            "total_seconds": 8636.842143999997
         },
         {
             "name": "SQL",
-            "total_seconds": 5355.4939079999995
+            "total_seconds": 6248.076225999999
         },
         {
             "name": "Binary",
-            "total_seconds": 7167.048114
+            "total_seconds": 8361.556133
         },
         {
             "name": "Text",
-            "total_seconds": 22684.330044000002
+            "total_seconds": 26465.051718000002
         },
         {
             "name": "XML",
-            "total_seconds": 10252.159854
+            "total_seconds": 11960.853163
         },
         {
             "name": "Java",
@@ -30,11 +30,11 @@
         },
         {
             "name": "HTML",
-            "total_seconds": 78809.12982
+            "total_seconds": 91943.98479
         },
         {
             "name": "C++",
-            "total_seconds": 29190.680064000004
+            "total_seconds": 34055.793408000005
         },
         {
             "name": "PHP",
@@ -42,59 +42,59 @@
         },
         {
             "name": "TypeScript",
-            "total_seconds": 61981.837188
+            "total_seconds": 72312.143386
         },
         {
             "name": "C",
-            "total_seconds": 7908.684936
+            "total_seconds": 9226.799092
         },
         {
             "name": "SCSS",
-            "total_seconds": 18.754644
+            "total_seconds": 21.880418
         },
         {
             "name": "TSConfig",
-            "total_seconds": 229.72836
+            "total_seconds": 268.01642000000004
         },
         {
             "name": "CSS",
-            "total_seconds": 2383.013148
+            "total_seconds": 2780.182006
         },
         {
             "name": "YAML",
-            "total_seconds": 19363.070076
+            "total_seconds": 22590.248422
         },
         {
             "name": "JavaScript",
-            "total_seconds": 2288.240838
+            "total_seconds": 2669.6143110000003
         },
         {
             "name": "Brainfuck",
-            "total_seconds": 16.302108
+            "total_seconds": 19.019126
         },
         {
             "name": "ActionScript 3",
-            "total_seconds": 13.697657999999999
+            "total_seconds": 15.980600999999998
         },
         {
             "name": "Ezhil",
-            "total_seconds": 2142.1015439999996
+            "total_seconds": 2499.1184679999997
         },
         {
             "name": "Markdown",
-            "total_seconds": 404.10260400000004
+            "total_seconds": 471.45303800000005
         },
         {
             "name": "SWIG",
-            "total_seconds": 7142.618664
+            "total_seconds": 8333.055108
         },
         {
             "name": "Other",
-            "total_seconds": 143447.60932800002
+            "total_seconds": 167355.544216
         },
         {
             "name": "Objective-C",
-            "total_seconds": 307.162854
+            "total_seconds": 358.35666299999997
         }
     ]
 }
