@@ -151,3 +151,7 @@ def combined_generate_chart():
 
 # Generate the combined chart
 combined_generate_chart()
+
+
+# Call the function to generate the combined chart
+combined_generate_chart_final_adjustments()
