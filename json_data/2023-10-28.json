@@ -212,6 +212,7 @@
       {
         "name": "WebApiBiblioteca",
         "total_seconds": 7003.465908,
+        "color": null,
         "digital": "1:56:43",
         "decimal": "1.93",
         "text": "1 hr 56 mins",
@@ -223,6 +224,7 @@
       {
         "name": "WebApiAlmacen",
         "total_seconds": 743.728379,
+        "color": null,
         "digital": "0:12:23",
         "decimal": "0.20",
         "text": "12 mins",
@@ -234,6 +236,7 @@
       {
         "name": "spring-boot-web",
         "total_seconds": 341.594,
+        "color": null,
         "digital": "0:05:41",
         "decimal": "0.08",
         "text": "5 mins",
