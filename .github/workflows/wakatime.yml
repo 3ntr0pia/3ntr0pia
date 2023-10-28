@@ -20,3 +20,82 @@ jobs:
     # Execute the Node.js script to generate charts
     - name: Generate charts using Node.js
       run: node generateCharts.js
+name: Update WakaTime Data and Generate Chart
+
+on:
+  schedule:
+    - cron: '0 0 */14 * *'  
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    # Asegurarse de que el directorio json_data exista
+    - name: Create json_data directory
+      run: |
+        mkdir -p json_data
+        cd json_data
+        ls -la
+      
+    - name: Check current working directory
+      run: pwd
+      
+    # Listar directorios después de crear json_data
+    - name: List directories after creating json_data
+      run: ls -la
+
+    # Configurar Node.js
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16' 
+
+    # Instalar y ejecutar wakatime-to-json
+    - name: Install and run wakatime-to-json
+      env:
+        WAKATIME_USER: ${{ secrets.WAKATIME_USER }}
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      run: |
+        npm install wakatime-to-json
+        npx wakatime-to-json -o ./json_data/$(date +"%Y-%m-%d").json
+
+    # Listar contenidos del directorio json_data
+    - name: List contents of json_data directory
+      run: ls -la json_data/
+
+    # Configurar Python
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x' 
+
+    # Instalar dependencias de Python
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install matplotlib
+
+    # Ejecutar script para generar gráfico
+    - name: Run script to generate chart
+      run: python3 generate_chart.py
+
+    # Mostrar directorio actual y listar archivos (para depuración)
+    - name: Show current directory and list files
+      run: |
+        pwd
+        ls -la
+
+    # Commit y push de los cambios
+    - name: Commit and push changes
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "github-action@users.noreply.github.com"
+        git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/3ntr0pia/3ntr0pia.git
+        git add chart.png json_data/*.json README.md
+        git commit -m "Update WakaTime data, generate chart, and save accumulated data"
+        git push
