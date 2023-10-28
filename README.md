@@ -86,6 +86,8 @@ Visit my social networks:
 </a></li>
 </ul>
 
+<h2 align="center"> Total number of hours registered by Language </h2>
+
 ![WakaTime languages chart](chart.png)
 
 ![Codewars Badge](https://www.codewars.com/users/3ntr0pia/badges/large)
