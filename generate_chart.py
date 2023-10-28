@@ -155,3 +155,27 @@ combined_generate_chart()
 
 # Call the function to generate the combined chart
 combined_generate_chart_final_adjustments()
+
+def combined_generate_chart_final_adjustments():
+    try:
+        data = accumulate_data_with_editors_adjusted()
+        if not data:
+            print("No se pudo generar la gráfica combinada debido a la falta de datos.")
+            return
+        
+        # Total time for languages
+        total_language_seconds = sum([lang["total_seconds"] for lang in data["languages"]])
+        
+        # Convert to hours
+        total_language_hours = total_language_seconds / 3600
+        
+        # Create a combined chart with two subplots
+        fig = plt.figure(figsize=(12, 14))
+        ax1 = fig.add_subplot(2, 1, 1)
+        ax2 = plt.subplot(2, 1, 2, polar=True)  # Ensure it's a PolarAxes instance
+        
+        
+
+
+# Call the function to generate the combined chart
+combined_generate_chart_final_adjustments()
