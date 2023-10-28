@@ -95,3 +95,79 @@ def generate_doughnut_chart():
         print(f"Error en generate_doughnut_chart: {e}")
 
 generate_doughnut_chart()
+
+
+def accumulate_ide_data():
+    ide_accu_file = './json_data/accumulateIDE.json'
+    try:
+        # Read the existing accumulateIDE.json file if it exists
+        with open(ide_accu_file, 'r') as f:
+            ide_data = json.load(f)
+    except FileNotFoundError:
+        ide_data = {"ides": []}
+    
+    # Read the latest JSON file for the day's data
+    latest_json_file = get_latest_json_file('./json_data')
+    with open(latest_json_file, 'r') as f:
+        latest_data = json.load(f)
+    
+    # Assuming that 'ides' key exists in the latest data (to be confirmed)
+    # Omit 'Firefox' from the IDE data
+    for ide in [i for i in latest_data.get('ides', []) if i['name'] != 'Firefox']:
+        # Convert total_seconds to total_hours
+        ide['total_hours'] = ide['total_seconds'] / 3600
+        
+        # Check if this IDE is already in the accumulated data
+        for accu_ide in ide_data['ides']:
+            if accu_ide['name'] == ide['name']:
+                accu_ide['total_hours'] += ide['total_hours']
+                break
+        else:
+            ide_data['ides'].append(ide)
+    
+    # Save the updated accumulateIDE.json file
+    with open(ide_accu_file, 'w') as f:
+        json.dump(ide_data, f, indent=4)
+
+
+def generate_ide_radar_chart():
+    # Read the accumulateIDE.json file
+    with open('./json_data/accumulateIDE.json', 'r') as f:
+        ide_data = json.load(f)
+    
+    # Extract IDE names and total_hours for the radar chart
+    ide_names = [ide['name'] for ide in ide_data['ides']]
+    total_hours = [ide['total_hours'] for ide in ide_data['ides']]
+    
+    # Create the radar chart
+    fig, ax = plt.subplots(figsize=(10, 10), subplot_kw=dict(polar=True))
+    ax.fill(ide_names, total_hours, color='b', alpha=0.6)
+    ax.set_title('IDE Usage', color='skyblue', path_effects=[PathEffects.withStroke(linewidth=3, foreground='black')])
+
+    # Save the radar chart as a PNG with a transparent background
+    plt.savefig('./json_data/ide_radar_chart.png', transparent=True)
+
+
+# Existing doughnut chart generation logic (truncated for simplicity)
+# ...
+
+# Add a title to the doughnut chart
+total_seconds = sum([lang['total_seconds'] for lang in accumulated_data['languages']])
+total_hours = total_seconds / 3600
+plt.title(f'Total Hours: {total_hours:.2f}', color='skyblue', path_effects=[PathEffects.withStroke(linewidth=3, foreground='black')])
+
+# Save the doughnut chart as a temporary PNG
+plt.savefig('./json_data/temp_doughnut_chart.png', transparent=True)
+
+# Combine the doughnut and radar charts into a single PNG image
+from PIL import Image
+
+doughnut_img = Image.open('./json_data/temp_doughnut_chart.png')
+radar_img = Image.open('./json_data/ide_radar_chart.png')
+
+combined_img = Image.new('RGBA', (doughnut_img.width, doughnut_img.height + radar_img.height))
+combined_img.paste(doughnut_img, (0, 0))
+combined_img.paste(radar_img, (0, doughnut_img.height))
+
+# Save the combined image
+combined_img.save('./json_data/combined_chart.png', 'PNG')
