@@ -1,25 +1,3 @@
-
-# Other existing configurations...
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    # Other existing steps...
-    
-    # Install Node.js and npm
-    - name: Setup Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'
-        
-    # Install npm packages
-    - name: Install npm packages
-      run: npm install chartjs-node-canvas
-    
-    # Execute the Node.js script to generate charts
-    - name: Generate charts using Node.js
-      run: node generateCharts.js
 name: Update WakaTime Data and Generate Chart
 
 on:
