@@ -1,46 +1,5 @@
 {
   "2023-10-31": {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 5,
-      "total_seconds": 327.305244,
-      "digital": "0:05",
-      "decimal": "0.08",
-      "text": "5 mins"
-    },
-    "range": {
-      "start": "2023-10-30T23:00:00Z",
-      "end": "2023-10-31T22:59:59Z",
-      "date": "2023-10-31",
-      "text": "Tue Oct 31st 2023",
-      "timezone": "Europe/Madrid"
-    },
-    "projects": [
-      {
-        "name": "dildogun",
-        "total_seconds": 327.305244,
-        "color": null,
-        "digital": "0:05:27",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 27,
-        "percent": 100
-      },
-      {
-        "name": "Unknown Project",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
         "name": "Lua",
@@ -76,33 +35,14 @@
         "percent": 0.33
       }
     ],
-    "dependencies": [
-      {
-        "name": "\"https://code.jquery.com/jquery-3.6.0.min.js\"",
-        "total_seconds": 1.093262,
-        "digital": "0:00:01",
-        "decimal": "0.00",
-        "text": "1 sec",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 1,
-        "percent": 100
-      }
-    ],
-    "machines": [
-      {
-        "name": "DESKTOP-MGRABQQ",
-        "total_seconds": 327.305244,
-        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
-        "digital": "0:05:27",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 27,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 5,
+      "total_seconds": 327.305244,
+      "digital": "0:05",
+      "decimal": "0.08",
+      "text": "5 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -141,7 +81,67 @@
         "seconds": 27,
         "percent": 100
       }
-    ]
+    ],
+    "dependencies": [
+      {
+        "name": "\"https://code.jquery.com/jquery-3.6.0.min.js\"",
+        "total_seconds": 1.093262,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 327.305244,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "0:05:27",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "dildogun",
+        "total_seconds": 327.305244,
+        "color": null,
+        "digital": "0:05:27",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 27,
+        "percent": 100
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2023-10-30T23:00:00Z",
+      "end": "2023-10-31T22:59:59Z",
+      "date": "2023-10-31",
+      "text": "Tue Oct 31st 2023",
+      "timezone": "Europe/Madrid"
+    }
   },
   "2023-10-30": {
     "languages": [
@@ -411,6 +411,7 @@
       {
         "name": "Grupo1",
         "total_seconds": 4964.411279,
+        "color": null,
         "digital": "1:22:44",
         "decimal": "1.37",
         "text": "1 hr 22 mins",
@@ -422,6 +423,7 @@
       {
         "name": "Le2d_Producto2",
         "total_seconds": 3260.264106,
+        "color": null,
         "digital": "0:54:20",
         "decimal": "0.90",
         "text": "54 mins",
@@ -433,6 +435,7 @@
       {
         "name": "AlquierVehiculos",
         "total_seconds": 1850.098,
+        "color": null,
         "digital": "0:30:50",
         "decimal": "0.50",
         "text": "30 mins",
@@ -444,6 +447,7 @@
       {
         "name": "Unknown Project",
         "total_seconds": 505.091489,
+        "color": null,
         "digital": "0:08:25",
         "decimal": "0.13",
         "text": "8 mins",
@@ -455,6 +459,7 @@
       {
         "name": "empleos",
         "total_seconds": 503.40123,
+        "color": null,
         "digital": "0:08:23",
         "decimal": "0.13",
         "text": "8 mins",
@@ -466,6 +471,7 @@
       {
         "name": "BibliotecaWebApiLau",
         "total_seconds": 84.772384,
+        "color": null,
         "digital": "0:01:24",
         "decimal": "0.02",
         "text": "1 min",
