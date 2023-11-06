@@ -2,71 +2,71 @@
     "languages": [
         {
             "name": "C#",
-            "total_seconds": 587470.054527
+            "total_seconds": 638102.072176
         },
         {
             "name": "JSON",
-            "total_seconds": 19435.981797999993
+            "total_seconds": 22120.317686999995
         },
         {
             "name": "SQL",
-            "total_seconds": 19849.129581999998
+            "total_seconds": 23916.070845
         },
         {
             "name": "Binary",
-            "total_seconds": 28302.509605
+            "total_seconds": 35949.419077
         },
         {
             "name": "Text",
-            "total_seconds": 45910.105576999995
+            "total_seconds": 48280.492332999995
         },
         {
             "name": "XML",
-            "total_seconds": 17038.769276000003
+            "total_seconds": 24795.700992000002
         },
         {
             "name": "Java",
-            "total_seconds": 19449.213862
+            "total_seconds": 49466.696497
         },
         {
             "name": "HTML",
-            "total_seconds": 177773.082262
+            "total_seconds": 193454.894162
         },
         {
             "name": "C++",
-            "total_seconds": 67230.837352
+            "total_seconds": 70615.42127800001
         },
         {
             "name": "PHP",
-            "total_seconds": 0
+            "total_seconds": 6442.385526
         },
         {
             "name": "TypeScript",
-            "total_seconds": 138024.397533
+            "total_seconds": 140119.172196
         },
         {
             "name": "C",
-            "total_seconds": 17135.484028
+            "total_seconds": 17141.640053
         },
         {
             "name": "SCSS",
-            "total_seconds": 40.635062
+            "total_seconds": 43.760836
         },
         {
             "name": "TSConfig",
-            "total_seconds": 506.3960219999999
+            "total_seconds": 509.6886139999999
         },
         {
             "name": "CSS",
-            "total_seconds": 7736.565634
+            "total_seconds": 10439.339084
         },
         {
             "name": "YAML",
-            "total_seconds": 37889.294027
+            "total_seconds": 43333.931606000006
         },
         {
             "name": "JavaScript",
-            "total_seconds": 37003.116157000004
+            "total_seconds": 53018.344561000005
         },
         {
             "name": "Brainfuck",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Markdown",
-            "total_seconds": 813.4778280000003
+            "total_seconds": 1297.0153210000003
         },
         {
             "name": "SWIG",
@@ -90,7 +90,7 @@
         },
         {
             "name": "Other",
-            "total_seconds": 198806.83244000003
+            "total_seconds": 200065.95670900002
         },
         {
             "name": "Objective-C",
@@ -98,19 +98,51 @@
         },
         {
             "name": "Lua",
-            "total_seconds": 626.644978
+            "total_seconds": 939.967467
         },
         {
             "name": "CSV",
-            "total_seconds": 3381.224066
+            "total_seconds": 5071.836099
         },
         {
             "name": "Java Properties",
-            "total_seconds": 1765.828
+            "total_seconds": 7857.385456
         },
         {
             "name": "Bash",
-            "total_seconds": 1490.005132
+            "total_seconds": 2454.47925
+        },
+        {
+            "name": "Properties",
+            "total_seconds": 2251.471241
+        },
+        {
+            "name": "Docker",
+            "total_seconds": 4574.998342
+        },
+        {
+            "name": "GitIgnore file",
+            "total_seconds": 3.166
+        },
+        {
+            "name": "textmate",
+            "total_seconds": 0.809
+        },
+        {
+            "name": "Batchfile",
+            "total_seconds": 0.693
+        },
+        {
+            "name": "Blender",
+            "total_seconds": 0
+        },
+        {
+            "name": "Image (jpeg)",
+            "total_seconds": 7.283
+        },
+        {
+            "name": "Image (png)",
+            "total_seconds": 6.362
         }
     ]
 }
