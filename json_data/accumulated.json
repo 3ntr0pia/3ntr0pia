@@ -1,0 +1,120 @@
+{
+    "languages": [
+        {
+            "name": "PHP",
+            "total_seconds": 9761.05743
+        },
+        {
+            "name": "Java",
+            "total_seconds": 46910.870635
+        },
+        {
+            "name": "YAML",
+            "total_seconds": 7249.596904999999
+        },
+        {
+            "name": "C#",
+            "total_seconds": 51676.747997
+        },
+        {
+            "name": "Docker",
+            "total_seconds": 5257.845342
+        },
+        {
+            "name": "Text",
+            "total_seconds": 2245.0689979999997
+        },
+        {
+            "name": "Markdown",
+            "total_seconds": 508.171493
+        },
+        {
+            "name": "XML",
+            "total_seconds": 7975.5807159999995
+        },
+        {
+            "name": "Properties",
+            "total_seconds": 3419.077241
+        },
+        {
+            "name": "HTML",
+            "total_seconds": 22075.995079
+        },
+        {
+            "name": "CSS",
+            "total_seconds": 3144.9539299999997
+        },
+        {
+            "name": "Java Properties",
+            "total_seconds": 6333.728456
+        },
+        {
+            "name": "SQL",
+            "total_seconds": 4280.204263
+        },
+        {
+            "name": "TypeScript",
+            "total_seconds": 1983.26569
+        },
+        {
+            "name": "GitIgnore file",
+            "total_seconds": 3.166
+        },
+        {
+            "name": "textmate",
+            "total_seconds": 0.809
+        },
+        {
+            "name": "Batchfile",
+            "total_seconds": 0.693
+        },
+        {
+            "name": "Bash",
+            "total_seconds": 964.474118
+        },
+        {
+            "name": "Other",
+            "total_seconds": 1259.124269
+        },
+        {
+            "name": "Binary",
+            "total_seconds": 7646.909471999999
+        },
+        {
+            "name": "Blender",
+            "total_seconds": 0
+        },
+        {
+            "name": "C++",
+            "total_seconds": 1995.3799530000001
+        },
+        {
+            "name": "Image (jpeg)",
+            "total_seconds": 7.283
+        },
+        {
+            "name": "Image (png)",
+            "total_seconds": 6.362
+        },
+        {
+            "name": "Lua",
+            "total_seconds": 313.322489
+        },
+        {
+            "name": "JavaScript",
+            "total_seconds": 16015.228404000001
+        },
+        {
+            "name": "CSV",
+            "total_seconds": 1690.612033
+        },
+        {
+            "name": "JSON",
+            "total_seconds": 2684.335889
+        },
+        {
+            "name": "TSConfig",
+            "total_seconds": 3.292592
+        }
+    ]
+}
