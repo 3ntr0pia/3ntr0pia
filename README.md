@@ -84,7 +84,7 @@ Visit my social networks:
 </a></li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=3ntr0pia"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=3ntr0pia&theme=dracula&layout=compact"/>
 
 ![Codewars Badge](https://www.codewars.com/users/3ntr0pia/badges/large)
 
