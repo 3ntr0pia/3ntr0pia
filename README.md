@@ -71,8 +71,6 @@ I'm proud to be a part of the Fractal Game Studios team. Currently, I'm juggling
 | ![Cinema4D](https://img.icons8.com/color/48/000000/cinema-4d.png) | Cinema4D | 🟡🟡⚪⚪⚪⚪ |
 
 
-
-
 Visit my social networks:
 <ul>
     <li><a href="https://twitter.com/Lau_3ntr0pia">
@@ -86,9 +84,7 @@ Visit my social networks:
 </a></li>
 </ul>
 
-<h2 align="center"> Total number of hours registered by Language </h2>
-
-![WakaTime languages chart](chart.png)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=3ntr0pia"/>
 
 ![Codewars Badge](https://www.codewars.com/users/3ntr0pia/badges/large)
 
