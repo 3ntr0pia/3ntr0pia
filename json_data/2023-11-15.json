@@ -1,0 +1,6805 @@
+{
+  "2023-11-14": {
+    "grand_total": {
+      "hours": 6,
+      "minutes": 55,
+      "total_seconds": 24946.130652,
+      "digital": "6:55",
+      "decimal": "6.92",
+      "text": "6 hrs 55 mins"
+    },
+    "range": {
+      "start": "2023-11-13T23:00:00Z",
+      "end": "2023-11-14T22:59:59Z",
+      "date": "2023-11-14",
+      "text": "Tue Nov 14th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "FP064_Producto2",
+        "total_seconds": 14996.720343,
+        "color": null,
+        "digital": "4:09:56",
+        "decimal": "4.15",
+        "text": "4 hrs 9 mins",
+        "hours": 4,
+        "minutes": 9,
+        "seconds": 56,
+        "percent": 60.12
+      },
+      {
+        "name": "LibreriaTarde",
+        "total_seconds": 4399.825622,
+        "color": null,
+        "digital": "1:13:19",
+        "decimal": "1.22",
+        "text": "1 hr 13 mins",
+        "hours": 1,
+        "minutes": 13,
+        "seconds": 19,
+        "percent": 17.64
+      },
+      {
+        "name": "DaypoTestGenerator",
+        "total_seconds": 3186.964809,
+        "color": null,
+        "digital": "0:53:06",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 6,
+        "percent": 12.78
+      },
+      {
+        "name": "Word-to-Smart-Test-master",
+        "total_seconds": 2346.827128,
+        "color": null,
+        "digital": "0:39:06",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 6,
+        "percent": 9.41
+      },
+      {
+        "name": "cursodesarrolloweb",
+        "total_seconds": 15.79275,
+        "color": null,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.06
+      }
+    ],
+    "languages": [
+      {
+        "name": "PHP",
+        "total_seconds": 15868.022432,
+        "digital": "4:24:28",
+        "decimal": "4.40",
+        "text": "4 hrs 24 mins",
+        "hours": 4,
+        "minutes": 24,
+        "seconds": 28,
+        "percent": 63.61
+      },
+      {
+        "name": "C#",
+        "total_seconds": 3896.420487,
+        "digital": "1:04:56",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 56,
+        "percent": 15.62
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 1682.568567,
+        "digital": "0:28:02",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 2,
+        "percent": 6.74
+      },
+      {
+        "name": "XML",
+        "total_seconds": 1409.023161,
+        "digital": "0:23:29",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 29,
+        "percent": 5.65
+      },
+      {
+        "name": "Text",
+        "total_seconds": 990.142236,
+        "digital": "0:16:30",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 30,
+        "percent": 3.97
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 614.570966,
+        "digital": "0:10:14",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 14,
+        "percent": 2.46
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 399.293917,
+        "digital": "0:06:39",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 39,
+        "percent": 1.6
+      },
+      {
+        "name": "Apache Config",
+        "total_seconds": 29.742738,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.12
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 15.835506,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.06
+      },
+      {
+        "name": "INI",
+        "total_seconds": 11.319738,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.05
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 9.612793,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.04
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 8.047962,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.03
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 7.157752,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.03
+      },
+      {
+        "name": "Other",
+        "total_seconds": 4.372397,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.02
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "'../lib/routes.php'",
+        "total_seconds": 7159.55118,
+        "digital": "1:59:19",
+        "decimal": "1.98",
+        "text": "1 hr 59 mins",
+        "hours": 1,
+        "minutes": 59,
+        "seconds": 19,
+        "percent": 46.32
+      },
+      {
+        "name": "LibreriaTarde",
+        "total_seconds": 3030.412764,
+        "digital": "0:50:30",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 30,
+        "percent": 19.61
+      },
+      {
+        "name": "'../controllers/tipo_actos/leer.php'",
+        "total_seconds": 1785.83479,
+        "digital": "0:29:45",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 45,
+        "percent": 11.55
+      },
+      {
+        "name": "'../controllers/actos/leer.php'",
+        "total_seconds": 1568.60028,
+        "digital": "0:26:08",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 8,
+        "percent": 10.15
+      },
+      {
+        "name": "'tipo_acto.php'",
+        "total_seconds": 913.06992,
+        "digital": "0:15:13",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 13,
+        "percent": 5.91
+      },
+      {
+        "name": "StreamWriter())serializer",
+        "total_seconds": 192.619135,
+        "digital": "0:03:12",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 12,
+        "percent": 1.25
+      },
+      {
+        "name": "JsonSerializer()",
+        "total_seconds": 166.776944,
+        "digital": "0:02:46",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 1.08
+      },
+      {
+        "name": "'../controllers/tipo_actos/crear.php'",
+        "total_seconds": 163.504996,
+        "digital": "0:02:43",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 43,
+        "percent": 1.06
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 148.90629,
+        "digital": "0:02:28",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 28,
+        "percent": 0.96
+      },
+      {
+        "name": "'../controllers/actos/crear.php'",
+        "total_seconds": 109.651494,
+        "digital": "0:01:49",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 49,
+        "percent": 0.71
+      },
+      {
+        "name": "'./modales.php'",
+        "total_seconds": 52.259976,
+        "digital": "0:00:52",
+        "decimal": "0.00",
+        "text": "52 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 52,
+        "percent": 0.34
+      },
+      {
+        "name": "XmlWriter",
+        "total_seconds": 42.593821,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 0.28
+      },
+      {
+        "name": "\"http://cdn.tutorialzine.com/misc/enhance/v1.js\"",
+        "total_seconds": 15.835506,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.1
+      },
+      {
+        "name": "\"js/jquery-1.7.2.min.js\"",
+        "total_seconds": 15.835506,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.1
+      },
+      {
+        "name": "\"assets/js/jquery.fileupload.js\"",
+        "total_seconds": 15.835506,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.1
+      },
+      {
+        "name": "\"assets/js/jquery.knob.js\"",
+        "total_seconds": 15.835506,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.1
+      },
+      {
+        "name": "\"assets/js/jquery.ui.widget.js\"",
+        "total_seconds": 15.835506,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.1
+      },
+      {
+        "name": "\"assets/js/jquery.iframe-transport.js\"",
+        "total_seconds": 15.835506,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.1
+      },
+      {
+        "name": "\"assets/js/script.js\"",
+        "total_seconds": 15.835506,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.1
+      },
+      {
+        "name": "'pdf2text.php'",
+        "total_seconds": 6.051617,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.04
+      },
+      {
+        "name": "'controllers/loginController.php'",
+        "total_seconds": 2.139852,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      },
+      {
+        "name": "'views/login.php'",
+        "total_seconds": 2.139852,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      },
+      {
+        "name": "'models/db.php'",
+        "total_seconds": 2.139852,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      },
+      {
+        "name": "WebApiAlmacen",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 24946.130652,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "6:55:46",
+        "decimal": "6.92",
+        "text": "6 hrs 55 mins",
+        "hours": 6,
+        "minutes": 55,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 16984.337,
+        "digital": "4:43:04",
+        "decimal": "4.72",
+        "text": "4 hrs 43 mins",
+        "hours": 4,
+        "minutes": 43,
+        "seconds": 4,
+        "percent": 68.08
+      },
+      {
+        "name": "Visual Studio",
+        "total_seconds": 7602.583181,
+        "digital": "2:06:42",
+        "decimal": "2.10",
+        "text": "2 hrs 6 mins",
+        "hours": 2,
+        "minutes": 6,
+        "seconds": 42,
+        "percent": 30.48
+      },
+      {
+        "name": "IntelliJ",
+        "total_seconds": 359.210471,
+        "digital": "0:05:59",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 59,
+        "percent": 1.44
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 24946.130652,
+        "digital": "6:55:46",
+        "decimal": "6.92",
+        "text": "6 hrs 55 mins",
+        "hours": 6,
+        "minutes": 55,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 22808.08314,
+        "digital": "6:20:08",
+        "decimal": "6.33",
+        "text": "6 hrs 20 mins",
+        "hours": 6,
+        "minutes": 20,
+        "seconds": 8,
+        "percent": 91.43
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 1841.554116,
+        "digital": "0:30:41",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 41,
+        "percent": 7.38
+      },
+      {
+        "name": "Building",
+        "total_seconds": 296.493396,
+        "digital": "0:04:56",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 56,
+        "percent": 1.19
+      }
+    ]
+  },
+  "2023-11-13": {
+    "grand_total": {
+      "hours": 3,
+      "minutes": 39,
+      "total_seconds": 13169.359965,
+      "digital": "3:39",
+      "decimal": "3.65",
+      "text": "3 hrs 39 mins"
+    },
+    "range": {
+      "start": "2023-11-12T23:00:00Z",
+      "end": "2023-11-13T22:59:59Z",
+      "date": "2023-11-13",
+      "text": "Mon Nov 13th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "FP064_Producto2",
+        "total_seconds": 9040.16554,
+        "color": null,
+        "digital": "2:30:40",
+        "decimal": "2.50",
+        "text": "2 hrs 30 mins",
+        "hours": 2,
+        "minutes": 30,
+        "seconds": 40,
+        "percent": 68.65
+      },
+      {
+        "name": "DaypoTestGenerator",
+        "total_seconds": 3953.41324,
+        "color": null,
+        "digital": "1:05:53",
+        "decimal": "1.08",
+        "text": "1 hr 5 mins",
+        "hours": 1,
+        "minutes": 5,
+        "seconds": 53,
+        "percent": 30.02
+      },
+      {
+        "name": "tests",
+        "total_seconds": 175.781185,
+        "color": null,
+        "digital": "0:02:55",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 55,
+        "percent": 1.33
+      }
+    ],
+    "languages": [
+      {
+        "name": "PHP",
+        "total_seconds": 8680.886472,
+        "digital": "2:24:40",
+        "decimal": "2.40",
+        "text": "2 hrs 24 mins",
+        "hours": 2,
+        "minutes": 24,
+        "seconds": 40,
+        "percent": 65.92
+      },
+      {
+        "name": "XML",
+        "total_seconds": 1465.910112,
+        "digital": "0:24:25",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 25,
+        "percent": 11.13
+      },
+      {
+        "name": "C#",
+        "total_seconds": 1281.523191,
+        "digital": "0:21:21",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 21,
+        "percent": 9.73
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 749.212423,
+        "digital": "0:12:29",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 29,
+        "percent": 5.69
+      },
+      {
+        "name": "Text",
+        "total_seconds": 477.108842,
+        "digital": "0:07:57",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 57,
+        "percent": 3.62
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 456.767514,
+        "digital": "0:07:36",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 36,
+        "percent": 3.47
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 39.302215,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.3
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 18.649196,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.14
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "'acto.php'",
+        "total_seconds": 3999.345765,
+        "digital": "1:06:39",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 39,
+        "percent": 40.11
+      },
+      {
+        "name": "'../controllers/actos/leer.php'",
+        "total_seconds": 2047.932615,
+        "digital": "0:34:07",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 7,
+        "percent": 20.54
+      },
+      {
+        "name": "StreamWriter())serializer",
+        "total_seconds": 1164.721737,
+        "digital": "0:19:24",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 24,
+        "percent": 11.68
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 1164.721737,
+        "digital": "0:19:24",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 24,
+        "percent": 11.68
+      },
+      {
+        "name": "'../lib/routes.php'",
+        "total_seconds": 487.412333,
+        "digital": "0:08:07",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 7,
+        "percent": 4.89
+      },
+      {
+        "name": "'tipo_acto_panel.php'",
+        "total_seconds": 239.397878,
+        "digital": "0:03:59",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 59,
+        "percent": 2.4
+      },
+      {
+        "name": "'ponenteProvisional'",
+        "total_seconds": 145.373165,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 1.46
+      },
+      {
+        "name": "'../../config/dbmysql.php'",
+        "total_seconds": 120.011312,
+        "digital": "0:02:00",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 0,
+        "percent": 1.2
+      },
+      {
+        "name": "'tipo_acto.php'",
+        "total_seconds": 116.522544,
+        "digital": "0:01:56",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 1.17
+      },
+      {
+        "name": "'../../models/actos.php'",
+        "total_seconds": 100.507509,
+        "digital": "0:01:40",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 40,
+        "percent": 1.01
+      },
+      {
+        "name": "'default.php'",
+        "total_seconds": 94.024713,
+        "digital": "0:01:34",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 34,
+        "percent": 0.94
+      },
+      {
+        "name": "'../includes/header.php'",
+        "total_seconds": 87.685949,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 0.88
+      },
+      {
+        "name": "'../controllers/actos/crear.php'",
+        "total_seconds": 84.197894,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 0.84
+      },
+      {
+        "name": "'../controllers/tipo_actos/crear.php'",
+        "total_seconds": 53.671425,
+        "digital": "0:00:53",
+        "decimal": "0.00",
+        "text": "53 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 53,
+        "percent": 0.54
+      },
+      {
+        "name": "'../../models/tipo_actos.php'",
+        "total_seconds": 19.503803,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.2
+      },
+      {
+        "name": "'controllers/loginController.php'",
+        "total_seconds": 13.5134,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.14
+      },
+      {
+        "name": "'views/login.php'",
+        "total_seconds": 13.5134,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.14
+      },
+      {
+        "name": "'models/db.php'",
+        "total_seconds": 13.5134,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.14
+      },
+      {
+        "name": "'routes.php'",
+        "total_seconds": 4.286327,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.04
+      },
+      {
+        "name": "'../controllers/tipo_actos/leer.php'",
+        "total_seconds": 1.849884,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.02
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 13169.359965,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "3:39:29",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 9215.946725,
+        "digital": "2:33:35",
+        "decimal": "2.55",
+        "text": "2 hrs 33 mins",
+        "hours": 2,
+        "minutes": 33,
+        "seconds": 35,
+        "percent": 69.98
+      },
+      {
+        "name": "Visual Studio",
+        "total_seconds": 3953.41324,
+        "digital": "1:05:53",
+        "decimal": "1.08",
+        "text": "1 hr 5 mins",
+        "hours": 1,
+        "minutes": 5,
+        "seconds": 53,
+        "percent": 30.02
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13169.359965,
+        "digital": "3:39:29",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 12712.592451,
+        "digital": "3:31:52",
+        "decimal": "3.52",
+        "text": "3 hrs 31 mins",
+        "hours": 3,
+        "minutes": 31,
+        "seconds": 52,
+        "percent": 96.53
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 323.628464,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 2.46
+      },
+      {
+        "name": "Building",
+        "total_seconds": 133.13905,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 1.01
+      }
+    ]
+  },
+  "2023-11-12": {
+    "grand_total": {
+      "hours": 8,
+      "minutes": 10,
+      "total_seconds": 29431.696246,
+      "digital": "8:10",
+      "decimal": "8.17",
+      "text": "8 hrs 10 mins"
+    },
+    "range": {
+      "start": "2023-11-11T23:00:00Z",
+      "end": "2023-11-12T22:59:59Z",
+      "date": "2023-11-12",
+      "text": "Sun Nov 12th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "FP064_Producto2",
+        "total_seconds": 25571.085624,
+        "color": null,
+        "digital": "7:06:11",
+        "decimal": "7.10",
+        "text": "7 hrs 6 mins",
+        "hours": 7,
+        "minutes": 6,
+        "seconds": 11,
+        "percent": 86.88
+      },
+      {
+        "name": "ConsoleApp1",
+        "total_seconds": 2055.512231,
+        "color": null,
+        "digital": "0:34:15",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 15,
+        "percent": 6.98
+      },
+      {
+        "name": "TEST",
+        "total_seconds": 1421.125631,
+        "color": null,
+        "digital": "0:23:41",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 41,
+        "percent": 4.83
+      },
+      {
+        "name": "weapons",
+        "total_seconds": 239.821149,
+        "color": null,
+        "digital": "0:03:59",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 59,
+        "percent": 0.81
+      },
+      {
+        "name": "producto2_fp064-main",
+        "total_seconds": 143.379611,
+        "color": null,
+        "digital": "0:02:23",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 23,
+        "percent": 0.49
+      },
+      {
+        "name": "Le2d_Producto2",
+        "total_seconds": 0.772,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "languages": [
+      {
+        "name": "PHP",
+        "total_seconds": 25441.3319,
+        "digital": "7:04:01",
+        "decimal": "7.07",
+        "text": "7 hrs 4 mins",
+        "hours": 7,
+        "minutes": 4,
+        "seconds": 1,
+        "percent": 86.44
+      },
+      {
+        "name": "C#",
+        "total_seconds": 1737.409802,
+        "digital": "0:28:57",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 57,
+        "percent": 5.9
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1670.12478,
+        "digital": "0:27:50",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 50,
+        "percent": 5.67
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 318.102429,
+        "digital": "0:05:18",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 18,
+        "percent": 1.08
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 81.743,
+        "digital": "0:01:21",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 21,
+        "percent": 0.28
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 49.355,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 0.17
+      },
+      {
+        "name": "INI",
+        "total_seconds": 49.223151,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 0.17
+      },
+      {
+        "name": "Text",
+        "total_seconds": 45.000131,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 0.15
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 14.743,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.05
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 13.394,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.05
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 11.269053,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.04
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "'../controllers/actos/leer.php'",
+        "total_seconds": 2765.71215,
+        "digital": "0:46:05",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 5,
+        "percent": 18.46
+      },
+      {
+        "name": "'controllers/loginController.php'",
+        "total_seconds": 1187.654124,
+        "digital": "0:19:47",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 47,
+        "percent": 7.93
+      },
+      {
+        "name": "'views/login.php'",
+        "total_seconds": 1187.654124,
+        "digital": "0:19:47",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 47,
+        "percent": 7.93
+      },
+      {
+        "name": "'config/db.php'",
+        "total_seconds": 1148.060202,
+        "digital": "0:19:08",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 8,
+        "percent": 7.66
+      },
+      {
+        "name": "'config/config.php'",
+        "total_seconds": 1059.447357,
+        "digital": "0:17:39",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 39,
+        "percent": 7.07
+      },
+      {
+        "name": "'db.php'",
+        "total_seconds": 1025.954779,
+        "digital": "0:17:05",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 5,
+        "percent": 6.85
+      },
+      {
+        "name": "'../models/actos.php'",
+        "total_seconds": 794.628862,
+        "digital": "0:13:14",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 14,
+        "percent": 5.3
+      },
+      {
+        "name": "'views/admin_panel.php'",
+        "total_seconds": 735.094,
+        "digital": "0:12:15",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 15,
+        "percent": 4.91
+      },
+      {
+        "name": "'models/db.php'",
+        "total_seconds": 698.906389,
+        "digital": "0:11:38",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 38,
+        "percent": 4.66
+      },
+      {
+        "name": "XmlDocument()",
+        "total_seconds": 681.146376,
+        "digital": "0:11:21",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 21,
+        "percent": 4.55
+      },
+      {
+        "name": "'../config/db.php'",
+        "total_seconds": 582.293439,
+        "digital": "0:09:42",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 42,
+        "percent": 3.89
+      },
+      {
+        "name": "'lib/router.php'",
+        "total_seconds": 580.317,
+        "digital": "0:09:40",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 40,
+        "percent": 3.87
+      },
+      {
+        "name": "'models/Usuario.php'",
+        "total_seconds": 523.015,
+        "digital": "0:08:43",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 43,
+        "percent": 3.49
+      },
+      {
+        "name": "'../../models/actos.php'",
+        "total_seconds": 251.10738,
+        "digital": "0:04:11",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 11,
+        "percent": 1.68
+      },
+      {
+        "name": "'../../models/db.php'",
+        "total_seconds": 211.53,
+        "digital": "0:03:31",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 31,
+        "percent": 1.41
+      },
+      {
+        "name": "'../config/Basemysql.php'",
+        "total_seconds": 205.473889,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 1.37
+      },
+      {
+        "name": "'../models/db.php'",
+        "total_seconds": 193.248,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 1.29
+      },
+      {
+        "name": "'config/Basemysql.php'",
+        "total_seconds": 140.110507,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 0.94
+      },
+      {
+        "name": "'models/actos.php'",
+        "total_seconds": 140.110507,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 0.94
+      },
+      {
+        "name": "'views/inscritos.php'",
+        "total_seconds": 122.452,
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 0.82
+      },
+      {
+        "name": "'views/acto.php'",
+        "total_seconds": 122.452,
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 0.82
+      },
+      {
+        "name": "'views/tipos_acto.php'",
+        "total_seconds": 122.452,
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 0.82
+      },
+      {
+        "name": "'views/speaker.php'",
+        "total_seconds": 122.452,
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 0.82
+      },
+      {
+        "name": "'../models/Acto.php'",
+        "total_seconds": 104.885,
+        "digital": "0:01:44",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 44,
+        "percent": 0.7
+      },
+      {
+        "name": "'../models/Usuario.php'",
+        "total_seconds": 88.363,
+        "digital": "0:01:28",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 28,
+        "percent": 0.59
+      },
+      {
+        "name": "'acto.php'",
+        "total_seconds": 61.43606,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 0.41
+      },
+      {
+        "name": "'../../config/Dbmysql.php'",
+        "total_seconds": 35.529015,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 0.24
+      },
+      {
+        "name": "'app/models/actos.php'",
+        "total_seconds": 23.61,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.16
+      },
+      {
+        "name": "'app/models/db.php'",
+        "total_seconds": 23.61,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.16
+      },
+      {
+        "name": "'/../models/Usuario.php'",
+        "total_seconds": 13.634,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.09
+      },
+      {
+        "name": "'/../models/db.php'",
+        "total_seconds": 13.634,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.09
+      },
+      {
+        "name": "'/models/db.php'",
+        "total_seconds": 7.929,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.05
+      },
+      {
+        "name": "'../../config/dbmysql.php'",
+        "total_seconds": 4.048365,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.03
+      },
+      {
+        "name": "'/models/Usuario.php'",
+        "total_seconds": 3.548,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.02
+      },
+      {
+        "name": "'../includes/header.php'",
+        "total_seconds": 2.897027,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      },
+      {
+        "name": "'../config/config.php'",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 29431.696246,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "8:10:31",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 31,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 18954.496241,
+        "digital": "5:15:54",
+        "decimal": "5.25",
+        "text": "5 hrs 15 mins",
+        "hours": 5,
+        "minutes": 15,
+        "seconds": 54,
+        "percent": 64.4
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 8421.687774,
+        "digital": "2:20:21",
+        "decimal": "2.33",
+        "text": "2 hrs 20 mins",
+        "hours": 2,
+        "minutes": 20,
+        "seconds": 21,
+        "percent": 28.61
+      },
+      {
+        "name": "Visual Studio",
+        "total_seconds": 2055.512231,
+        "digital": "0:34:15",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 15,
+        "percent": 6.98
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 29431.696246,
+        "digital": "8:10:31",
+        "decimal": "8.17",
+        "text": "8 hrs 10 mins",
+        "hours": 8,
+        "minutes": 10,
+        "seconds": 31,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 29113.593817,
+        "digital": "8:05:13",
+        "decimal": "8.08",
+        "text": "8 hrs 5 mins",
+        "hours": 8,
+        "minutes": 5,
+        "seconds": 13,
+        "percent": 98.92
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 304.886795,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 1.04
+      },
+      {
+        "name": "Building",
+        "total_seconds": 13.215634,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.04
+      }
+    ]
+  },
+  "2023-11-11": {
+    "grand_total": {
+      "hours": 5,
+      "minutes": 11,
+      "total_seconds": 18667.077071,
+      "digital": "5:11",
+      "decimal": "5.18",
+      "text": "5 hrs 11 mins"
+    },
+    "range": {
+      "start": "2023-11-10T23:00:00Z",
+      "end": "2023-11-11T22:59:59Z",
+      "date": "2023-11-11",
+      "text": "Sat Nov 11th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Le2d_Producto2",
+        "total_seconds": 9945.894,
+        "color": null,
+        "digital": "2:45:45",
+        "decimal": "2.75",
+        "text": "2 hrs 45 mins",
+        "hours": 2,
+        "minutes": 45,
+        "seconds": 45,
+        "percent": 53.28
+      },
+      {
+        "name": "FP064_Producto2",
+        "total_seconds": 5762.58395,
+        "color": null,
+        "digital": "1:36:02",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 2,
+        "percent": 30.87
+      },
+      {
+        "name": "ConsoleApp1",
+        "total_seconds": 1026.535446,
+        "color": null,
+        "digital": "0:17:06",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 6,
+        "percent": 5.5
+      },
+      {
+        "name": "Producto2_LAU",
+        "total_seconds": 1002.53905,
+        "color": null,
+        "digital": "0:16:42",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 42,
+        "percent": 5.37
+      },
+      {
+        "name": "WEAPON_ASSAULTRIFLE",
+        "total_seconds": 606.853212,
+        "color": null,
+        "digital": "0:10:06",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 6,
+        "percent": 3.25
+      },
+      {
+        "name": "TEST",
+        "total_seconds": 322.671413,
+        "color": null,
+        "digital": "0:05:22",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 22,
+        "percent": 1.73
+      }
+    ],
+    "languages": [
+      {
+        "name": "Java",
+        "total_seconds": 4871.101,
+        "digital": "1:21:11",
+        "decimal": "1.35",
+        "text": "1 hr 21 mins",
+        "hours": 1,
+        "minutes": 21,
+        "seconds": 11,
+        "percent": 26.09
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 4691.822825,
+        "digital": "1:18:11",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 11,
+        "percent": 25.13
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 4064.582,
+        "digital": "1:07:44",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 44,
+        "percent": 21.77
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 1177.42697,
+        "digital": "0:19:37",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 37,
+        "percent": 6.31
+      },
+      {
+        "name": "C#",
+        "total_seconds": 982.540053,
+        "digital": "0:16:22",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 22,
+        "percent": 5.26
+      },
+      {
+        "name": "Other",
+        "total_seconds": 929.524625,
+        "digital": "0:15:29",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 29,
+        "percent": 4.98
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 809.729,
+        "digital": "0:13:29",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 29,
+        "percent": 4.34
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 701.297205,
+        "digital": "0:11:41",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 41,
+        "percent": 3.76
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 149.967,
+        "digital": "0:02:29",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 29,
+        "percent": 0.8
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 129.204,
+        "digital": "0:02:09",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 9,
+        "percent": 0.69
+      },
+      {
+        "name": "Text",
+        "total_seconds": 115.887,
+        "digital": "0:01:55",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 55,
+        "percent": 0.62
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 43.995393,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 0.24
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "le2d.le2d",
+        "total_seconds": 4513.924,
+        "digital": "1:15:13",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 13,
+        "percent": 16.89
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 3993.497,
+        "digital": "1:06:33",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 33,
+        "percent": 14.94
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 3973.561,
+        "digital": "1:06:13",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 13,
+        "percent": 14.87
+      },
+      {
+        "name": "springframework.ui",
+        "total_seconds": 3502.425,
+        "digital": "0:58:22",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 22,
+        "percent": 13.11
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 3502.425,
+        "digital": "0:58:22",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 22,
+        "percent": 13.11
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js\"",
+        "total_seconds": 3024.095,
+        "digital": "0:50:24",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 24,
+        "percent": 11.32
+      },
+      {
+        "name": "springframework.validation",
+        "total_seconds": 2205.646,
+        "digital": "0:36:45",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 45,
+        "percent": 8.25
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 548.063,
+        "digital": "0:09:08",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 8,
+        "percent": 2.05
+      },
+      {
+        "name": "springframework.context",
+        "total_seconds": 546.84,
+        "digital": "0:09:06",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 6,
+        "percent": 2.05
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 256.962,
+        "digital": "0:04:16",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 16,
+        "percent": 0.96
+      },
+      {
+        "name": "'config/db.php'",
+        "total_seconds": 177.133,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 0.66
+      },
+      {
+        "name": "springframework.data",
+        "total_seconds": 138.836,
+        "digital": "0:02:18",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 18,
+        "percent": 0.52
+      },
+      {
+        "name": "jakarta.transaction",
+        "total_seconds": 95.653,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 0.36
+      },
+      {
+        "name": "'controllers/loginController.php'",
+        "total_seconds": 87.87,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 0.33
+      },
+      {
+        "name": "'views/login.php'",
+        "total_seconds": 87.87,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 0.33
+      },
+      {
+        "name": "springframework.boot",
+        "total_seconds": 63.078,
+        "digital": "0:01:03",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 3,
+        "percent": 0.24
+      },
+      {
+        "name": "jakarta.annotation",
+        "total_seconds": 3.693,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.01
+      },
+      {
+        "name": "'../models/actos.php'",
+        "total_seconds": 0.009,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 18667.077071,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "5:11:07",
+        "decimal": "5.18",
+        "text": "5 hrs 11 mins",
+        "hours": 5,
+        "minutes": 11,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 15391.750454,
+        "digital": "4:16:31",
+        "decimal": "4.27",
+        "text": "4 hrs 16 mins",
+        "hours": 4,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 82.45
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 2248.791171,
+        "digital": "0:37:28",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 28,
+        "percent": 12.05
+      },
+      {
+        "name": "Visual Studio",
+        "total_seconds": 1026.535446,
+        "digital": "0:17:06",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 6,
+        "percent": 5.5
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 18667.077071,
+        "digital": "5:11:07",
+        "decimal": "5.18",
+        "text": "5 hrs 11 mins",
+        "hours": 5,
+        "minutes": 11,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 18623.081678,
+        "digital": "5:10:23",
+        "decimal": "5.17",
+        "text": "5 hrs 10 mins",
+        "hours": 5,
+        "minutes": 10,
+        "seconds": 23,
+        "percent": 99.76
+      },
+      {
+        "name": "Building",
+        "total_seconds": 43.995393,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 0.24
+      }
+    ]
+  },
+  "2023-11-10": {
+    "grand_total": {
+      "hours": 4,
+      "minutes": 59,
+      "total_seconds": 17972.792853,
+      "digital": "4:59",
+      "decimal": "4.98",
+      "text": "4 hrs 59 mins"
+    },
+    "range": {
+      "start": "2023-11-09T23:00:00Z",
+      "end": "2023-11-10T22:59:59Z",
+      "date": "2023-11-10",
+      "text": "Fri Nov 10th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Le2d_Producto2",
+        "total_seconds": 10587.672722,
+        "color": null,
+        "digital": "2:56:27",
+        "decimal": "2.93",
+        "text": "2 hrs 56 mins",
+        "hours": 2,
+        "minutes": 56,
+        "seconds": 27,
+        "percent": 58.91
+      },
+      {
+        "name": "LibreriaTarde",
+        "total_seconds": 5896.642131,
+        "color": null,
+        "digital": "1:38:16",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 16,
+        "percent": 32.81
+      },
+      {
+        "name": "Producto2_LAU",
+        "total_seconds": 1484.179,
+        "color": null,
+        "digital": "0:24:44",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 44,
+        "percent": 8.26
+      },
+      {
+        "name": "FP064_Producto2",
+        "total_seconds": 4.299,
+        "color": null,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.02
+      }
+    ],
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 5070.659391,
+        "digital": "1:24:30",
+        "decimal": "1.40",
+        "text": "1 hr 24 mins",
+        "hours": 1,
+        "minutes": 24,
+        "seconds": 30,
+        "percent": 28.21
+      },
+      {
+        "name": "Java",
+        "total_seconds": 5028.229722,
+        "digital": "1:23:48",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 48,
+        "percent": 27.98
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 4911.295,
+        "digital": "1:21:51",
+        "decimal": "1.35",
+        "text": "1 hr 21 mins",
+        "hours": 1,
+        "minutes": 21,
+        "seconds": 51,
+        "percent": 27.33
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 1431.111,
+        "digital": "0:23:51",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 51,
+        "percent": 7.96
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 825.98274,
+        "digital": "0:13:45",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 45,
+        "percent": 4.6
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 632.058,
+        "digital": "0:10:32",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 32,
+        "percent": 3.52
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 55.685,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 0.31
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 16.08,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.09
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 1.692,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "le2d.le2d",
+        "total_seconds": 4360.776722,
+        "digital": "1:12:40",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 40,
+        "percent": 16.79
+      },
+      {
+        "name": "LibreriaTarde",
+        "total_seconds": 4297.589487,
+        "digital": "1:11:37",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 37,
+        "percent": 16.55
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 3853.669722,
+        "digital": "1:04:13",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 13,
+        "percent": 14.84
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 3350.535,
+        "digital": "0:55:50",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 50,
+        "percent": 12.9
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js\"",
+        "total_seconds": 3005.631,
+        "digital": "0:50:05",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 5,
+        "percent": 11.57
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 1717.186722,
+        "digital": "0:28:37",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 37,
+        "percent": 6.61
+      },
+      {
+        "name": "springframework.ui",
+        "total_seconds": 1513.505,
+        "digital": "0:25:13",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 13,
+        "percent": 5.83
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 1513.505,
+        "digital": "0:25:13",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 13,
+        "percent": 5.83
+      },
+      {
+        "name": "springframework.context",
+        "total_seconds": 1103.129722,
+        "digital": "0:18:23",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 23,
+        "percent": 4.25
+      },
+      {
+        "name": "jakarta.transaction",
+        "total_seconds": 555.979,
+        "digital": "0:09:15",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 15,
+        "percent": 2.14
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 243.791,
+        "digital": "0:04:03",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 3,
+        "percent": 0.94
+      },
+      {
+        "name": "springframework.validation",
+        "total_seconds": 237.86,
+        "digital": "0:03:57",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 57,
+        "percent": 0.92
+      },
+      {
+        "name": "springframework.data",
+        "total_seconds": 217.201,
+        "digital": "0:03:37",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 37,
+        "percent": 0.84
+      },
+      {
+        "name": "slf4j.Logger",
+        "total_seconds": 0.053,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "springframework.util",
+        "total_seconds": 0.053,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "slf4j.LoggerFactory",
+        "total_seconds": 0.053,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 17972.792853,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "4:59:32",
+        "decimal": "4.98",
+        "text": "4 hrs 59 mins",
+        "hours": 4,
+        "minutes": 59,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 12076.150722,
+        "digital": "3:21:16",
+        "decimal": "3.35",
+        "text": "3 hrs 21 mins",
+        "hours": 3,
+        "minutes": 21,
+        "seconds": 16,
+        "percent": 67.19
+      },
+      {
+        "name": "Visual Studio",
+        "total_seconds": 5896.642131,
+        "digital": "1:38:16",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 16,
+        "percent": 32.81
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 17972.792853,
+        "digital": "4:59:32",
+        "decimal": "4.98",
+        "text": "4 hrs 59 mins",
+        "hours": 4,
+        "minutes": 59,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 17146.810113,
+        "digital": "4:45:46",
+        "decimal": "4.75",
+        "text": "4 hrs 45 mins",
+        "hours": 4,
+        "minutes": 45,
+        "seconds": 46,
+        "percent": 95.4
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 737.624274,
+        "digital": "0:12:17",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 17,
+        "percent": 4.1
+      },
+      {
+        "name": "Building",
+        "total_seconds": 88.358466,
+        "digital": "0:01:28",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 28,
+        "percent": 0.49
+      }
+    ]
+  },
+  "2023-11-09": {
+    "grand_total": {
+      "hours": 4,
+      "minutes": 12,
+      "total_seconds": 15166.971852,
+      "digital": "4:12",
+      "decimal": "4.20",
+      "text": "4 hrs 12 mins"
+    },
+    "range": {
+      "start": "2023-11-08T23:00:00Z",
+      "end": "2023-11-09T22:59:59Z",
+      "date": "2023-11-09",
+      "text": "Thu Nov 9th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Producto2_LAU",
+        "total_seconds": 10269.621298,
+        "color": null,
+        "digital": "2:51:09",
+        "decimal": "2.85",
+        "text": "2 hrs 51 mins",
+        "hours": 2,
+        "minutes": 51,
+        "seconds": 9,
+        "percent": 67.71
+      },
+      {
+        "name": "app",
+        "total_seconds": 2432.670082,
+        "color": null,
+        "digital": "0:40:32",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 32,
+        "percent": 16.04
+      },
+      {
+        "name": "Le2d_Producto2",
+        "total_seconds": 1033.461,
+        "color": null,
+        "digital": "0:17:13",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 13,
+        "percent": 6.81
+      },
+      {
+        "name": "WinFormsApp1",
+        "total_seconds": 563.447252,
+        "color": null,
+        "digital": "0:09:23",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 23,
+        "percent": 3.71
+      },
+      {
+        "name": "FP064_Producto2",
+        "total_seconds": 517.394,
+        "color": null,
+        "digital": "0:08:37",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 37,
+        "percent": 3.41
+      },
+      {
+        "name": "producto2_fp064-main",
+        "total_seconds": 295.790716,
+        "color": null,
+        "digital": "0:04:55",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 55,
+        "percent": 1.95
+      },
+      {
+        "name": "views",
+        "total_seconds": 54.587504,
+        "color": null,
+        "digital": "0:00:54",
+        "decimal": "0.00",
+        "text": "54 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 0.36
+      }
+    ],
+    "languages": [
+      {
+        "name": "PHP",
+        "total_seconds": 10840.092044,
+        "digital": "3:00:40",
+        "decimal": "3.00",
+        "text": "3 hrs",
+        "hours": 3,
+        "minutes": 0,
+        "seconds": 40,
+        "percent": 71.47
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 2713.991969,
+        "digital": "0:45:13",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 13,
+        "percent": 17.89
+      },
+      {
+        "name": "Java",
+        "total_seconds": 582.002,
+        "digital": "0:09:42",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 42,
+        "percent": 3.84
+      },
+      {
+        "name": "C#",
+        "total_seconds": 563.447252,
+        "digital": "0:09:23",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 23,
+        "percent": 3.71
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 194.018,
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 1.28
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 164.415587,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 1.08
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 101.05,
+        "digital": "0:01:41",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 41,
+        "percent": 0.67
+      },
+      {
+        "name": "XML",
+        "total_seconds": 4.9,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.03
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 2.864,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      },
+      {
+        "name": "Text",
+        "total_seconds": 0.191,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "'config/db.php'",
+        "total_seconds": 1053.751541,
+        "digital": "0:17:33",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 33,
+        "percent": 13.6
+      },
+      {
+        "name": "'./config/db.php'",
+        "total_seconds": 705.230641,
+        "digital": "0:11:45",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 45,
+        "percent": 9.1
+      },
+      {
+        "name": "'./models/Usuario.php'",
+        "total_seconds": 705.230641,
+        "digital": "0:11:45",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 45,
+        "percent": 9.1
+      },
+      {
+        "name": "'controllers/loginController.php'",
+        "total_seconds": 585.260541,
+        "digital": "0:09:45",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 45,
+        "percent": 7.55
+      },
+      {
+        "name": "'views/login.php'",
+        "total_seconds": 585.260541,
+        "digital": "0:09:45",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 45,
+        "percent": 7.55
+      },
+      {
+        "name": "le2d.le2d",
+        "total_seconds": 579.787,
+        "digital": "0:09:39",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 39,
+        "percent": 7.48
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 579.787,
+        "digital": "0:09:39",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 39,
+        "percent": 7.48
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 437.582,
+        "digital": "0:07:17",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 5.65
+      },
+      {
+        "name": "springframework.ui",
+        "total_seconds": 437.297,
+        "digital": "0:07:17",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 5.64
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 437.297,
+        "digital": "0:07:17",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 5.64
+      },
+      {
+        "name": "springframework.validation",
+        "total_seconds": 437.182,
+        "digital": "0:07:17",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 5.64
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js\"",
+        "total_seconds": 435.284,
+        "digital": "0:07:15",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 15,
+        "percent": 5.62
+      },
+      {
+        "name": "'../config/db.php'",
+        "total_seconds": 147.897,
+        "digital": "0:02:27",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 27,
+        "percent": 1.91
+      },
+      {
+        "name": "'../models/Usuario.php'",
+        "total_seconds": 147.897,
+        "digital": "0:02:27",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 27,
+        "percent": 1.91
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 143.281,
+        "digital": "0:02:23",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 23,
+        "percent": 1.85
+      },
+      {
+        "name": "springframework.context",
+        "total_seconds": 142.996,
+        "digital": "0:02:22",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 22,
+        "percent": 1.85
+      },
+      {
+        "name": "'views/register.php'",
+        "total_seconds": 87.702,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 1.13
+      },
+      {
+        "name": "'controllers/registerController.php'",
+        "total_seconds": 61.579,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 0.79
+      },
+      {
+        "name": "'../../db_connection.php'",
+        "total_seconds": 37.776516,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.49
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 1.424,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.02
+      },
+      {
+        "name": "slf4j.Logger",
+        "total_seconds": 0.183,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "slf4j.LoggerFactory",
+        "total_seconds": 0.183,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "springframework.util",
+        "total_seconds": 0.183,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 15166.971852,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "4:12:46",
+        "decimal": "4.20",
+        "text": "4 hrs 12 mins",
+        "hours": 4,
+        "minutes": 12,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 11456.34581,
+        "digital": "3:10:56",
+        "decimal": "3.17",
+        "text": "3 hrs 10 mins",
+        "hours": 3,
+        "minutes": 10,
+        "seconds": 56,
+        "percent": 75.53
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 3147.17879,
+        "digital": "0:52:27",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 27,
+        "percent": 20.75
+      },
+      {
+        "name": "Visual Studio",
+        "total_seconds": 563.447252,
+        "digital": "0:09:23",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 23,
+        "percent": 3.71
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 15166.971852,
+        "digital": "4:12:46",
+        "decimal": "4.20",
+        "text": "4 hrs 12 mins",
+        "hours": 4,
+        "minutes": 12,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 15166.971852,
+        "digital": "4:12:46",
+        "decimal": "4.20",
+        "text": "4 hrs 12 mins",
+        "hours": 4,
+        "minutes": 12,
+        "seconds": 46,
+        "percent": 100
+      }
+    ]
+  },
+  "2023-11-08": {
+    "grand_total": {
+      "hours": 3,
+      "minutes": 15,
+      "total_seconds": 11714.126179,
+      "digital": "3:15",
+      "decimal": "3.25",
+      "text": "3 hrs 15 mins"
+    },
+    "range": {
+      "start": "2023-11-07T23:00:00Z",
+      "end": "2023-11-08T22:59:59Z",
+      "date": "2023-11-08",
+      "text": "Wed Nov 8th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "LibreriaTarde",
+        "total_seconds": 6231.603207,
+        "color": null,
+        "digital": "1:43:51",
+        "decimal": "1.72",
+        "text": "1 hr 43 mins",
+        "hours": 1,
+        "minutes": 43,
+        "seconds": 51,
+        "percent": 53.2
+      },
+      {
+        "name": "Producto2_LAU",
+        "total_seconds": 2940.555972,
+        "color": null,
+        "digital": "0:49:00",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 0,
+        "percent": 25.1
+      },
+      {
+        "name": "Le2d_Producto2",
+        "total_seconds": 2541.967,
+        "color": null,
+        "digital": "0:42:21",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 21,
+        "percent": 21.7
+      }
+    ],
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 3994.056499,
+        "digital": "1:06:34",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 34,
+        "percent": 34.1
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 2781.202972,
+        "digital": "0:46:21",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 21,
+        "percent": 23.74
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 1976.860603,
+        "digital": "0:32:56",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 56,
+        "percent": 16.88
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 1908.788927,
+        "digital": "0:31:48",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 48,
+        "percent": 16.29
+      },
+      {
+        "name": "Java",
+        "total_seconds": 627.230073,
+        "digital": "0:10:27",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 27,
+        "percent": 5.35
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 159.272,
+        "digital": "0:02:39",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 39,
+        "percent": 1.36
+      },
+      {
+        "name": "Text",
+        "total_seconds": 142.571762,
+        "digital": "0:02:22",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 22,
+        "percent": 1.22
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 71.736419,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 0.61
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 46.467924,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.4
+      },
+      {
+        "name": "XML",
+        "total_seconds": 5.939,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.05
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "LibreriaTarde",
+        "total_seconds": 2883.438472,
+        "digital": "0:48:03",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 3,
+        "percent": 28.86
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js\"",
+        "total_seconds": 1834.887927,
+        "digital": "0:30:34",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 34,
+        "percent": 18.37
+      },
+      {
+        "name": "'config/db.php'",
+        "total_seconds": 654.230263,
+        "digital": "0:10:54",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 54,
+        "percent": 6.55
+      },
+      {
+        "name": "le2d.le2d",
+        "total_seconds": 619.759073,
+        "digital": "0:10:19",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 19,
+        "percent": 6.2
+      },
+      {
+        "name": "'index.php'",
+        "total_seconds": 609.15275,
+        "digital": "0:10:09",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 6.1
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 590.166073,
+        "digital": "0:09:50",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 50,
+        "percent": 5.91
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 588.249073,
+        "digital": "0:09:48",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 48,
+        "percent": 5.89
+      },
+      {
+        "name": "springframework.context",
+        "total_seconds": 588.035073,
+        "digital": "0:09:48",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 48,
+        "percent": 5.89
+      },
+      {
+        "name": "'Usuario.php'",
+        "total_seconds": 350.372393,
+        "digital": "0:05:50",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 50,
+        "percent": 3.51
+      },
+      {
+        "name": "'db.php'",
+        "total_seconds": 303.220687,
+        "digital": "0:05:03",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 3,
+        "percent": 3.04
+      },
+      {
+        "name": "'controllers/loginController.php'",
+        "total_seconds": 234.107777,
+        "digital": "0:03:54",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 54,
+        "percent": 2.34
+      },
+      {
+        "name": "'./config/db.php'",
+        "total_seconds": 173.244878,
+        "digital": "0:02:53",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 53,
+        "percent": 1.73
+      },
+      {
+        "name": "'views/login.php'",
+        "total_seconds": 144.324,
+        "digital": "0:02:24",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 24,
+        "percent": 1.44
+      },
+      {
+        "name": "'./models/Usuario.php'",
+        "total_seconds": 101.456,
+        "digital": "0:01:41",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 41,
+        "percent": 1.02
+      },
+      {
+        "name": "'models/Usuario.php'",
+        "total_seconds": 85.535479,
+        "digital": "0:01:25",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 25,
+        "percent": 0.86
+      },
+      {
+        "name": "'././models/Usuario.php'",
+        "total_seconds": 71.788878,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 0.72
+      },
+      {
+        "name": "'cdb.php'",
+        "total_seconds": 47.151706,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 0.47
+      },
+      {
+        "name": ">optionsBuilder",
+        "total_seconds": 35.405562,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 0.35
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 32.707,
+        "digital": "0:00:32",
+        "decimal": "0.00",
+        "text": "32 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 32,
+        "percent": 0.33
+      },
+      {
+        "name": "springframework.data",
+        "total_seconds": 29.133,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.29
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 6.488,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.06
+      },
+      {
+        "name": "springframework.ui",
+        "total_seconds": 2.9,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 2.9,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      },
+      {
+        "name": "jakarta.annotation",
+        "total_seconds": 0.46,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "springframework.validation",
+        "total_seconds": 0.2,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "slf4j.Logger",
+        "total_seconds": 0.099,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "slf4j.LoggerFactory",
+        "total_seconds": 0.099,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "springframework.util",
+        "total_seconds": 0.099,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 11714.126179,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "3:15:14",
+        "decimal": "3.25",
+        "text": "3 hrs 15 mins",
+        "hours": 3,
+        "minutes": 15,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 6231.603207,
+        "digital": "1:43:51",
+        "decimal": "1.72",
+        "text": "1 hr 43 mins",
+        "hours": 1,
+        "minutes": 43,
+        "seconds": 51,
+        "percent": 53.2
+      },
+      {
+        "name": "IntelliJ",
+        "total_seconds": 3687.804073,
+        "digital": "1:01:27",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 31.48
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 1794.718899,
+        "digital": "0:29:54",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 54,
+        "percent": 15.32
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 11714.126179,
+        "digital": "3:15:14",
+        "decimal": "3.25",
+        "text": "3 hrs 15 mins",
+        "hours": 3,
+        "minutes": 15,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 9737.265576,
+        "digital": "2:42:17",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 17,
+        "percent": 83.12
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 1760.437942,
+        "digital": "0:29:20",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 20,
+        "percent": 15.03
+      },
+      {
+        "name": "Building",
+        "total_seconds": 216.422661,
+        "digital": "0:03:36",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 36,
+        "percent": 1.85
+      }
+    ]
+  },
+  "2023-11-07": {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 23,
+      "total_seconds": 8598.750348,
+      "digital": "2:23",
+      "decimal": "2.38",
+      "text": "2 hrs 23 mins"
+    },
+    "range": {
+      "start": "2023-11-06T23:00:00Z",
+      "end": "2023-11-07T22:59:59Z",
+      "date": "2023-11-07",
+      "text": "Tue Nov 7th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "FP064_Producto2",
+        "total_seconds": 4401.092309,
+        "color": null,
+        "digital": "1:13:21",
+        "decimal": "1.22",
+        "text": "1 hr 13 mins",
+        "hours": 1,
+        "minutes": 13,
+        "seconds": 21,
+        "percent": 51.18
+      },
+      {
+        "name": "Le2d_Producto2",
+        "total_seconds": 2048.677,
+        "color": null,
+        "digital": "0:34:08",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 8,
+        "percent": 23.83
+      },
+      {
+        "name": "cursodesarrolloweb",
+        "total_seconds": 1044.730348,
+        "color": null,
+        "digital": "0:17:24",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 24,
+        "percent": 12.15
+      },
+      {
+        "name": "Producto2_LAU",
+        "total_seconds": 1036.724,
+        "color": null,
+        "digital": "0:17:16",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 16,
+        "percent": 12.06
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 67.526691,
+        "color": null,
+        "digital": "0:01:07",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 7,
+        "percent": 0.79
+      }
+    ],
+    "languages": [
+      {
+        "name": "PHP",
+        "total_seconds": 2943.692674,
+        "digital": "0:49:03",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 3,
+        "percent": 34.23
+      },
+      {
+        "name": "Java",
+        "total_seconds": 2028.736,
+        "digital": "0:33:48",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 48,
+        "percent": 23.59
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 1804.959326,
+        "digital": "0:30:04",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 4,
+        "percent": 20.99
+      },
+      {
+        "name": "C#",
+        "total_seconds": 1044.730348,
+        "digital": "0:17:24",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 24,
+        "percent": 12.15
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 682.847,
+        "digital": "0:11:22",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 22,
+        "percent": 7.94
+      },
+      {
+        "name": "Text",
+        "total_seconds": 49.21,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 0.57
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 24.634,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.29
+      },
+      {
+        "name": "XML",
+        "total_seconds": 19.842,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.23
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 0.099,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 1677.836,
+        "digital": "0:27:57",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 57,
+        "percent": 32.41
+      },
+      {
+        "name": "WebApiAlmacen",
+        "total_seconds": 1044.730348,
+        "digital": "0:17:24",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 24,
+        "percent": 20.18
+      },
+      {
+        "name": "'config/db.php'",
+        "total_seconds": 876.550691,
+        "digital": "0:14:36",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 36,
+        "percent": 16.93
+      },
+      {
+        "name": "le2d.le2d",
+        "total_seconds": 349.882,
+        "digital": "0:05:49",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 49,
+        "percent": 6.76
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 289.219,
+        "digital": "0:04:49",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 49,
+        "percent": 5.59
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 282.558,
+        "digital": "0:04:42",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 42,
+        "percent": 5.46
+      },
+      {
+        "name": "springframework.context",
+        "total_seconds": 282.296,
+        "digital": "0:04:42",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 42,
+        "percent": 5.45
+      },
+      {
+        "name": "'view/login.php'",
+        "total_seconds": 102.81,
+        "digital": "0:01:42",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 42,
+        "percent": 1.99
+      },
+      {
+        "name": "'models/login.php'",
+        "total_seconds": 102.81,
+        "digital": "0:01:42",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 42,
+        "percent": 1.99
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 68.604,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 1.33
+      },
+      {
+        "name": "jakarta.annotation",
+        "total_seconds": 60.663,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 1.17
+      },
+      {
+        "name": "'/view/event.php'",
+        "total_seconds": 8.086,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.16
+      },
+      {
+        "name": "'model/actos_model.php'",
+        "total_seconds": 8.086,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.16
+      },
+      {
+        "name": "springframework.ui",
+        "total_seconds": 7.679,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.15
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 7.679,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.15
+      },
+      {
+        "name": "springframework.validation",
+        "total_seconds": 7.511,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.15
+      },
+      {
+        "name": "slf4j.Logger",
+        "total_seconds": 0.116,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "slf4j.LoggerFactory",
+        "total_seconds": 0.116,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "springframework.util",
+        "total_seconds": 0.116,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 8598.750348,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "2:23:18",
+        "decimal": "2.38",
+        "text": "2 hrs 23 mins",
+        "hours": 2,
+        "minutes": 23,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 7486.493309,
+        "digital": "2:04:46",
+        "decimal": "2.07",
+        "text": "2 hrs 4 mins",
+        "hours": 2,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 87.06
+      },
+      {
+        "name": "Visual Studio",
+        "total_seconds": 1044.730348,
+        "digital": "0:17:24",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 24,
+        "percent": 12.15
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 67.526691,
+        "digital": "0:01:07",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 7,
+        "percent": 0.79
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8598.750348,
+        "digital": "2:23:18",
+        "decimal": "2.38",
+        "text": "2 hrs 23 mins",
+        "hours": 2,
+        "minutes": 23,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8598.750348,
+        "digital": "2:23:18",
+        "decimal": "2.38",
+        "text": "2 hrs 23 mins",
+        "hours": 2,
+        "minutes": 23,
+        "seconds": 18,
+        "percent": 100
+      }
+    ]
+  },
+  "2023-11-06": {
+    "grand_total": {
+      "hours": 6,
+      "minutes": 39,
+      "total_seconds": 23944.69523,
+      "digital": "6:39",
+      "decimal": "6.65",
+      "text": "6 hrs 39 mins"
+    },
+    "range": {
+      "start": "2023-11-05T23:00:00Z",
+      "end": "2023-11-06T22:59:59Z",
+      "date": "2023-11-06",
+      "text": "Mon Nov 6th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Le2d_Producto2",
+        "total_seconds": 20209.310807,
+        "color": null,
+        "digital": "5:36:49",
+        "decimal": "5.60",
+        "text": "5 hrs 36 mins",
+        "hours": 5,
+        "minutes": 36,
+        "seconds": 49,
+        "percent": 84.4
+      },
+      {
+        "name": "Vistas",
+        "total_seconds": 3360.405193,
+        "color": null,
+        "digital": "0:56:00",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 0,
+        "percent": 14.03
+      },
+      {
+        "name": "app",
+        "total_seconds": 374.97923,
+        "color": null,
+        "digital": "0:06:14",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 14,
+        "percent": 1.57
+      }
+    ],
+    "languages": [
+      {
+        "name": "Java",
+        "total_seconds": 14864.652,
+        "digital": "4:07:44",
+        "decimal": "4.12",
+        "text": "4 hrs 7 mins",
+        "hours": 4,
+        "minutes": 7,
+        "seconds": 44,
+        "percent": 62.08
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 6441.13552,
+        "digital": "1:47:21",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 21,
+        "percent": 26.9
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 1167.507,
+        "digital": "0:19:27",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 27,
+        "percent": 4.88
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 442.18048,
+        "digital": "0:07:22",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 22,
+        "percent": 1.85
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 374.97923,
+        "digital": "0:06:14",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 14,
+        "percent": 1.57
+      },
+      {
+        "name": "Java Properties",
+        "total_seconds": 242.171,
+        "digital": "0:04:02",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 2,
+        "percent": 1.01
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 213.263,
+        "digital": "0:03:33",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 33,
+        "percent": 0.89
+      },
+      {
+        "name": "XML",
+        "total_seconds": 198.807,
+        "digital": "0:03:18",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 18,
+        "percent": 0.83
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "le2d.le2d",
+        "total_seconds": 12793.782,
+        "digital": "3:33:13",
+        "decimal": "3.55",
+        "text": "3 hrs 33 mins",
+        "hours": 3,
+        "minutes": 33,
+        "seconds": 13,
+        "percent": 20.45
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 11343.817,
+        "digital": "3:09:03",
+        "decimal": "3.15",
+        "text": "3 hrs 9 mins",
+        "hours": 3,
+        "minutes": 9,
+        "seconds": 3,
+        "percent": 18.13
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 9564.666,
+        "digital": "2:39:24",
+        "decimal": "2.65",
+        "text": "2 hrs 39 mins",
+        "hours": 2,
+        "minutes": 39,
+        "seconds": 24,
+        "percent": 15.29
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 5777.345,
+        "digital": "1:36:17",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 17,
+        "percent": 9.23
+      },
+      {
+        "name": "springframework.context",
+        "total_seconds": 3837.752,
+        "digital": "1:03:57",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 57,
+        "percent": 6.13
+      },
+      {
+        "name": "springframework.ui",
+        "total_seconds": 3772.131,
+        "digital": "1:02:52",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 52,
+        "percent": 6.03
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 3772.131,
+        "digital": "1:02:52",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 52,
+        "percent": 6.03
+      },
+      {
+        "name": "springframework.validation",
+        "total_seconds": 3638.318,
+        "digital": "1:00:38",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 5.82
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js\"",
+        "total_seconds": 2369.417335,
+        "digital": "0:39:29",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 29,
+        "percent": 3.79
+      },
+      {
+        "name": "springframework.data",
+        "total_seconds": 1359.899,
+        "digital": "0:22:39",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 39,
+        "percent": 2.17
+      },
+      {
+        "name": "slf4j.Logger",
+        "total_seconds": 958.806,
+        "digital": "0:15:58",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 58,
+        "percent": 1.53
+      },
+      {
+        "name": "springframework.util",
+        "total_seconds": 958.806,
+        "digital": "0:15:58",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 58,
+        "percent": 1.53
+      },
+      {
+        "name": "slf4j.LoggerFactory",
+        "total_seconds": 958.806,
+        "digital": "0:15:58",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 58,
+        "percent": 1.53
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 915.719,
+        "digital": "0:15:15",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 15,
+        "percent": 1.46
+      },
+      {
+        "name": "'config/db.php'",
+        "total_seconds": 374.97923,
+        "digital": "0:06:14",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 14,
+        "percent": 0.6
+      },
+      {
+        "name": "jakarta.annotation",
+        "total_seconds": 170.321,
+        "digital": "0:02:50",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 50,
+        "percent": 0.27
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 23944.69523,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "6:39:04",
+        "decimal": "6.65",
+        "text": "6 hrs 39 mins",
+        "hours": 6,
+        "minutes": 39,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 20209.310807,
+        "digital": "5:36:49",
+        "decimal": "5.60",
+        "text": "5 hrs 36 mins",
+        "hours": 5,
+        "minutes": 36,
+        "seconds": 49,
+        "percent": 84.4
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 3735.384423,
+        "digital": "1:02:15",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 15,
+        "percent": 15.6
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 23944.69523,
+        "digital": "6:39:04",
+        "decimal": "6.65",
+        "text": "6 hrs 39 mins",
+        "hours": 6,
+        "minutes": 39,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 23944.69523,
+        "digital": "6:39:04",
+        "decimal": "6.65",
+        "text": "6 hrs 39 mins",
+        "hours": 6,
+        "minutes": 39,
+        "seconds": 4,
+        "percent": 100
+      }
+    ]
+  },
+  "2023-11-05": {
+    "grand_total": {
+      "hours": 8,
+      "minutes": 35,
+      "total_seconds": 30959.114788,
+      "digital": "8:35",
+      "decimal": "8.58",
+      "text": "8 hrs 35 mins"
+    },
+    "range": {
+      "start": "2023-11-04T23:00:00Z",
+      "end": "2023-11-05T22:59:59Z",
+      "date": "2023-11-05",
+      "text": "Sun Nov 5th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Le2d_Producto2",
+        "total_seconds": 27413.466658,
+        "color": null,
+        "digital": "7:36:53",
+        "decimal": "7.60",
+        "text": "7 hrs 36 mins",
+        "hours": 7,
+        "minutes": 36,
+        "seconds": 53,
+        "percent": 88.55
+      },
+      {
+        "name": "Producto2",
+        "total_seconds": 1427.38865,
+        "color": null,
+        "digital": "0:23:47",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 47,
+        "percent": 4.61
+      },
+      {
+        "name": "resources",
+        "total_seconds": 1035.695004,
+        "color": null,
+        "digital": "0:17:15",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 15,
+        "percent": 3.35
+      },
+      {
+        "name": "TEST",
+        "total_seconds": 412.305,
+        "color": null,
+        "digital": "0:06:52",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 52,
+        "percent": 1.33
+      },
+      {
+        "name": "digimonApp",
+        "total_seconds": 374.658753,
+        "color": null,
+        "digital": "0:06:14",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 14,
+        "percent": 1.21
+      },
+      {
+        "name": "Vistas",
+        "total_seconds": 145.031415,
+        "color": null,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 0.47
+      },
+      {
+        "name": "AlquilerVehiculos",
+        "total_seconds": 114.292,
+        "color": null,
+        "digital": "0:01:54",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 54,
+        "percent": 0.37
+      },
+      {
+        "name": "le2d",
+        "total_seconds": 20.363476,
+        "color": null,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.07
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 15.913832,
+        "color": null,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.05
+      }
+    ],
+    "languages": [
+      {
+        "name": "Java",
+        "total_seconds": 17516.410922,
+        "digital": "4:51:56",
+        "decimal": "4.85",
+        "text": "4 hrs 51 mins",
+        "hours": 4,
+        "minutes": 51,
+        "seconds": 56,
+        "percent": 56.58
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 5198.302217,
+        "digital": "1:26:38",
+        "decimal": "1.43",
+        "text": "1 hr 26 mins",
+        "hours": 1,
+        "minutes": 26,
+        "seconds": 38,
+        "percent": 16.79
+      },
+      {
+        "name": "XML",
+        "total_seconds": 2928.854078,
+        "digital": "0:48:48",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 48,
+        "percent": 9.46
+      },
+      {
+        "name": "Java Properties",
+        "total_seconds": 1549.036759,
+        "digital": "0:25:49",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 49,
+        "percent": 5
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 932.34469,
+        "digital": "0:15:32",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 32,
+        "percent": 3.01
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 664.699775,
+        "digital": "0:11:04",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 4,
+        "percent": 2.15
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 661.762075,
+        "digital": "0:11:01",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 1,
+        "percent": 2.14
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 544.822241,
+        "digital": "0:09:04",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 4,
+        "percent": 1.76
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 420.176,
+        "digital": "0:07:00",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 0,
+        "percent": 1.36
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 343.349031,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 1.11
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 188.743,
+        "digital": "0:03:08",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 8,
+        "percent": 0.61
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 5.902,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 3.166,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.01
+      },
+      {
+        "name": "textmate",
+        "total_seconds": 0.809,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "Batchfile",
+        "total_seconds": 0.693,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "Text",
+        "total_seconds": 0.044,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "le2d.le2d",
+        "total_seconds": 5505.487,
+        "digital": "1:31:45",
+        "decimal": "1.52",
+        "text": "1 hr 31 mins",
+        "hours": 1,
+        "minutes": 31,
+        "seconds": 45,
+        "percent": 13.07
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 5295.786,
+        "digital": "1:28:15",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "hours": 1,
+        "minutes": 28,
+        "seconds": 15,
+        "percent": 12.57
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 4780.045,
+        "digital": "1:19:40",
+        "decimal": "1.32",
+        "text": "1 hr 19 mins",
+        "hours": 1,
+        "minutes": 19,
+        "seconds": 40,
+        "percent": 11.35
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 4464.095,
+        "digital": "1:14:24",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 24,
+        "percent": 10.6
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 2596.258922,
+        "digital": "0:43:16",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 16,
+        "percent": 6.16
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 2286.025,
+        "digital": "0:38:06",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 6,
+        "percent": 5.43
+      },
+      {
+        "name": "springframework.context",
+        "total_seconds": 2224.412922,
+        "digital": "0:37:04",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 4,
+        "percent": 5.28
+      },
+      {
+        "name": "springframework.validation",
+        "total_seconds": 2114.435,
+        "digital": "0:35:14",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 14,
+        "percent": 5.02
+      },
+      {
+        "name": "springframework.ui",
+        "total_seconds": 1899.303,
+        "digital": "0:31:39",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 39,
+        "percent": 4.51
+      },
+      {
+        "name": "springframework.boot",
+        "total_seconds": 1380.629,
+        "digital": "0:23:00",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 0,
+        "percent": 3.28
+      },
+      {
+        "name": "slf4j.Logger",
+        "total_seconds": 1237.084,
+        "digital": "0:20:37",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 37,
+        "percent": 2.94
+      },
+      {
+        "name": "springframework.util",
+        "total_seconds": 1237.084,
+        "digital": "0:20:37",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 37,
+        "percent": 2.94
+      },
+      {
+        "name": "slf4j.LoggerFactory",
+        "total_seconds": 1237.084,
+        "digital": "0:20:37",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 37,
+        "percent": 2.94
+      },
+      {
+        "name": "junit.jupiter",
+        "total_seconds": 835.68,
+        "digital": "0:13:55",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 55,
+        "percent": 1.98
+      },
+      {
+        "name": "springframework.data",
+        "total_seconds": 803.22,
+        "digital": "0:13:23",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 23,
+        "percent": 1.91
+      },
+      {
+        "name": "'config/db.php'",
+        "total_seconds": 664.699775,
+        "digital": "0:11:04",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 4,
+        "percent": 1.58
+      },
+      {
+        "name": "common",
+        "total_seconds": 343.349031,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 0.82
+      },
+      {
+        "name": "card-info.component",
+        "total_seconds": 343.349031,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 0.82
+      },
+      {
+        "name": "level",
+        "total_seconds": 343.349031,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 0.82
+      },
+      {
+        "name": "choose-team.component",
+        "total_seconds": 343.349031,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 0.82
+      },
+      {
+        "name": "grid-select.component",
+        "total_seconds": 343.349031,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 0.82
+      },
+      {
+        "name": "list.component",
+        "total_seconds": 343.349031,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 0.82
+      },
+      {
+        "name": "form.component",
+        "total_seconds": 343.349031,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 0.82
+      },
+      {
+        "name": "core",
+        "total_seconds": 343.349031,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 0.82
+      },
+      {
+        "name": "main.component",
+        "total_seconds": 343.349031,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 0.82
+      },
+      {
+        "name": "forms",
+        "total_seconds": 343.349031,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 0.82
+      },
+      {
+        "name": "ch.qos",
+        "total_seconds": 120.181,
+        "digital": "0:02:00",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 0,
+        "percent": 0.29
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 30959.114788,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "8:35:59",
+        "decimal": "8.58",
+        "text": "8 hrs 35 mins",
+        "hours": 8,
+        "minutes": 35,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 27227.765126,
+        "digital": "7:33:47",
+        "decimal": "7.55",
+        "text": "7 hrs 33 mins",
+        "hours": 7,
+        "minutes": 33,
+        "seconds": 47,
+        "percent": 87.95
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 3731.349662,
+        "digital": "1:02:11",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 11,
+        "percent": 12.05
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 30959.114788,
+        "digital": "8:35:59",
+        "decimal": "8.58",
+        "text": "8 hrs 35 mins",
+        "hours": 8,
+        "minutes": 35,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 30959.114788,
+        "digital": "8:35:59",
+        "decimal": "8.58",
+        "text": "8 hrs 35 mins",
+        "hours": 8,
+        "minutes": 35,
+        "seconds": 59,
+        "percent": 100
+      }
+    ]
+  },
+  "2023-11-04": {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 54,
+      "total_seconds": 10456.367505,
+      "digital": "2:54",
+      "decimal": "2.90",
+      "text": "2 hrs 54 mins"
+    },
+    "range": {
+      "start": "2023-11-03T23:00:00Z",
+      "end": "2023-11-04T22:59:59Z",
+      "date": "2023-11-04",
+      "text": "Sat Nov 4th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Producto2",
+        "total_seconds": 6940.846113,
+        "color": null,
+        "digital": "1:55:40",
+        "decimal": "1.92",
+        "text": "1 hr 55 mins",
+        "hours": 1,
+        "minutes": 55,
+        "seconds": 40,
+        "percent": 66.38
+      },
+      {
+        "name": "app",
+        "total_seconds": 3113.78961,
+        "color": null,
+        "digital": "0:51:53",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 53,
+        "percent": 29.78
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 334.322362,
+        "color": null,
+        "digital": "0:05:34",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 34,
+        "percent": 3.2
+      },
+      {
+        "name": "FP064_Producto2",
+        "total_seconds": 67.40942,
+        "color": null,
+        "digital": "0:01:07",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 7,
+        "percent": 0.64
+      }
+    ],
+    "languages": [
+      {
+        "name": "PHP",
+        "total_seconds": 5777.685751,
+        "digital": "1:36:17",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 17,
+        "percent": 55.26
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 3462.216504,
+        "digital": "0:57:42",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 42,
+        "percent": 33.11
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 986.795216,
+        "digital": "0:16:26",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 26,
+        "percent": 9.44
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 219.471552,
+        "digital": "0:03:39",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 39,
+        "percent": 2.1
+      },
+      {
+        "name": "Other",
+        "total_seconds": 10.198482,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.1
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "'config/db.php'",
+        "total_seconds": 1194.776167,
+        "digital": "0:19:54",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 54,
+        "percent": 47.03
+      },
+      {
+        "name": "PDO",
+        "total_seconds": 432.196982,
+        "digital": "0:07:12",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 12,
+        "percent": 17.01
+      },
+      {
+        "name": "PDOException",
+        "total_seconds": 371.693175,
+        "digital": "0:06:11",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 11,
+        "percent": 14.63
+      },
+      {
+        "name": "'Database.php'",
+        "total_seconds": 297.412788,
+        "digital": "0:04:57",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 57,
+        "percent": 11.71
+      },
+      {
+        "name": "'db.php'",
+        "total_seconds": 181.63664,
+        "digital": "0:03:01",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 1,
+        "percent": 7.15
+      },
+      {
+        "name": "'controllers/login.php'",
+        "total_seconds": 55.470484,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 2.18
+      },
+      {
+        "name": "'../config/Database.php'",
+        "total_seconds": 5.934237,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.23
+      },
+      {
+        "name": "'models/events_model.php'",
+        "total_seconds": 0.60462,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.02
+      },
+      {
+        "name": "'views/create_event_view.php'",
+        "total_seconds": 0.60462,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.02
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 10456.367505,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "2:54:16",
+        "decimal": "2.90",
+        "text": "2 hrs 54 mins",
+        "hours": 2,
+        "minutes": 54,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 10456.367505,
+        "digital": "2:54:16",
+        "decimal": "2.90",
+        "text": "2 hrs 54 mins",
+        "hours": 2,
+        "minutes": 54,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10456.367505,
+        "digital": "2:54:16",
+        "decimal": "2.90",
+        "text": "2 hrs 54 mins",
+        "hours": 2,
+        "minutes": 54,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10456.367505,
+        "digital": "2:54:16",
+        "decimal": "2.90",
+        "text": "2 hrs 54 mins",
+        "hours": 2,
+        "minutes": 54,
+        "seconds": 16,
+        "percent": 100
+      }
+    ]
+  },
+  "2023-11-03": {
+    "grand_total": {
+      "hours": 5,
+      "minutes": 49,
+      "total_seconds": 20963.554624,
+      "digital": "5:49",
+      "decimal": "5.82",
+      "text": "5 hrs 49 mins"
+    },
+    "range": {
+      "start": "2023-11-02T23:00:00Z",
+      "end": "2023-11-03T22:59:59Z",
+      "date": "2023-11-03",
+      "text": "Fri Nov 3rd 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Grupo1",
+        "total_seconds": 9056.516303,
+        "color": null,
+        "digital": "2:30:56",
+        "decimal": "2.50",
+        "text": "2 hrs 30 mins",
+        "hours": 2,
+        "minutes": 30,
+        "seconds": 56,
+        "percent": 43.2
+      },
+      {
+        "name": "FractalGTAFilesRenamer",
+        "total_seconds": 8014.407972,
+        "color": null,
+        "digital": "2:13:34",
+        "decimal": "2.22",
+        "text": "2 hrs 13 mins",
+        "hours": 2,
+        "minutes": 13,
+        "seconds": 34,
+        "percent": 38.23
+      },
+      {
+        "name": "Vistas",
+        "total_seconds": 1598.036912,
+        "color": null,
+        "digital": "0:26:38",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 38,
+        "percent": 7.62
+      },
+      {
+        "name": "FractalGTARenamer",
+        "total_seconds": 994.541633,
+        "color": null,
+        "digital": "0:16:34",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 34,
+        "percent": 4.74
+      },
+      {
+        "name": "gta_renamer",
+        "total_seconds": 664.000386,
+        "color": null,
+        "digital": "0:11:04",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 4,
+        "percent": 3.17
+      },
+      {
+        "name": "meta",
+        "total_seconds": 484.662297,
+        "color": null,
+        "digital": "0:08:04",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 4,
+        "percent": 2.31
+      },
+      {
+        "name": "BibliotecaWebApiLau",
+        "total_seconds": 116.864132,
+        "color": null,
+        "digital": "0:01:56",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 0.56
+      },
+      {
+        "name": "apokatana",
+        "total_seconds": 34.524989,
+        "color": null,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.16
+      },
+      {
+        "name": "sushi",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 16646.244496,
+        "digital": "4:37:26",
+        "decimal": "4.62",
+        "text": "4 hrs 37 mins",
+        "hours": 4,
+        "minutes": 37,
+        "seconds": 26,
+        "percent": 79.41
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 1929.23616,
+        "digital": "0:32:09",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 9,
+        "percent": 9.2
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 1456.441654,
+        "digital": "0:24:16",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 16,
+        "percent": 6.95
+      },
+      {
+        "name": "Other",
+        "total_seconds": 519.643117,
+        "digital": "0:08:39",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 39,
+        "percent": 2.48
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 270.393939,
+        "digital": "0:04:30",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 30,
+        "percent": 1.29
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 141.595258,
+        "digital": "0:02:21",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 21,
+        "percent": 0.68
+      },
+      {
+        "name": "Blender",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "BibliotecaWebApiLau",
+        "total_seconds": 7741.582089,
+        "digital": "2:09:01",
+        "decimal": "2.15",
+        "text": "2 hrs 9 mins",
+        "hours": 2,
+        "minutes": 9,
+        "seconds": 1,
+        "percent": 52.9
+      },
+      {
+        "name": "CodeWalker",
+        "total_seconds": 6240.682802,
+        "digital": "1:44:00",
+        "decimal": "1.73",
+        "text": "1 hr 44 mins",
+        "hours": 1,
+        "minutes": 44,
+        "seconds": 0,
+        "percent": 42.65
+      },
+      {
+        "name": "WebApiBiblioteca",
+        "total_seconds": 639.667133,
+        "digital": "0:10:39",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 39,
+        "percent": 4.37
+      },
+      {
+        "name": ">optionsBuilder",
+        "total_seconds": 8.456889,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.06
+      },
+      {
+        "name": "SharpDX",
+        "total_seconds": 2.705031,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 20963.554624,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "5:49:23",
+        "decimal": "5.82",
+        "text": "5 hrs 49 mins",
+        "hours": 5,
+        "minutes": 49,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 18846.330426,
+        "digital": "5:14:06",
+        "decimal": "5.23",
+        "text": "5 hrs 14 mins",
+        "hours": 5,
+        "minutes": 14,
+        "seconds": 6,
+        "percent": 89.9
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 2117.224198,
+        "digital": "0:35:17",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 17,
+        "percent": 10.1
+      },
+      {
+        "name": "Blender",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 20963.554624,
+        "digital": "5:49:23",
+        "decimal": "5.82",
+        "text": "5 hrs 49 mins",
+        "hours": 5,
+        "minutes": 49,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 19034.005449,
+        "digital": "5:17:14",
+        "decimal": "5.28",
+        "text": "5 hrs 17 mins",
+        "hours": 5,
+        "minutes": 17,
+        "seconds": 14,
+        "percent": 90.8
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 1197.536428,
+        "digital": "0:19:57",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 57,
+        "percent": 5.71
+      },
+      {
+        "name": "Building",
+        "total_seconds": 732.012747,
+        "digital": "0:12:12",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 12,
+        "percent": 3.49
+      }
+    ]
+  },
+  "2023-11-02": {
+    "grand_total": {
+      "hours": 6,
+      "minutes": 0,
+      "total_seconds": 21624.747389,
+      "digital": "6:00",
+      "decimal": "6.00",
+      "text": "6 hrs"
+    },
+    "range": {
+      "start": "2023-11-01T23:00:00Z",
+      "end": "2023-11-02T22:59:59Z",
+      "date": "2023-11-02",
+      "text": "Thu Nov 2nd 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Grupo1",
+        "total_seconds": 13906.979324,
+        "color": null,
+        "digital": "3:51:46",
+        "decimal": "3.85",
+        "text": "3 hrs 51 mins",
+        "hours": 3,
+        "minutes": 51,
+        "seconds": 46,
+        "percent": 64.31
+      },
+      {
+        "name": "Le2d_Producto2",
+        "total_seconds": 5359.234307,
+        "color": null,
+        "digital": "1:29:19",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 19,
+        "percent": 24.78
+      },
+      {
+        "name": "Vistas",
+        "total_seconds": 1801.761109,
+        "color": null,
+        "digital": "0:30:01",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 1,
+        "percent": 8.33
+      },
+      {
+        "name": "BibliotecaWebApiLau",
+        "total_seconds": 327.370646,
+        "color": null,
+        "digital": "0:05:27",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 27,
+        "percent": 1.51
+      },
+      {
+        "name": "templates",
+        "total_seconds": 170.377115,
+        "color": null,
+        "digital": "0:02:50",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 50,
+        "percent": 0.79
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 59.024888,
+        "color": null,
+        "digital": "0:00:59",
+        "decimal": "0.00",
+        "text": "59 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 59,
+        "percent": 0.27
+      }
+    ],
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 12631.506868,
+        "digital": "3:30:31",
+        "decimal": "3.50",
+        "text": "3 hrs 30 mins",
+        "hours": 3,
+        "minutes": 30,
+        "seconds": 31,
+        "percent": 58.41
+      },
+      {
+        "name": "XML",
+        "total_seconds": 2189.197,
+        "digital": "0:36:29",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 29,
+        "percent": 10.12
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 2018.207119,
+        "digital": "0:33:38",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 38,
+        "percent": 9.33
+      },
+      {
+        "name": "Java Properties",
+        "total_seconds": 1262.266,
+        "digital": "0:21:02",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 2,
+        "percent": 5.84
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 1142.390381,
+        "digital": "0:19:02",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 2,
+        "percent": 5.28
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 873.92,
+        "digital": "0:14:33",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 33,
+        "percent": 4.04
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 460.452721,
+        "digital": "0:07:40",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 40,
+        "percent": 2.13
+      },
+      {
+        "name": "Java",
+        "total_seconds": 429.870307,
+        "digital": "0:07:09",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 9,
+        "percent": 1.99
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 338.810262,
+        "digital": "0:05:38",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 38,
+        "percent": 1.57
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 252.797,
+        "digital": "0:04:12",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 12,
+        "percent": 1.17
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 23.058,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.11
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 1.248,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      },
+      {
+        "name": "C++",
+        "total_seconds": 0.991731,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "Text",
+        "total_seconds": 0.032,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "BibliotecaWebApiLau",
+        "total_seconds": 10855.038903,
+        "digital": "3:00:55",
+        "decimal": "3.00",
+        "text": "3 hrs",
+        "hours": 3,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 94.83
+      },
+      {
+        "name": "springframework.boot",
+        "total_seconds": 262.678,
+        "digital": "0:04:22",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 22,
+        "percent": 2.29
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 133.718307,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 1.17
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 133.718307,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 1.17
+      },
+      {
+        "name": "junit.jupiter",
+        "total_seconds": 61.583,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 0.54
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 21624.747389,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "6:00:24",
+        "decimal": "6.00",
+        "text": "6 hrs",
+        "hours": 6,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 14234.34997,
+        "digital": "3:57:14",
+        "decimal": "3.95",
+        "text": "3 hrs 57 mins",
+        "hours": 3,
+        "minutes": 57,
+        "seconds": 14,
+        "percent": 65.82
+      },
+      {
+        "name": "IntelliJ",
+        "total_seconds": 5359.234307,
+        "digital": "1:29:19",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 19,
+        "percent": 24.78
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 2031.163112,
+        "digital": "0:33:51",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 51,
+        "percent": 9.39
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 21624.747389,
+        "digital": "6:00:24",
+        "decimal": "6.00",
+        "text": "6 hrs",
+        "hours": 6,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 20482.357008,
+        "digital": "5:41:22",
+        "decimal": "5.68",
+        "text": "5 hrs 41 mins",
+        "hours": 5,
+        "minutes": 41,
+        "seconds": 22,
+        "percent": 94.72
+      },
+      {
+        "name": "Building",
+        "total_seconds": 963.058092,
+        "digital": "0:16:03",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 3,
+        "percent": 4.45
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 179.332289,
+        "digital": "0:02:59",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 59,
+        "percent": 0.83
+      }
+    ]
+  },
+  "2023-11-01": {
+    "grand_total": {
+      "hours": 4,
+      "minutes": 53,
+      "total_seconds": 17625.976798,
+      "digital": "4:53",
+      "decimal": "4.88",
+      "text": "4 hrs 53 mins"
+    },
+    "range": {
+      "start": "2023-10-31T23:00:00Z",
+      "end": "2023-11-01T22:59:59Z",
+      "date": "2023-11-01",
+      "text": "Wed Nov 1st 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Le2d_Producto2",
+        "total_seconds": 10569.483823,
+        "color": null,
+        "digital": "2:56:09",
+        "decimal": "2.93",
+        "text": "2 hrs 56 mins",
+        "hours": 2,
+        "minutes": 56,
+        "seconds": 9,
+        "percent": 59.97
+      },
+      {
+        "name": "AlquierVehiculos",
+        "total_seconds": 5399.627,
+        "color": null,
+        "digital": "1:29:59",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 59,
+        "percent": 30.63
+      },
+      {
+        "name": "AlquilerVehiculos",
+        "total_seconds": 1656.865975,
+        "color": null,
+        "digital": "0:27:36",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 36,
+        "percent": 9.4
+      },
+      {
+        "name": "le2d",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "languages": [
+      {
+        "name": "Java",
+        "total_seconds": 4101.262975,
+        "digital": "1:08:21",
+        "decimal": "1.13",
+        "text": "1 hr 8 mins",
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 21,
+        "percent": 23.27
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 3581.053126,
+        "digital": "0:59:41",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 41,
+        "percent": 20.32
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 3268.116,
+        "digital": "0:54:28",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 28,
+        "percent": 18.54
+      },
+      {
+        "name": "Java Properties",
+        "total_seconds": 2397.340697,
+        "digital": "0:39:57",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 57,
+        "percent": 13.6
+      },
+      {
+        "name": "XML",
+        "total_seconds": 1773.54,
+        "digital": "0:29:33",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 33,
+        "percent": 10.06
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 1067.862,
+        "digital": "0:17:47",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 47,
+        "percent": 6.06
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 832.729,
+        "digital": "0:13:52",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 52,
+        "percent": 4.72
+      },
+      {
+        "name": "Other",
+        "total_seconds": 504.881,
+        "digital": "0:08:24",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 24,
+        "percent": 2.86
+      },
+      {
+        "name": "Text",
+        "total_seconds": 54.795,
+        "digital": "0:00:54",
+        "decimal": "0.00",
+        "text": "54 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 0.31
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 27.414,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 0.16
+      },
+      {
+        "name": "Image (jpeg)",
+        "total_seconds": 7.283,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.04
+      },
+      {
+        "name": "Image (png)",
+        "total_seconds": 6.362,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.04
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 3.338,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.02
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 1987.575,
+        "digital": "0:33:07",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 7,
+        "percent": 20.62
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 1556.998975,
+        "digital": "0:25:56",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 56,
+        "percent": 16.16
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 1415.042,
+        "digital": "0:23:35",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 35,
+        "percent": 14.68
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 1179.922,
+        "digital": "0:19:39",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 39,
+        "percent": 12.24
+      },
+      {
+        "name": "le2d.AlquierVehiculos",
+        "total_seconds": 1083.415,
+        "digital": "0:18:03",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 3,
+        "percent": 11.24
+      },
+      {
+        "name": "jetbrains.annotations",
+        "total_seconds": 851.712,
+        "digital": "0:14:11",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 11,
+        "percent": 8.84
+      },
+      {
+        "name": "lombok.Data",
+        "total_seconds": 851.712,
+        "digital": "0:14:11",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 11,
+        "percent": 8.84
+      },
+      {
+        "name": "springframework.boot",
+        "total_seconds": 507.762,
+        "digital": "0:08:27",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 27,
+        "percent": 5.27
+      },
+      {
+        "name": "le2d.edgar",
+        "total_seconds": 99.867,
+        "digital": "0:01:39",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 39,
+        "percent": 1.04
+      },
+      {
+        "name": "springframework.ui",
+        "total_seconds": 73.723,
+        "digital": "0:01:13",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 13,
+        "percent": 0.76
+      },
+      {
+        "name": "springframework.http",
+        "total_seconds": 26.144,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.27
+      },
+      {
+        "name": "springframework.data",
+        "total_seconds": 3.36,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.03
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 17625.976798,
+        "machine_name_id": "4bcd4ced-d553-42db-9bbb-108a17ae7b24",
+        "digital": "4:53:45",
+        "decimal": "4.88",
+        "text": "4 hrs 53 mins",
+        "hours": 4,
+        "minutes": 53,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 7478.641,
+        "digital": "2:04:38",
+        "decimal": "2.07",
+        "text": "2 hrs 4 mins",
+        "hours": 2,
+        "minutes": 4,
+        "seconds": 38,
+        "percent": 42.43
+      },
+      {
+        "name": "Eclipse",
+        "total_seconds": 7056.492975,
+        "digital": "1:57:36",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
+        "hours": 1,
+        "minutes": 57,
+        "seconds": 36,
+        "percent": 40.03
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 3090.842823,
+        "digital": "0:51:30",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 30,
+        "percent": 17.54
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 17625.976798,
+        "digital": "4:53:45",
+        "decimal": "4.88",
+        "text": "4 hrs 53 mins",
+        "hours": 4,
+        "minutes": 53,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 17625.976798,
+        "digital": "4:53:45",
+        "decimal": "4.88",
+        "text": "4 hrs 53 mins",
+        "hours": 4,
+        "minutes": 53,
+        "seconds": 45,
+        "percent": 100
+      }
+    ]
+  }
+}
