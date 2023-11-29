@@ -2,35 +2,35 @@
     "languages": [
         {
             "name": "PHP",
-            "total_seconds": 99017.641935
+            "total_seconds": 144257.693868
         },
         {
             "name": "Java",
-            "total_seconds": 143871.236269
+            "total_seconds": 143954.639822
         },
         {
             "name": "YAML",
-            "total_seconds": 23242.276899999997
+            "total_seconds": 33037.657438999995
         },
         {
             "name": "C#",
-            "total_seconds": 151202.03438099998
+            "total_seconds": 179049.83706899997
         },
         {
             "name": "Docker",
-            "total_seconds": 16386.640943
+            "total_seconds": 22882.002472999997
         },
         {
             "name": "Text",
-            "total_seconds": 6365.119967
+            "total_seconds": 12041.400419000001
         },
         {
             "name": "Markdown",
-            "total_seconds": 2358.875948
+            "total_seconds": 3137.0449479999997
         },
         {
             "name": "XML",
-            "total_seconds": 25947.173783
+            "total_seconds": 27159.547466
         },
         {
             "name": "Properties",
@@ -38,11 +38,11 @@
         },
         {
             "name": "HTML",
-            "total_seconds": 76198.04107
+            "total_seconds": 80022.64642
         },
         {
             "name": "CSS",
-            "total_seconds": 9131.693137999999
+            "total_seconds": 9460.261637
         },
         {
             "name": "Java Properties",
@@ -54,7 +54,7 @@
         },
         {
             "name": "TypeScript",
-            "total_seconds": 4309.880411
+            "total_seconds": 4490.280454
         },
         {
             "name": "GitIgnore file",
@@ -70,15 +70,15 @@
         },
         {
             "name": "Bash",
-            "total_seconds": 2148.419788
+            "total_seconds": 4772.180862
         },
         {
             "name": "Other",
-            "total_seconds": 6156.992939
+            "total_seconds": 6844.226772
         },
         {
             "name": "Binary",
-            "total_seconds": 23669.722730999998
+            "total_seconds": 28121.569901999996
         },
         {
             "name": "Blender",
@@ -102,7 +102,7 @@
         },
         {
             "name": "JavaScript",
-            "total_seconds": 32040.069601000003
+            "total_seconds": 39629.953119000005
         },
         {
             "name": "CSV",
@@ -110,7 +110,7 @@
         },
         {
             "name": "JSON",
-            "total_seconds": 6804.191586
+            "total_seconds": 7813.561991
         },
         {
             "name": "TSConfig",
@@ -118,11 +118,27 @@
         },
         {
             "name": "Apache Config",
-            "total_seconds": 29.742738
+            "total_seconds": 56.000128000000004
         },
         {
             "name": "INI",
-            "total_seconds": 60.542889
+            "total_seconds": 142.779873
+        },
+        {
+            "name": "Blade Template",
+            "total_seconds": 1127.436057
+        },
+        {
+            "name": "SCSS",
+            "total_seconds": 375.205692
+        },
+        {
+            "name": "Python",
+            "total_seconds": 890.499195
+        },
+        {
+            "name": "Git Config",
+            "total_seconds": 431.002943
         }
     ]
 }
