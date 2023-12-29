@@ -1,0 +1,7354 @@
+{
+  "2023-12-28": {
+    "grand_total": {
+      "hours": 3,
+      "minutes": 39,
+      "total_seconds": 13153.653863,
+      "digital": "3:39",
+      "decimal": "3.65",
+      "text": "3 hrs 39 mins"
+    },
+    "range": {
+      "start": "2023-12-27T23:00:00Z",
+      "end": "2023-12-28T22:59:59Z",
+      "date": "2023-12-28",
+      "text": "Thu Dec 28th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Grupo1_ProyectoFinal",
+        "total_seconds": 7323.732165,
+        "color": null,
+        "digital": "2:02:03",
+        "decimal": "2.03",
+        "text": "2 hrs 2 mins",
+        "hours": 2,
+        "minutes": 2,
+        "seconds": 3,
+        "percent": 55.68
+      },
+      {
+        "name": "Producto5_Wordpress",
+        "total_seconds": 3716.227139,
+        "color": null,
+        "digital": "1:01:56",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 28.25
+      },
+      {
+        "name": "producto1",
+        "total_seconds": 1459.472212,
+        "color": null,
+        "digital": "0:24:19",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 19,
+        "percent": 11.1
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 654.222347,
+        "color": null,
+        "digital": "0:10:54",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 54,
+        "percent": 4.97
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 5019.19994,
+        "digital": "1:23:39",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 39,
+        "percent": 38.16
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 3224.057055,
+        "digital": "0:53:44",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 44,
+        "percent": 24.51
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 1730.216185,
+        "digital": "0:28:50",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 50,
+        "percent": 13.15
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 1416.888958,
+        "digital": "0:23:36",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 36,
+        "percent": 10.77
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 621.564731,
+        "digital": "0:10:21",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 21,
+        "percent": 4.73
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 562.756811,
+        "digital": "0:09:22",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 22,
+        "percent": 4.28
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 545.159674,
+        "digital": "0:09:05",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 5,
+        "percent": 4.14
+      },
+      {
+        "name": "Text",
+        "total_seconds": 29.156366,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.22
+      },
+      {
+        "name": "Other",
+        "total_seconds": 4.654143,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.04
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "core",
+        "total_seconds": 3421.951004,
+        "digital": "0:57:01",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 1,
+        "percent": 5.92
+      },
+      {
+        "name": "common",
+        "total_seconds": 856.167272,
+        "digital": "0:14:16",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 16,
+        "percent": 1.48
+      },
+      {
+        "name": "router",
+        "total_seconds": 782.030342,
+        "digital": "0:13:02",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 2,
+        "percent": 1.35
+      },
+      {
+        "name": "login.module",
+        "total_seconds": 751.538425,
+        "digital": "0:12:31",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 31,
+        "percent": 1.3
+      },
+      {
+        "name": "register-main.component",
+        "total_seconds": 735.890243,
+        "digital": "0:12:15",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 15,
+        "percent": 1.27
+      },
+      {
+        "name": "register.interface",
+        "total_seconds": 712.384894,
+        "digital": "0:11:52",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 52,
+        "percent": 1.23
+      },
+      {
+        "name": "login-main.component",
+        "total_seconds": 696.092209,
+        "digital": "0:11:36",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 36,
+        "percent": 1.2
+      },
+      {
+        "name": "register.module",
+        "total_seconds": 504.28961,
+        "digital": "0:08:24",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 24,
+        "percent": 0.87
+      },
+      {
+        "name": "app-routing.module",
+        "total_seconds": 369.927277,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 0.64
+      },
+      {
+        "name": "platform-browser",
+        "total_seconds": 369.927277,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 0.64
+      },
+      {
+        "name": "app.component",
+        "total_seconds": 369.927277,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 0.64
+      },
+      {
+        "name": "'wp-settings.php'",
+        "total_seconds": 366.976275,
+        "digital": "0:06:06",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 6,
+        "percent": 0.63
+      },
+      {
+        "name": "'/style-engine/class-wp-style-engine-css-declarations.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-http-curl.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/sitemaps/class-wp-sitemaps-index.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/vars.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-supports.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/fields/class-wp-rest-comment-meta-fields.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/fonts.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-walker-page.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-site-query.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/class-wp-rest-server.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-block-directory-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/sitemaps.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/search/class-wp-rest-search-handler.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-global-styles-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-paused-extensions-storage.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-list.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/bookmark.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-recovery-mode-link-service.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-http-encoding.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-http.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/feed.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-post-type.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-recovery-mode-cookie-service.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-comment-query.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-textdomain-registry.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-posts-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-meta-query.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/global-styles-and-settings.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-fatal-error-handler.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/duotone.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-block-renderer-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/category-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/class-wp-rest-request.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/html-api/class-wp-html-unsupported-exception.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/author-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/html-api/class-wp-html-tag-processor.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/category.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'wp-admin/includes/class-wp-site-health.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/style-engine/class-wp-style-engine-css-rules-store.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-http-response.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-template-utils.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/utils.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-user.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-term.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-menus-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/shortcodes.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/blocks/index.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/search/class-wp-rest-post-search-handler.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-theme.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-user-request.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/deprecated.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/post-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/post-thumbnail-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-blocks-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/nav-menu.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-network-query.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-autosaves-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/media.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/dimensions.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/kses.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-comment.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/user.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-patterns-registry.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/l10n.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/script-loader.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/search/class-wp-rest-post-format-search-handler.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-theme-json.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/post.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-application-passwords-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/fields/class-wp-rest-post-meta-fields.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-walker.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-role.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/theme-previews.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-theme-json-resolver.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/spacing.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/border.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-site-health-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/widgets.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/https-detection.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-widget-types-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/align.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/colors.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/pluggable.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/formatting.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/fonts/class-wp-font-face-resolver.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-patterns.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/layout.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-sidebars-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-parser-frame.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-http-requests-response.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-widget.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/canonical.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/functions.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-search-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-http-proxy.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-oembed-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/style-engine/class-wp-style-engine-processor.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-menu-locations-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-post.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-widgets-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-term-query.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/ms-settings.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/capabilities.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/plugin.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/error-protection.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/pomo/mo.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-recovery-mode-key-service.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-plugins-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/html-api/class-wp-html-open-elements.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-walker-comment.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-type-registry.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/ms-deprecated.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/robots-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/html-api/class-wp-html-token.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-themes-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/link-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/pluggable-deprecated.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/position.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-styles-registry.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-http-streams.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-taxonomy.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/https-migration.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/bookmark-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-revisions-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-theme-json-schema.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-editor-context.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/fields/class-wp-rest-meta-fields.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/shadow.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/sitemaps/providers/class-wp-sitemaps-users.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/html-api/class-wp-html-processor.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/typography.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/nav-menu-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/html-api/class-wp-html-processor-state.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/comment.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-user-meta-session-tokens.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-embed.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/fields/class-wp-rest-term-meta-fields.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/query.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/elements.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/background.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/style-engine/class-wp-style-engine.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/cron.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/post-formats.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/default-filters.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/meta.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/update.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/sitemaps/class-wp-sitemaps-stylesheet.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/settings.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-locale.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-session-tokens.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-pattern-categories-registry.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-users-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-block-types-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/compat.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-parser.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/default-constants.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-widget-factory.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/general-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/version.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-comments-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-http-cookie.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/search/class-wp-rest-term-search-handler.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-taxonomies-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-application-passwords.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-post-statuses-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-duotone.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/ms-blogs.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-classic-to-block-menu-converter.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-error.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-terms-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/fonts/class-wp-font-face.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-editor.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-block-patterns-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-user-query.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/ms-functions.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-locale-switcher.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-roles.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-parser-block.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-template-revisions-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/generated-classname.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/html-api/class-wp-html-span.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/style-engine.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/sitemaps/class-wp-sitemaps-registry.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/comment-template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-ajax-response.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/embed.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/sitemaps/class-wp-sitemaps-renderer.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/http.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/revision.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-rewrite.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-attachments-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-block-type.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-recovery-mode.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/fields/class-wp-rest-user-meta-fields.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/block-supports/custom-classname.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/style-engine/class-wp-style-engine-css-rule.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/admin-bar.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/html-api/class-wp-html-text-replacement.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-theme-json-data.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/class-wp-rest-response.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/advanced-cache.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-list-util.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-navigation-fallback.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/sitemaps/class-wp-sitemaps.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-post-types-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-templates-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-menu-items-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/ms-default-filters.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-query.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-walker-category-dropdown.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rewrite.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-date-query.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/html-api/class-wp-html-active-formatting-elements.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/sitemaps/providers/class-wp-sitemaps-taxonomies.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-walker-page-dropdown.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/load.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/sitemaps/class-wp-sitemaps-provider.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/theme-templates.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-tax-query.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-oembed.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-walker-category.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-url-details-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/html-api/class-wp-html-attribute-token.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/theme.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/taxonomy.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/sitemaps/providers/class-wp-sitemaps-posts.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-recovery-mode-email-service.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-http-requests-hooks.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/class-wp-matchesmapregex.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/blocks.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/template.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "'/rest-api/endpoints/class-wp-rest-settings-controller.php'",
+        "total_seconds": 193.821594,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 0.34
+      },
+      {
+        "name": "forms",
+        "total_seconds": 174.441859,
+        "digital": "0:02:54",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 54,
+        "percent": 0.3
+      },
+      {
+        "name": "info.component",
+        "total_seconds": 174.441859,
+        "digital": "0:02:54",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 54,
+        "percent": 0.3
+      },
+      {
+        "name": "form.component",
+        "total_seconds": 174.441859,
+        "digital": "0:02:54",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 54,
+        "percent": 0.3
+      },
+      {
+        "name": "main.component",
+        "total_seconds": 27.556952,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 0.05
+      },
+      {
+        "name": "paso1.component",
+        "total_seconds": 19.249617,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.03
+      },
+      {
+        "name": "register-routing.module",
+        "total_seconds": 18.780829,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.03
+      },
+      {
+        "name": "login-routing.module",
+        "total_seconds": 8.006626,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.01
+      },
+      {
+        "name": "testing",
+        "total_seconds": 3.75098,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 13153.653863,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "3:39:13",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 13153.653863,
+        "digital": "3:39:13",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13153.653863,
+        "digital": "3:39:13",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 13153.653863,
+        "digital": "3:39:13",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 13,
+        "percent": 100
+      }
+    ]
+  },
+  "2023-12-27": {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 3394.310441,
+        "digital": "0:56:34",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 34,
+        "percent": 41.75
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 1587.132688,
+        "digital": "0:26:27",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 27,
+        "percent": 19.52
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 1458.531402,
+        "digital": "0:24:18",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 18,
+        "percent": 17.94
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 1310.62663,
+        "digital": "0:21:50",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 50,
+        "percent": 16.12
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 378.974581,
+        "digital": "0:06:18",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 18,
+        "percent": 4.66
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 15,
+      "total_seconds": 8129.575742,
+      "digital": "2:15",
+      "decimal": "2.25",
+      "text": "2 hrs 15 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 8129.575742,
+        "digital": "2:15:29",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8129.575742,
+        "digital": "2:15:29",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8129.575742,
+        "digital": "2:15:29",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "core",
+        "total_seconds": 1305.543483,
+        "digital": "0:21:45",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 45,
+        "percent": 41.22
+      },
+      {
+        "name": "router",
+        "total_seconds": 749.108018,
+        "digital": "0:12:29",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 29,
+        "percent": 23.65
+      },
+      {
+        "name": "form.component",
+        "total_seconds": 197.041525,
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 6.22
+      },
+      {
+        "name": "common",
+        "total_seconds": 196.345712,
+        "digital": "0:03:16",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 16,
+        "percent": 6.2
+      },
+      {
+        "name": "forms",
+        "total_seconds": 174.484993,
+        "digital": "0:02:54",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 54,
+        "percent": 5.51
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js\"",
+        "total_seconds": 152.841009,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 4.83
+      },
+      {
+        "name": "info.component",
+        "total_seconds": 131.81082,
+        "digital": "0:02:11",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 11,
+        "percent": 4.16
+      },
+      {
+        "name": "main.component",
+        "total_seconds": 126.005375,
+        "digital": "0:02:06",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 6,
+        "percent": 3.98
+      },
+      {
+        "name": "login.module",
+        "total_seconds": 62.440679,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 1.97
+      },
+      {
+        "name": "app.component",
+        "total_seconds": 23.814137,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.75
+      },
+      {
+        "name": "platform-browser",
+        "total_seconds": 21.08124,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.67
+      },
+      {
+        "name": "app-routing.module",
+        "total_seconds": 21.08124,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.67
+      },
+      {
+        "name": "testing",
+        "total_seconds": 4.753427,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.15
+      },
+      {
+        "name": "app.module",
+        "total_seconds": 0.32972,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      },
+      {
+        "name": "platform-browser-dynamic",
+        "total_seconds": 0.32972,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 8129.575742,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "2:15:29",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Grupo1_ProyectoFinal",
+        "total_seconds": 6671.04434,
+        "digital": "1:51:11",
+        "decimal": "1.85",
+        "text": "1 hr 51 mins",
+        "hours": 1,
+        "minutes": 51,
+        "seconds": 11,
+        "percent": 82.06
+      },
+      {
+        "name": "Producto5",
+        "total_seconds": 1317.78738,
+        "digital": "0:21:57",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 57,
+        "percent": 16.21
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 140.744022,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 1.73
+      }
+    ],
+    "range": {
+      "start": "2023-12-26T23:00:00Z",
+      "end": "2023-12-27T22:59:59Z",
+      "date": "2023-12-27",
+      "text": "Wed Dec 27th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-12-26": {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 766.157483,
+        "digital": "0:12:46",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 46,
+        "percent": 78.46
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 206.507589,
+        "digital": "0:03:26",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 26,
+        "percent": 21.15
+      },
+      {
+        "name": "SCSS",
+        "total_seconds": 3.836758,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.39
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 16,
+      "total_seconds": 976.50183,
+      "digital": "0:16",
+      "decimal": "0.27",
+      "text": "16 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 976.50183,
+        "digital": "0:16:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 976.50183,
+        "digital": "0:16:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 976.50183,
+        "digital": "0:16:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "core",
+        "total_seconds": 568.587341,
+        "digital": "0:09:28",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 28,
+        "percent": 15.48
+      },
+      {
+        "name": "app.component",
+        "total_seconds": 468.086841,
+        "digital": "0:07:48",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 48,
+        "percent": 12.74
+      },
+      {
+        "name": "personal.component",
+        "total_seconds": 290.939284,
+        "digital": "0:04:50",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 50,
+        "percent": 7.92
+      },
+      {
+        "name": "interior.component",
+        "total_seconds": 290.939284,
+        "digital": "0:04:50",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 50,
+        "percent": 7.92
+      },
+      {
+        "name": "forms",
+        "total_seconds": 280.286152,
+        "digital": "0:04:40",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 7.63
+      },
+      {
+        "name": "app-routing.module",
+        "total_seconds": 280.286152,
+        "digital": "0:04:40",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 7.63
+      },
+      {
+        "name": "main-page.component",
+        "total_seconds": 280.286152,
+        "digital": "0:04:40",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 7.63
+      },
+      {
+        "name": "common",
+        "total_seconds": 280.286152,
+        "digital": "0:04:40",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 7.63
+      },
+      {
+        "name": "status.component",
+        "total_seconds": 280.286152,
+        "digital": "0:04:40",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 7.63
+      },
+      {
+        "name": "main-screen.module",
+        "total_seconds": 277.930007,
+        "digital": "0:04:37",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 37,
+        "percent": 7.57
+      },
+      {
+        "name": "platform-browser",
+        "total_seconds": 272.636578,
+        "digital": "0:04:32",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 32,
+        "percent": 7.42
+      },
+      {
+        "name": "login.module",
+        "total_seconds": 43.263166,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 1.18
+      },
+      {
+        "name": "web-fractal-realty.module",
+        "total_seconds": 43.263166,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 1.18
+      },
+      {
+        "name": "router",
+        "total_seconds": 10.653132,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.29
+      },
+      {
+        "name": "nui.service",
+        "total_seconds": 5.011479,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.14
+      },
+      {
+        "name": "user.interface",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 976.50183,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "0:16:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "menu_pc",
+        "total_seconds": 976.50183,
+        "digital": "0:16:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 16,
+        "percent": 100
+      },
+      {
+        "name": "formulario-usuarios-mejorado",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2023-12-25T23:00:00Z",
+      "end": "2023-12-26T22:59:59Z",
+      "date": "2023-12-26",
+      "text": "Tue Dec 26th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-12-25": {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 37,
+      "total_seconds": 5871.612124,
+      "digital": "1:37",
+      "decimal": "1.62",
+      "text": "1 hr 37 mins"
+    },
+    "range": {
+      "start": "2023-12-24T23:00:00Z",
+      "end": "2023-12-25T22:59:59Z",
+      "date": "2023-12-25",
+      "text": "Mon Dec 25th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "menu_pc",
+        "total_seconds": 5871.612124,
+        "color": null,
+        "digital": "1:37:51",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 2460.42185,
+        "digital": "0:41:00",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 0,
+        "percent": 41.9
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 2150.724675,
+        "digital": "0:35:50",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 50,
+        "percent": 36.63
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 831.331694,
+        "digital": "0:13:51",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 51,
+        "percent": 14.16
+      },
+      {
+        "name": "SCSS",
+        "total_seconds": 429.133905,
+        "digital": "0:07:09",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 9,
+        "percent": 7.31
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "core",
+        "total_seconds": 2402.349095,
+        "digital": "0:40:02",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 2,
+        "percent": 28.22
+      },
+      {
+        "name": "form-status",
+        "total_seconds": 1868.649186,
+        "digital": "0:31:08",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 8,
+        "percent": 21.95
+      },
+      {
+        "name": "zone.interface",
+        "total_seconds": 1852.522571,
+        "digital": "0:30:52",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 52,
+        "percent": 21.76
+      },
+      {
+        "name": "building.interface",
+        "total_seconds": 1381.221787,
+        "digital": "0:23:01",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 1,
+        "percent": 16.23
+      },
+      {
+        "name": "router",
+        "total_seconds": 457.891362,
+        "digital": "0:07:37",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 37,
+        "percent": 5.38
+      },
+      {
+        "name": "interiors.interface",
+        "total_seconds": 401.717184,
+        "digital": "0:06:41",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 41,
+        "percent": 4.72
+      },
+      {
+        "name": "rxjs",
+        "total_seconds": 148.10934,
+        "digital": "0:02:28",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 28,
+        "percent": 1.74
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 5871.612124,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "1:37:51",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5871.612124,
+        "digital": "1:37:51",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5871.612124,
+        "digital": "1:37:51",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5871.612124,
+        "digital": "1:37:51",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 51,
+        "percent": 100
+      }
+    ]
+  },
+  "2023-12-24": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2023-12-23T23:00:00Z",
+      "end": "2023-12-24T22:59:59Z",
+      "date": "2023-12-24",
+      "text": "Sun Dec 24th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [],
+    "languages": [],
+    "dependencies": [],
+    "machines": [],
+    "editors": [],
+    "operating_systems": [],
+    "categories": []
+  },
+  "2023-12-23": {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 33,
+      "total_seconds": 5616.51984,
+      "digital": "1:33",
+      "decimal": "1.55",
+      "text": "1 hr 33 mins"
+    },
+    "range": {
+      "start": "2023-12-22T23:00:00Z",
+      "end": "2023-12-23T22:59:59Z",
+      "date": "2023-12-23",
+      "text": "Sat Dec 23rd 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "menu_pc",
+        "total_seconds": 5613.112444,
+        "color": null,
+        "digital": "1:33:33",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 33,
+        "percent": 99.94
+      },
+      {
+        "name": "Grupo1_ProyectoFinal",
+        "total_seconds": 3.407396,
+        "color": null,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.06
+      }
+    ],
+    "languages": [
+      {
+        "name": "SCSS",
+        "total_seconds": 3775.375662,
+        "digital": "1:02:55",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 55,
+        "percent": 67.22
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 773.017996,
+        "digital": "0:12:53",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 53,
+        "percent": 13.76
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 644.355507,
+        "digital": "0:10:44",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 44,
+        "percent": 11.47
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 423.770675,
+        "digital": "0:07:03",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 3,
+        "percent": 7.55
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "core",
+        "total_seconds": 408.303626,
+        "digital": "0:06:48",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 48,
+        "percent": 49.87
+      },
+      {
+        "name": "interiors.interface",
+        "total_seconds": 402.82311,
+        "digital": "0:06:42",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 42,
+        "percent": 49.2
+      },
+      {
+        "name": "zone.interface",
+        "total_seconds": 2.07312,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.25
+      },
+      {
+        "name": "form-status",
+        "total_seconds": 2.07312,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.25
+      },
+      {
+        "name": "building.interface",
+        "total_seconds": 2.07312,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.25
+      },
+      {
+        "name": "platform-browser",
+        "total_seconds": 0.451102,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.06
+      },
+      {
+        "name": "app-routing.module",
+        "total_seconds": 0.451102,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.06
+      },
+      {
+        "name": "app.component",
+        "total_seconds": 0.451102,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.06
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 5616.51984,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "1:33:36",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5616.51984,
+        "digital": "1:33:36",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5616.51984,
+        "digital": "1:33:36",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5616.51984,
+        "digital": "1:33:36",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 36,
+        "percent": 100
+      }
+    ]
+  },
+  "2023-12-22": {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 16,
+      "total_seconds": 4587.268866,
+      "digital": "1:16",
+      "decimal": "1.27",
+      "text": "1 hr 16 mins"
+    },
+    "range": {
+      "start": "2023-12-21T23:00:00Z",
+      "end": "2023-12-22T22:59:59Z",
+      "date": "2023-12-22",
+      "text": "Fri Dec 22nd 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "menu_pc",
+        "total_seconds": 4587.268866,
+        "color": null,
+        "digital": "1:16:27",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "CSS",
+        "total_seconds": 2307.086652,
+        "digital": "0:38:27",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 27,
+        "percent": 50.29
+      },
+      {
+        "name": "SCSS",
+        "total_seconds": 1335.377026,
+        "digital": "0:22:15",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 15,
+        "percent": 29.11
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 865.395942,
+        "digital": "0:14:25",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 25,
+        "percent": 18.87
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 79.409246,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 1.73
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "zone.interface",
+        "total_seconds": 74.501404,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 25
+      },
+      {
+        "name": "form-status",
+        "total_seconds": 74.501404,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 25
+      },
+      {
+        "name": "building.interface",
+        "total_seconds": 74.501404,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 25
+      },
+      {
+        "name": "core",
+        "total_seconds": 74.501404,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 25
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 4587.268866,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "1:16:27",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4587.268866,
+        "digital": "1:16:27",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4587.268866,
+        "digital": "1:16:27",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4587.268866,
+        "digital": "1:16:27",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 27,
+        "percent": 100
+      }
+    ]
+  },
+  "2023-12-21": {
+    "grand_total": {
+      "hours": 3,
+      "minutes": 6,
+      "total_seconds": 11184.191843,
+      "digital": "3:06",
+      "decimal": "3.10",
+      "text": "3 hrs 6 mins"
+    },
+    "range": {
+      "start": "2023-12-20T23:00:00Z",
+      "end": "2023-12-21T22:59:59Z",
+      "date": "2023-12-21",
+      "text": "Thu Dec 21st 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Evaluacion",
+        "total_seconds": 5580.855966,
+        "color": null,
+        "digital": "1:33:00",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 0,
+        "percent": 49.9
+      },
+      {
+        "name": "menu_pc",
+        "total_seconds": 4860.050288,
+        "color": null,
+        "digital": "1:21:00",
+        "decimal": "1.35",
+        "text": "1 hr 21 mins",
+        "hours": 1,
+        "minutes": 21,
+        "seconds": 0,
+        "percent": 43.45
+      },
+      {
+        "name": "Grupo1_ProyectoFinal",
+        "total_seconds": 743.285589,
+        "color": null,
+        "digital": "0:12:23",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 23,
+        "percent": 6.65
+      }
+    ],
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 5165.976905,
+        "digital": "1:26:05",
+        "decimal": "1.43",
+        "text": "1 hr 26 mins",
+        "hours": 1,
+        "minutes": 26,
+        "seconds": 5,
+        "percent": 46.19
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 2190.68496,
+        "digital": "0:36:30",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 30,
+        "percent": 19.59
+      },
+      {
+        "name": "SCSS",
+        "total_seconds": 1243.649898,
+        "digital": "0:20:43",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 43,
+        "percent": 11.12
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 1239.231992,
+        "digital": "0:20:39",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 39,
+        "percent": 11.08
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 738.787473,
+        "digital": "0:12:18",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 18,
+        "percent": 6.61
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 414.879061,
+        "digital": "0:06:54",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 54,
+        "percent": 3.71
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 186.483438,
+        "digital": "0:03:06",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 6,
+        "percent": 1.67
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 4.498116,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.04
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Evaluacion",
+        "total_seconds": 3502.174282,
+        "digital": "0:58:22",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 22,
+        "percent": 67.57
+      },
+      {
+        "name": "core",
+        "total_seconds": 861.959452,
+        "digital": "0:14:21",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 21,
+        "percent": 16.63
+      },
+      {
+        "name": "interiors.interface",
+        "total_seconds": 631.922113,
+        "digital": "0:10:31",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 31,
+        "percent": 12.19
+      },
+      {
+        "name": "zone.interface",
+        "total_seconds": 93.33725,
+        "digital": "0:01:33",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 33,
+        "percent": 1.8
+      },
+      {
+        "name": "form-status",
+        "total_seconds": 93.33725,
+        "digital": "0:01:33",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 33,
+        "percent": 1.8
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 11184.191843,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "3:06:24",
+        "decimal": "3.10",
+        "text": "3 hrs 6 mins",
+        "hours": 3,
+        "minutes": 6,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5603.335877,
+        "digital": "1:33:23",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 23,
+        "percent": 50.1
+      },
+      {
+        "name": "Visual Studio",
+        "total_seconds": 5580.855966,
+        "digital": "1:33:00",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 0,
+        "percent": 49.9
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 11184.191843,
+        "digital": "3:06:24",
+        "decimal": "3.10",
+        "text": "3 hrs 6 mins",
+        "hours": 3,
+        "minutes": 6,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10769.312782,
+        "digital": "2:59:29",
+        "decimal": "2.98",
+        "text": "2 hrs 59 mins",
+        "hours": 2,
+        "minutes": 59,
+        "seconds": 29,
+        "percent": 96.29
+      },
+      {
+        "name": "Building",
+        "total_seconds": 414.879061,
+        "digital": "0:06:54",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 54,
+        "percent": 3.71
+      }
+    ]
+  },
+  "2023-12-20": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 6129.338643,
+        "digital": "1:42:09",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 9,
+        "percent": 90.14
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 670.784831,
+        "digital": "0:11:10",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 10,
+        "percent": 9.86
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 53,
+      "total_seconds": 6800.123474,
+      "digital": "1:53",
+      "decimal": "1.88",
+      "text": "1 hr 53 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 6800.123474,
+        "digital": "1:53:20",
+        "decimal": "1.88",
+        "text": "1 hr 53 mins",
+        "hours": 1,
+        "minutes": 53,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6800.123474,
+        "digital": "1:53:20",
+        "decimal": "1.88",
+        "text": "1 hr 53 mins",
+        "hours": 1,
+        "minutes": 53,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6129.338643,
+        "digital": "1:42:09",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 9,
+        "percent": 90.14
+      },
+      {
+        "name": "Building",
+        "total_seconds": 670.784831,
+        "digital": "0:11:10",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 10,
+        "percent": 9.86
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "MiFactura",
+        "total_seconds": 1825.644241,
+        "digital": "0:30:25",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 6800.123474,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "1:53:20",
+        "decimal": "1.88",
+        "text": "1 hr 53 mins",
+        "hours": 1,
+        "minutes": 53,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "MiFactura",
+        "total_seconds": 6800.123474,
+        "digital": "1:53:20",
+        "decimal": "1.88",
+        "text": "1 hr 53 mins",
+        "hours": 1,
+        "minutes": 53,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-12-19T23:00:00Z",
+      "end": "2023-12-20T22:59:59Z",
+      "date": "2023-12-20",
+      "text": "Wed Dec 20th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-12-19": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 5104.523616,
+        "digital": "1:25:04",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 4,
+        "percent": 64.72
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 1946.302685,
+        "digital": "0:32:26",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 26,
+        "percent": 24.68
+      },
+      {
+        "name": "Other",
+        "total_seconds": 651.124805,
+        "digital": "0:10:51",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 51,
+        "percent": 8.26
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 182.182352,
+        "digital": "0:03:02",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 2,
+        "percent": 2.31
+      },
+      {
+        "name": "Text",
+        "total_seconds": 2.470958,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 11,
+      "total_seconds": 7886.604416,
+      "digital": "2:11",
+      "decimal": "2.18",
+      "text": "2 hrs 11 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 5286.705968,
+        "digital": "1:28:06",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "hours": 1,
+        "minutes": 28,
+        "seconds": 6,
+        "percent": 67.03
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 2599.898448,
+        "digital": "0:43:19",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 19,
+        "percent": 32.97
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7886.604416,
+        "digital": "2:11:26",
+        "decimal": "2.18",
+        "text": "2 hrs 11 mins",
+        "hours": 2,
+        "minutes": 11,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 7704.422064,
+        "digital": "2:08:24",
+        "decimal": "2.13",
+        "text": "2 hrs 8 mins",
+        "hours": 2,
+        "minutes": 8,
+        "seconds": 24,
+        "percent": 97.69
+      },
+      {
+        "name": "Building",
+        "total_seconds": 182.182352,
+        "digital": "0:03:02",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 2,
+        "percent": 2.31
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Illuminate",
+        "total_seconds": 1946.302685,
+        "digital": "0:32:26",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 26,
+        "percent": 40.2
+      },
+      {
+        "name": "Clases",
+        "total_seconds": 1897.726352,
+        "digital": "0:31:37",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 37,
+        "percent": 39.19
+      },
+      {
+        "name": "NoMeLlamoJavier",
+        "total_seconds": 948.127152,
+        "digital": "0:15:48",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 48,
+        "percent": 19.58
+      },
+      {
+        "name": "Notifiable",
+        "total_seconds": 49.644615,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 1.03
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 7886.604416,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "2:11:26",
+        "decimal": "2.18",
+        "text": "2 hrs 11 mins",
+        "hours": 2,
+        "minutes": 11,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "cursodesarrolloweb",
+        "total_seconds": 3432.210143,
+        "digital": "0:57:12",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 12,
+        "percent": 43.52
+      },
+      {
+        "name": "producto3PHP",
+        "total_seconds": 2599.898448,
+        "digital": "0:43:19",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 19,
+        "percent": 32.97
+      },
+      {
+        "name": "NoMeLlamoJavier",
+        "total_seconds": 1854.495825,
+        "digital": "0:30:54",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 54,
+        "percent": 23.51
+      }
+    ],
+    "range": {
+      "start": "2023-12-18T23:00:00Z",
+      "end": "2023-12-19T22:59:59Z",
+      "date": "2023-12-19",
+      "text": "Tue Dec 19th 2023",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2023-12-18": {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 17,
+      "total_seconds": 8245.64569,
+      "digital": "2:17",
+      "decimal": "2.28",
+      "text": "2 hrs 17 mins"
+    },
+    "range": {
+      "start": "2023-12-17T23:00:00Z",
+      "end": "2023-12-18T22:59:59Z",
+      "date": "2023-12-18",
+      "text": "Mon Dec 18th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "cursodesarrolloweb",
+        "total_seconds": 5790.102552,
+        "color": null,
+        "digital": "1:36:30",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 30,
+        "percent": 70.22
+      },
+      {
+        "name": "Le2d_Producto4",
+        "total_seconds": 1703.633,
+        "color": null,
+        "digital": "0:28:23",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 23,
+        "percent": 20.66
+      },
+      {
+        "name": "menu_pc",
+        "total_seconds": 378.670757,
+        "color": null,
+        "digital": "0:06:18",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 18,
+        "percent": 4.59
+      },
+      {
+        "name": "producto3PHP",
+        "total_seconds": 353.178116,
+        "color": null,
+        "digital": "0:05:53",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 53,
+        "percent": 4.28
+      },
+      {
+        "name": "WebApiBiblioteca",
+        "total_seconds": 20.061265,
+        "color": null,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.24
+      }
+    ],
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 5578.837193,
+        "digital": "1:32:58",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 58,
+        "percent": 67.66
+      },
+      {
+        "name": "Java",
+        "total_seconds": 1578.437,
+        "digital": "0:26:18",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 18,
+        "percent": 19.14
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 329.33819,
+        "digital": "0:05:29",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 29,
+        "percent": 3.99
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 294.577082,
+        "digital": "0:04:54",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 54,
+        "percent": 3.57
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 231.326624,
+        "digital": "0:03:51",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 51,
+        "percent": 2.81
+      },
+      {
+        "name": "XML",
+        "total_seconds": 125.196,
+        "digital": "0:02:05",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 5,
+        "percent": 1.52
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 48.942548,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.59
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 39.302,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.48
+      },
+      {
+        "name": "Blade Template",
+        "total_seconds": 19.299034,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.23
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 0.390019,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "WebApiBiblioteca",
+        "total_seconds": 3323.116804,
+        "digital": "0:55:23",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 23,
+        "percent": 31.32
+      },
+      {
+        "name": "le2d.le2d",
+        "total_seconds": 1097.054,
+        "digital": "0:18:17",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 17,
+        "percent": 10.34
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 903.471,
+        "digital": "0:15:03",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 3,
+        "percent": 8.52
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 800.562,
+        "digital": "0:13:20",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 20,
+        "percent": 7.55
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 783.189,
+        "digital": "0:13:03",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 3,
+        "percent": 7.38
+      },
+      {
+        "name": "springframework.context",
+        "total_seconds": 680.78,
+        "digital": "0:11:20",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 20,
+        "percent": 6.42
+      },
+      {
+        "name": "springframework.http",
+        "total_seconds": 590.589,
+        "digital": "0:09:50",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 50,
+        "percent": 5.57
+      },
+      {
+        "name": "jakarta.servlet",
+        "total_seconds": 475.358,
+        "digital": "0:07:55",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 55,
+        "percent": 4.48
+      },
+      {
+        "name": "Illuminate",
+        "total_seconds": 294.577082,
+        "digital": "0:04:54",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 54,
+        "percent": 2.78
+      },
+      {
+        "name": "io.swagger",
+        "total_seconds": 270.549,
+        "digital": "0:04:30",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 30,
+        "percent": 2.55
+      },
+      {
+        "name": "springdoc.core",
+        "total_seconds": 270.549,
+        "digital": "0:04:30",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 30,
+        "percent": 2.55
+      },
+      {
+        "name": "form-status",
+        "total_seconds": 256.514823,
+        "digital": "0:04:16",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 16,
+        "percent": 2.42
+      },
+      {
+        "name": "core",
+        "total_seconds": 238.251931,
+        "digital": "0:03:58",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 58,
+        "percent": 2.25
+      },
+      {
+        "name": "zone.interface",
+        "total_seconds": 172.693874,
+        "digital": "0:02:52",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 52,
+        "percent": 1.63
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 130.818,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 1.23
+      },
+      {
+        "name": "auth0.jwt",
+        "total_seconds": 130.776,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 1.23
+      },
+      {
+        "name": "building.interface",
+        "total_seconds": 116.664615,
+        "digital": "0:01:56",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 56,
+        "percent": 1.1
+      },
+      {
+        "name": "rxjs",
+        "total_seconds": 65.558057,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 0.62
+      },
+      {
+        "name": "Notifiable",
+        "total_seconds": 9.110966,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.09
+      },
+      {
+        "name": "springframework.ui",
+        "total_seconds": 0.02,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "springframework.validation",
+        "total_seconds": 0.02,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 0.013,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "springframework.data",
+        "total_seconds": 0.012,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 8245.64569,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "2:17:25",
+        "decimal": "2.28",
+        "text": "2 hrs 17 mins",
+        "hours": 2,
+        "minutes": 17,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 5810.163817,
+        "digital": "1:36:50",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 50,
+        "percent": 70.46
+      },
+      {
+        "name": "IntelliJ",
+        "total_seconds": 1742.935,
+        "digital": "0:29:02",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 2,
+        "percent": 21.14
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 692.546873,
+        "digital": "0:11:32",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 32,
+        "percent": 8.4
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8245.64569,
+        "digital": "2:17:25",
+        "decimal": "2.28",
+        "text": "2 hrs 17 mins",
+        "hours": 2,
+        "minutes": 17,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8014.319066,
+        "digital": "2:13:34",
+        "decimal": "2.22",
+        "text": "2 hrs 13 mins",
+        "hours": 2,
+        "minutes": 13,
+        "seconds": 34,
+        "percent": 97.19
+      },
+      {
+        "name": "Building",
+        "total_seconds": 231.326624,
+        "digital": "0:03:51",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 51,
+        "percent": 2.81
+      }
+    ]
+  },
+  "2023-12-17": {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 14,
+      "total_seconds": 8078.676114,
+      "digital": "2:14",
+      "decimal": "2.23",
+      "text": "2 hrs 14 mins"
+    },
+    "range": {
+      "start": "2023-12-16T23:00:00Z",
+      "end": "2023-12-17T22:59:59Z",
+      "date": "2023-12-17",
+      "text": "Sun Dec 17th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Le2d_Producto4",
+        "total_seconds": 5119.312,
+        "color": null,
+        "digital": "1:25:19",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 19,
+        "percent": 63.37
+      },
+      {
+        "name": "producto3PHP",
+        "total_seconds": 2942.967651,
+        "color": null,
+        "digital": "0:49:02",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 2,
+        "percent": 36.43
+      },
+      {
+        "name": "cursodesarrolloweb",
+        "total_seconds": 16.396463,
+        "color": null,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.2
+      }
+    ],
+    "languages": [
+      {
+        "name": "Java",
+        "total_seconds": 5119.31,
+        "digital": "1:25:19",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 19,
+        "percent": 63.37
+      },
+      {
+        "name": "Blade Template",
+        "total_seconds": 1676.187009,
+        "digital": "0:27:56",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 56,
+        "percent": 20.75
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 873.284098,
+        "digital": "0:14:33",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 33,
+        "percent": 10.81
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 393.496544,
+        "digital": "0:06:33",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 33,
+        "percent": 4.87
+      },
+      {
+        "name": "C#",
+        "total_seconds": 16.396463,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.2
+      },
+      {
+        "name": "Text",
+        "total_seconds": 0.002,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "le2d.le2d",
+        "total_seconds": 2731.656,
+        "digital": "0:45:31",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 31,
+        "percent": 14.15
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 2530.044,
+        "digital": "0:42:10",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 10,
+        "percent": 13.11
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 2238.423,
+        "digital": "0:37:18",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 18,
+        "percent": 11.6
+      },
+      {
+        "name": "jakarta.servlet",
+        "total_seconds": 2177.615,
+        "digital": "0:36:17",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 17,
+        "percent": 11.28
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 2159.33,
+        "digital": "0:35:59",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 59,
+        "percent": 11.19
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 2001.944,
+        "digital": "0:33:21",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 21,
+        "percent": 10.37
+      },
+      {
+        "name": "springframework.context",
+        "total_seconds": 1778.818,
+        "digital": "0:29:38",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 38,
+        "percent": 9.22
+      },
+      {
+        "name": "auth0.jwt",
+        "total_seconds": 1692.268,
+        "digital": "0:28:12",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 12,
+        "percent": 8.77
+      },
+      {
+        "name": "Illuminate",
+        "total_seconds": 873.284098,
+        "digital": "0:14:33",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 33,
+        "percent": 4.53
+      },
+      {
+        "name": "io.swagger",
+        "total_seconds": 267.531,
+        "digital": "0:04:27",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 27,
+        "percent": 1.39
+      },
+      {
+        "name": "springdoc.core",
+        "total_seconds": 267.531,
+        "digital": "0:04:27",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 27,
+        "percent": 1.39
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 177.192,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 0.92
+      },
+      {
+        "name": "springframework.data",
+        "total_seconds": 176.538,
+        "digital": "0:02:56",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 56,
+        "percent": 0.91
+      },
+      {
+        "name": "springframework.ui",
+        "total_seconds": 74.283,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 0.38
+      },
+      {
+        "name": "springframework.validation",
+        "total_seconds": 60.73,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 0.31
+      },
+      {
+        "name": "springframework.http",
+        "total_seconds": 39.178,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.2
+      },
+      {
+        "name": "Evaluacion",
+        "total_seconds": 16.396463,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.08
+      },
+      {
+        "name": "slf4j.Logger",
+        "total_seconds": 11.839,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.06
+      },
+      {
+        "name": "springframework.util",
+        "total_seconds": 11.839,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.06
+      },
+      {
+        "name": "slf4j.LoggerFactory",
+        "total_seconds": 11.839,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.06
+      },
+      {
+        "name": "ValidatesRequests",
+        "total_seconds": 0.287577,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "AuthorizesRequests",
+        "total_seconds": 0.287577,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 8078.676114,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "2:14:38",
+        "decimal": "2.23",
+        "text": "2 hrs 14 mins",
+        "hours": 2,
+        "minutes": 14,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 5119.312,
+        "digital": "1:25:19",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 19,
+        "percent": 63.37
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 2942.967651,
+        "digital": "0:49:02",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 2,
+        "percent": 36.43
+      },
+      {
+        "name": "Visual Studio",
+        "total_seconds": 16.396463,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.2
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8078.676114,
+        "digital": "2:14:38",
+        "decimal": "2.23",
+        "text": "2 hrs 14 mins",
+        "hours": 2,
+        "minutes": 14,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8078.676114,
+        "digital": "2:14:38",
+        "decimal": "2.23",
+        "text": "2 hrs 14 mins",
+        "hours": 2,
+        "minutes": 14,
+        "seconds": 38,
+        "percent": 100
+      },
+      {
+        "name": "Building",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ]
+  },
+  "2023-12-16": {
+    "grand_total": {
+      "hours": 6,
+      "minutes": 26,
+      "total_seconds": 23166.603853,
+      "digital": "6:26",
+      "decimal": "6.43",
+      "text": "6 hrs 26 mins"
+    },
+    "range": {
+      "start": "2023-12-15T23:00:00Z",
+      "end": "2023-12-16T22:59:59Z",
+      "date": "2023-12-16",
+      "text": "Sat Dec 16th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Le2d_Producto4",
+        "total_seconds": 23118.045,
+        "color": null,
+        "digital": "6:25:18",
+        "decimal": "6.42",
+        "text": "6 hrs 25 mins",
+        "hours": 6,
+        "minutes": 25,
+        "seconds": 18,
+        "percent": 99.79
+      },
+      {
+        "name": "producto3PHP",
+        "total_seconds": 47.301853,
+        "color": null,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 0.2
+      },
+      {
+        "name": "FP064_Producto2",
+        "total_seconds": 1.257,
+        "color": null,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      }
+    ],
+    "languages": [
+      {
+        "name": "Java",
+        "total_seconds": 20528.596036,
+        "digital": "5:42:08",
+        "decimal": "5.70",
+        "text": "5 hrs 42 mins",
+        "hours": 5,
+        "minutes": 42,
+        "seconds": 8,
+        "percent": 88.61
+      },
+      {
+        "name": "XML",
+        "total_seconds": 875.269,
+        "digital": "0:14:35",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 35,
+        "percent": 3.78
+      },
+      {
+        "name": "Text",
+        "total_seconds": 850.443156,
+        "digital": "0:14:10",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 10,
+        "percent": 3.67
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 391.389,
+        "digital": "0:06:31",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 31,
+        "percent": 1.69
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 269.386633,
+        "digital": "0:04:29",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 29,
+        "percent": 1.16
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 106.311175,
+        "digital": "0:01:46",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 46,
+        "percent": 0.46
+      },
+      {
+        "name": "Java Properties",
+        "total_seconds": 97.907,
+        "digital": "0:01:37",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 37,
+        "percent": 0.42
+      },
+      {
+        "name": "PHP",
+        "total_seconds": 47.301853,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 0.2
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "le2d.le2d",
+        "total_seconds": 15695.410478,
+        "digital": "4:21:35",
+        "decimal": "4.35",
+        "text": "4 hrs 21 mins",
+        "hours": 4,
+        "minutes": 21,
+        "seconds": 35,
+        "percent": 20.71
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 15363.747311,
+        "digital": "4:16:03",
+        "decimal": "4.27",
+        "text": "4 hrs 16 mins",
+        "hours": 4,
+        "minutes": 16,
+        "seconds": 3,
+        "percent": 20.28
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 14749.802675,
+        "digital": "4:05:49",
+        "decimal": "4.08",
+        "text": "4 hrs 5 mins",
+        "hours": 4,
+        "minutes": 5,
+        "seconds": 49,
+        "percent": 19.47
+      },
+      {
+        "name": "springframework.context",
+        "total_seconds": 14186.514367,
+        "digital": "3:56:26",
+        "decimal": "3.93",
+        "text": "3 hrs 56 mins",
+        "hours": 3,
+        "minutes": 56,
+        "seconds": 26,
+        "percent": 18.72
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 5889.664381,
+        "digital": "1:38:09",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 9,
+        "percent": 7.77
+      },
+      {
+        "name": "springframework.http",
+        "total_seconds": 2431.488636,
+        "digital": "0:40:31",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 31,
+        "percent": 3.21
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 2177.60822,
+        "digital": "0:36:17",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 17,
+        "percent": 2.87
+      },
+      {
+        "name": "auth0.jwt",
+        "total_seconds": 1210.292745,
+        "digital": "0:20:10",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 10,
+        "percent": 1.6
+      },
+      {
+        "name": "springdoc.core",
+        "total_seconds": 1114.399,
+        "digital": "0:18:34",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 34,
+        "percent": 1.47
+      },
+      {
+        "name": "io.swagger",
+        "total_seconds": 1040.592,
+        "digital": "0:17:20",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 20,
+        "percent": 1.37
+      },
+      {
+        "name": "jakarta.servlet",
+        "total_seconds": 697.656745,
+        "digital": "0:11:37",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 37,
+        "percent": 0.92
+      },
+      {
+        "name": "springframework.ui",
+        "total_seconds": 583.588,
+        "digital": "0:09:43",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 43,
+        "percent": 0.77
+      },
+      {
+        "name": "io.jsonwebtoken",
+        "total_seconds": 334.043,
+        "digital": "0:05:34",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 34,
+        "percent": 0.44
+      },
+      {
+        "name": "springframework.data",
+        "total_seconds": 113.827989,
+        "digital": "0:01:53",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 0.15
+      },
+      {
+        "name": "springframework.util",
+        "total_seconds": 89.564,
+        "digital": "0:01:29",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 29,
+        "percent": 0.12
+      },
+      {
+        "name": "Illuminate",
+        "total_seconds": 47.301853,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 0.06
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 25.317035,
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 0.03
+      },
+      {
+        "name": "springframework.validation",
+        "total_seconds": 9.901,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.01
+      },
+      {
+        "name": "jakarta.annotation",
+        "total_seconds": 5.699178,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.01
+      },
+      {
+        "name": "springframework.boot",
+        "total_seconds": 3.598,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 23166.603853,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "6:26:06",
+        "decimal": "6.43",
+        "text": "6 hrs 26 mins",
+        "hours": 6,
+        "minutes": 26,
+        "seconds": 6,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 22212.186083,
+        "digital": "6:10:12",
+        "decimal": "6.17",
+        "text": "6 hrs 10 mins",
+        "hours": 6,
+        "minutes": 10,
+        "seconds": 12,
+        "percent": 95.88
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 954.41777,
+        "digital": "0:15:54",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 54,
+        "percent": 4.12
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 23166.603853,
+        "digital": "6:26:06",
+        "decimal": "6.43",
+        "text": "6 hrs 26 mins",
+        "hours": 6,
+        "minutes": 26,
+        "seconds": 6,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 23166.603853,
+        "digital": "6:26:06",
+        "decimal": "6.43",
+        "text": "6 hrs 26 mins",
+        "hours": 6,
+        "minutes": 26,
+        "seconds": 6,
+        "percent": 100
+      }
+    ]
+  },
+  "2023-12-15": {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 16,
+      "total_seconds": 4567.979672,
+      "digital": "1:16",
+      "decimal": "1.27",
+      "text": "1 hr 16 mins"
+    },
+    "range": {
+      "start": "2023-12-14T23:00:00Z",
+      "end": "2023-12-15T22:59:59Z",
+      "date": "2023-12-15",
+      "text": "Fri Dec 15th 2023",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Evaluacion",
+        "total_seconds": 2594.506803,
+        "color": null,
+        "digital": "0:43:14",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 14,
+        "percent": 56.8
+      },
+      {
+        "name": "Le2d_Producto4",
+        "total_seconds": 772.077,
+        "color": null,
+        "digital": "0:12:52",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 52,
+        "percent": 16.9
+      },
+      {
+        "name": "menu_pc",
+        "total_seconds": 695.029121,
+        "color": null,
+        "digital": "0:11:35",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 35,
+        "percent": 15.22
+      },
+      {
+        "name": "AngularLiga",
+        "total_seconds": 506.366748,
+        "color": null,
+        "digital": "0:08:26",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 26,
+        "percent": 11.09
+      }
+    ],
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 2323.756341,
+        "digital": "0:38:43",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 43,
+        "percent": 50.87
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 776.170839,
+        "digital": "0:12:56",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 56,
+        "percent": 16.99
+      },
+      {
+        "name": "Java",
+        "total_seconds": 511.037,
+        "digital": "0:08:31",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 31,
+        "percent": 11.19
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 346.07114,
+        "digital": "0:05:46",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 46,
+        "percent": 7.58
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 270.750462,
+        "digital": "0:04:30",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 30,
+        "percent": 5.93
+      },
+      {
+        "name": "XML",
+        "total_seconds": 252.783,
+        "digital": "0:04:12",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 12,
+        "percent": 5.53
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 45.768851,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 1
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 24.249316,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.53
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 8.233,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.18
+      },
+      {
+        "name": "SCSS",
+        "total_seconds": 4.730315,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.1
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 4.405408,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.1
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 0.024,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Evaluacion",
+        "total_seconds": 1332.058671,
+        "digital": "0:22:12",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 12,
+        "percent": 29.1
+      },
+      {
+        "name": "core",
+        "total_seconds": 629.622508,
+        "digital": "0:10:29",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 29,
+        "percent": 13.75
+      },
+      {
+        "name": "springframework.context",
+        "total_seconds": 468.789,
+        "digital": "0:07:48",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 48,
+        "percent": 10.24
+      },
+      {
+        "name": "form-status",
+        "total_seconds": 412.57981,
+        "digital": "0:06:52",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 52,
+        "percent": 9.01
+      },
+      {
+        "name": "springdoc.core",
+        "total_seconds": 398.427,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 8.7
+      },
+      {
+        "name": "zone.interface",
+        "total_seconds": 392.09225,
+        "digital": "0:06:32",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 32,
+        "percent": 8.56
+      },
+      {
+        "name": "building.interface",
+        "total_seconds": 113.648852,
+        "digital": "0:01:53",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 2.48
+      },
+      {
+        "name": "WebDriverManager",
+        "total_seconds": 96.577265,
+        "digital": "0:01:36",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 36,
+        "percent": 2.11
+      },
+      {
+        "name": "OpenQA",
+        "total_seconds": 96.577265,
+        "digital": "0:01:36",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 36,
+        "percent": 2.11
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 95.291,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 2.08
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 95.291,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 2.08
+      },
+      {
+        "name": "le2d.le2d",
+        "total_seconds": 70.362,
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 1.54
+      },
+      {
+        "name": "rxjs",
+        "total_seconds": 42.322396,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 0.92
+      },
+      {
+        "name": "NUnit",
+        "total_seconds": 29.637773,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.65
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 24.929,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.54
+      },
+      {
+        "name": "io.jsonwebtoken",
+        "total_seconds": 24.929,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.54
+      },
+      {
+        "name": "environment",
+        "total_seconds": 23.940483,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.52
+      },
+      {
+        "name": "user.interface",
+        "total_seconds": 23.940483,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.52
+      },
+      {
+        "name": "http",
+        "total_seconds": 23.940483,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.52
+      },
+      {
+        "name": "status.component",
+        "total_seconds": 22.330217,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.49
+      },
+      {
+        "name": "personal.component",
+        "total_seconds": 13.586196,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.3
+      },
+      {
+        "name": "interior.component",
+        "total_seconds": 13.586196,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.3
+      },
+      {
+        "name": "equipo.interface",
+        "total_seconds": 12.752627,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.28
+      },
+      {
+        "name": "router",
+        "total_seconds": 8.873595,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.19
+      },
+      {
+        "name": "app-routing.module",
+        "total_seconds": 4.712601,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.1
+      },
+      {
+        "name": "main-page.component",
+        "total_seconds": 4.712601,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.1
+      },
+      {
+        "name": "forms",
+        "total_seconds": 4.712601,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.1
+      },
+      {
+        "name": "common",
+        "total_seconds": 4.712601,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.1
+      },
+      {
+        "name": "@angular/animations",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "@angular/platform-browser-dynamic",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "@angular/cli",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "jasmine-core",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "@angular/compiler-cli",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "@types/jasmine",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "@angular/common",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "@angular/platform-browser",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "karma-jasmine-html-reporter",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "tslib",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "zone.js",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "@angular/router",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "npm",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "karma-coverage",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "karma",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "@angular/core",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "@angular-devkit/build-angular",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "@angular/compiler",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "@angular/forms",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "bootstrap",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "karma-chrome-launcher",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "karma-jasmine",
+        "total_seconds": 3.940304,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.09
+      },
+      {
+        "name": "springframework.boot",
+        "total_seconds": 2.528,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.06
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 4567.979672,
+        "machine_name_id": "018bf61a-ba3e-435e-89b0-f0419dbf8f2c",
+        "digital": "1:16:07",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 2594.506803,
+        "digital": "0:43:14",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 14,
+        "percent": 56.8
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 1201.395869,
+        "digital": "0:20:01",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 1,
+        "percent": 26.3
+      },
+      {
+        "name": "IntelliJ",
+        "total_seconds": 772.077,
+        "digital": "0:12:52",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 52,
+        "percent": 16.9
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4567.979672,
+        "digital": "1:16:07",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4297.22921,
+        "digital": "1:11:37",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 37,
+        "percent": 94.07
+      },
+      {
+        "name": "Building",
+        "total_seconds": 225.815973,
+        "digital": "0:03:45",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 45,
+        "percent": 4.94
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 44.934489,
+        "digital": "0:00:44",
+        "decimal": "0.00",
+        "text": "44 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 44,
+        "percent": 0.98
+      }
+    ]
+  }
+}
