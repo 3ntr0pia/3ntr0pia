@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a newcomer to the world of programming, but my
 ## 🎮 Hobbies:
 Growing up surrounded by computers and gaming consoles, my enthusiasm for video games was inevitable. I've been a gamer since I was a child. Apart from gaming, I'm passionate about technology, watching animes, and reading. I also enjoy setting up game servers with my group of friends. Music holds a special place in my heart, and I play the ukulele!
 
-## 📸 Photography:
+## 📸 Photography :
 I have a deep passion for photography and love capturing moments that tell a story. Check out my [Gurushots profile](https://gurushots.com/Entr0pia?tc=d02671eefb3e53dee8f44e6f8e7738f0) to see some of my favorite shots! 🌄📷
 
 ## 🌱 Current Endeavors:
