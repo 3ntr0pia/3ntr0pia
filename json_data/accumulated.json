@@ -14,7 +14,7 @@
         },
         {
             "name": "C#",
-            "total_seconds": 291084.608727
+            "total_seconds": 304389.04208700004
         },
         {
             "name": "Docker",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Text",
-            "total_seconds": 23903.856291000004
+            "total_seconds": 24506.031887000005
         },
         {
             "name": "Markdown",
@@ -30,7 +30,7 @@
         },
         {
             "name": "XML",
-            "total_seconds": 32193.999397
+            "total_seconds": 32205.159906
         },
         {
             "name": "Properties",
@@ -38,11 +38,11 @@
         },
         {
             "name": "HTML",
-            "total_seconds": 146158.48391
+            "total_seconds": 200317.00664
         },
         {
             "name": "CSS",
-            "total_seconds": 36608.863846
+            "total_seconds": 48779.036327
         },
         {
             "name": "Java Properties",
@@ -50,11 +50,11 @@
         },
         {
             "name": "SQL",
-            "total_seconds": 11802.629006999998
+            "total_seconds": 12685.579181999998
         },
         {
             "name": "TypeScript",
-            "total_seconds": 106397.002216
+            "total_seconds": 189584.984285
         },
         {
             "name": "GitIgnore file",
@@ -74,11 +74,11 @@
         },
         {
             "name": "Other",
-            "total_seconds": 11328.41312
+            "total_seconds": 11331.538343999999
         },
         {
             "name": "Binary",
-            "total_seconds": 47080.616792999994
+            "total_seconds": 58355.26262499999
         },
         {
             "name": "Blender",
@@ -110,7 +110,7 @@
         },
         {
             "name": "JSON",
-            "total_seconds": 15487.190089
+            "total_seconds": 17477.393716
         },
         {
             "name": "TSConfig",
@@ -122,7 +122,7 @@
         },
         {
             "name": "INI",
-            "total_seconds": 225.72872
+            "total_seconds": 237.33380100000002
         },
         {
             "name": "Blade Template",
@@ -130,7 +130,7 @@
         },
         {
             "name": "SCSS",
-            "total_seconds": 15434.192613999998
+            "total_seconds": 15846.764086999998
         },
         {
             "name": "Python",
