@@ -14,7 +14,7 @@
         },
         {
             "name": "C#",
-            "total_seconds": 304389.04208700004
+            "total_seconds": 318207.85767000006
         },
         {
             "name": "Docker",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Text",
-            "total_seconds": 24506.031887000005
+            "total_seconds": 25138.851799000004
         },
         {
             "name": "Markdown",
@@ -30,7 +30,7 @@
         },
         {
             "name": "XML",
-            "total_seconds": 32205.159906
+            "total_seconds": 32216.320415000002
         },
         {
             "name": "Properties",
@@ -38,11 +38,11 @@
         },
         {
             "name": "HTML",
-            "total_seconds": 200317.00664
+            "total_seconds": 259575.803392
         },
         {
             "name": "CSS",
-            "total_seconds": 48779.036327
+            "total_seconds": 84481.24790300001
         },
         {
             "name": "Java Properties",
@@ -50,11 +50,11 @@
         },
         {
             "name": "SQL",
-            "total_seconds": 12685.579181999998
+            "total_seconds": 13873.840993999998
         },
         {
             "name": "TypeScript",
-            "total_seconds": 189584.984285
+            "total_seconds": 281841.88825200003
         },
         {
             "name": "GitIgnore file",
@@ -74,11 +74,11 @@
         },
         {
             "name": "Other",
-            "total_seconds": 11331.538343999999
+            "total_seconds": 11336.021284999999
         },
         {
             "name": "Binary",
-            "total_seconds": 58355.26262499999
+            "total_seconds": 71909.14903099998
         },
         {
             "name": "Blender",
@@ -110,7 +110,7 @@
         },
         {
             "name": "JSON",
-            "total_seconds": 17477.393716
+            "total_seconds": 19524.420014
         },
         {
             "name": "TSConfig",
@@ -122,7 +122,7 @@
         },
         {
             "name": "INI",
-            "total_seconds": 237.33380100000002
+            "total_seconds": 248.93888200000004
         },
         {
             "name": "Blade Template",
