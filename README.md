@@ -35,7 +35,7 @@ I'm proud to be a part of the Fractal Game Studios team. Currently, I'm juggling
 ### **Frameworks & Libraries:**
 |  |  |  |
 |--------------|--------------|--------------|
-| ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) | Angular | 🟡🟡⚪⚪⚪⚪ |
+| ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) | Angular | 🟢🟢🟢⚪⚪⚪ |
 | ![React](https://img.icons8.com/color/48/000000/react-native.png) | React | 🟡🟡⚪⚪⚪⚪ |
 | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | Bootstrap | 🟢🟢🟢⚪⚪⚪ |
 
@@ -44,7 +44,7 @@ I'm proud to be a part of the Fractal Game Studios team. Currently, I'm juggling
 |--------------|--------------|--------------|
 | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) | HTML |🟢🟢🟢🟢⚪⚪ |
 | ![CSS](https://img.icons8.com/color/48/000000/css3.png) | CSS | 🟢🟢🟢⚪⚪⚪ |
-| ![SASS](https://img.icons8.com/color/48/000000/sass.png) | SASS | 🟢🟢🟢⚪⚪⚪ |
+| ![SASS](https://img.icons8.com/color/48/000000/sass.png) | SASS | 🟡🟡⚪⚪⚪⚪ |
 
 ### **Databases:**
 |  |  |  |
