@@ -86,7 +86,8 @@ Visit my social networks:
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=3ntr0pia&theme=dracula&layout=compact"/>
 <br>
-Más Estadísticas : https://wakatime.com/@3ntr0pia
+
+[![wakatime](https://wakatime.com/badge/user/9a4f4760-853c-43a3-b80f-8e9a8180e173.svg)](https://wakatime.com/@9a4f4760-853c-43a3-b80f-8e9a8180e173)
 
 ![Codewars Badge](https://www.codewars.com/users/3ntr0pia/badges/large)
 
