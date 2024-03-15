@@ -1,0 +1,3533 @@
+{
+  "2024-03-14": {
+    "languages": [
+      {
+        "name": "CSHTML",
+        "total_seconds": 6769.204659,
+        "digital": "1:52:49",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 49,
+        "percent": 49.21
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 2756.429543,
+        "digital": "0:45:56",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 56,
+        "percent": 20.04
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 1757.403876,
+        "digital": "0:29:17",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 17,
+        "percent": 12.78
+      },
+      {
+        "name": "C#",
+        "total_seconds": 1601.207899,
+        "digital": "0:26:41",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 41,
+        "percent": 11.64
+      },
+      {
+        "name": "XML",
+        "total_seconds": 868.468171,
+        "digital": "0:14:28",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 28,
+        "percent": 6.31
+      },
+      {
+        "name": "Image (png)",
+        "total_seconds": 2.369592,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 49,
+      "total_seconds": 13755.08374,
+      "digital": "3:49",
+      "decimal": "3.82",
+      "text": "3 hrs 49 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 12886.615569,
+        "digital": "3:34:46",
+        "decimal": "3.57",
+        "text": "3 hrs 34 mins",
+        "hours": 3,
+        "minutes": 34,
+        "seconds": 46,
+        "percent": 93.69
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 868.468171,
+        "digital": "0:14:28",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 28,
+        "percent": 6.31
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13755.08374,
+        "digital": "3:49:15",
+        "decimal": "3.82",
+        "text": "3 hrs 49 mins",
+        "hours": 3,
+        "minutes": 49,
+        "seconds": 15,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 11997.679864,
+        "digital": "3:19:57",
+        "decimal": "3.32",
+        "text": "3 hrs 19 mins",
+        "hours": 3,
+        "minutes": 19,
+        "seconds": 57,
+        "percent": 87.22
+      },
+      {
+        "name": "Building",
+        "total_seconds": 1484.854565,
+        "digital": "0:24:44",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 44,
+        "percent": 10.79
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 272.549311,
+        "digital": "0:04:32",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 32,
+        "percent": 1.98
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 1572.692705,
+        "digital": "0:26:12",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 12,
+        "percent": 67.15
+      },
+      {
+        "name": "FileStream(path,FileMode",
+        "total_seconds": 764.725711,
+        "digital": "0:12:44",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 44,
+        "percent": 32.65
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 4.77762,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.2
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 13755.08374,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "3:49:15",
+        "decimal": "3.82",
+        "text": "3 hrs 49 mins",
+        "hours": 3,
+        "minutes": 49,
+        "seconds": 15,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 12886.615569,
+        "digital": "3:34:46",
+        "decimal": "3.57",
+        "text": "3 hrs 34 mins",
+        "hours": 3,
+        "minutes": 34,
+        "seconds": 46,
+        "percent": 93.69
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 868.468171,
+        "digital": "0:14:28",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 28,
+        "percent": 6.31
+      }
+    ],
+    "range": {
+      "start": "2024-03-13T23:00:00Z",
+      "end": "2024-03-14T22:59:59Z",
+      "date": "2024-03-14",
+      "text": "Thu Mar 14th 2024",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2024-03-13": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 5740.870201,
+        "digital": "1:35:40",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 40,
+        "percent": 52.16
+      },
+      {
+        "name": "CSHTML",
+        "total_seconds": 3165.275913,
+        "digital": "0:52:45",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 45,
+        "percent": 28.76
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 1801.669918,
+        "digital": "0:30:01",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 1,
+        "percent": 16.37
+      },
+      {
+        "name": "C++",
+        "total_seconds": 211.180607,
+        "digital": "0:03:31",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 31,
+        "percent": 1.92
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 87.431507,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 0.79
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 3,
+      "total_seconds": 11006.428146,
+      "digital": "3:03",
+      "decimal": "3.05",
+      "text": "3 hrs 3 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 10795.247539,
+        "digital": "2:59:55",
+        "decimal": "2.98",
+        "text": "2 hrs 59 mins",
+        "hours": 2,
+        "minutes": 59,
+        "seconds": 55,
+        "percent": 98.08
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 211.180607,
+        "digital": "0:03:31",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 31,
+        "percent": 1.92
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 11006.428146,
+        "digital": "3:03:26",
+        "decimal": "3.05",
+        "text": "3 hrs 3 mins",
+        "hours": 3,
+        "minutes": 3,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 9108.438214,
+        "digital": "2:31:48",
+        "decimal": "2.52",
+        "text": "2 hrs 31 mins",
+        "hours": 2,
+        "minutes": 31,
+        "seconds": 48,
+        "percent": 82.76
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 1768.226226,
+        "digital": "0:29:28",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 28,
+        "percent": 16.07
+      },
+      {
+        "name": "Building",
+        "total_seconds": 129.763706,
+        "digital": "0:02:09",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 9,
+        "percent": 1.18
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 5522.189994,
+        "digital": "1:32:02",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 11006.428146,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "3:03:26",
+        "decimal": "3.05",
+        "text": "3 hrs 3 mins",
+        "hours": 3,
+        "minutes": 3,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 10795.247539,
+        "color": null,
+        "digital": "2:59:55",
+        "decimal": "2.98",
+        "text": "2 hrs 59 mins",
+        "hours": 2,
+        "minutes": 59,
+        "seconds": 55,
+        "percent": 98.08
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 211.180607,
+        "color": null,
+        "digital": "0:03:31",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 31,
+        "percent": 1.92
+      }
+    ],
+    "range": {
+      "start": "2024-03-12T23:00:00Z",
+      "end": "2024-03-13T22:59:59Z",
+      "date": "2024-03-13",
+      "text": "Wed Mar 13th 2024",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2024-03-12": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 8532.72473,
+        "digital": "2:22:12",
+        "decimal": "2.37",
+        "text": "2 hrs 22 mins",
+        "hours": 2,
+        "minutes": 22,
+        "seconds": 12,
+        "percent": 70.02
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 1597.464349,
+        "digital": "0:26:37",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 37,
+        "percent": 13.11
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 1168.439064,
+        "digital": "0:19:28",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 28,
+        "percent": 9.59
+      },
+      {
+        "name": "SCSS",
+        "total_seconds": 538.602689,
+        "digital": "0:08:58",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 58,
+        "percent": 4.42
+      },
+      {
+        "name": "XML",
+        "total_seconds": 252.525786,
+        "digital": "0:04:12",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 12,
+        "percent": 2.07
+      },
+      {
+        "name": "C++",
+        "total_seconds": 51.432656,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 0.42
+      },
+      {
+        "name": "CSHTML",
+        "total_seconds": 44.637718,
+        "digital": "0:00:44",
+        "decimal": "0.00",
+        "text": "44 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 44,
+        "percent": 0.37
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 0.365449,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "Other",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 23,
+      "total_seconds": 12186.192441,
+      "digital": "3:23",
+      "decimal": "3.38",
+      "text": "3 hrs 23 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 8577.362448,
+        "digital": "2:22:57",
+        "decimal": "2.37",
+        "text": "2 hrs 22 mins",
+        "hours": 2,
+        "minutes": 22,
+        "seconds": 57,
+        "percent": 70.39
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 3608.829993,
+        "digital": "1:00:08",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 29.61
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 12186.192441,
+        "digital": "3:23:06",
+        "decimal": "3.38",
+        "text": "3 hrs 23 mins",
+        "hours": 3,
+        "minutes": 23,
+        "seconds": 6,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 12186.192441,
+        "digital": "3:23:06",
+        "decimal": "3.38",
+        "text": "3 hrs 23 mins",
+        "hours": 3,
+        "minutes": 23,
+        "seconds": 6,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 6419.579699,
+        "digital": "1:46:59",
+        "decimal": "1.77",
+        "text": "1 hr 46 mins",
+        "hours": 1,
+        "minutes": 46,
+        "seconds": 59,
+        "percent": 53.7
+      },
+      {
+        "name": "core",
+        "total_seconds": 1112.193141,
+        "digital": "0:18:32",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 32,
+        "percent": 9.3
+      },
+      {
+        "name": "router",
+        "total_seconds": 1035.609719,
+        "digital": "0:17:15",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 15,
+        "percent": 8.66
+      },
+      {
+        "name": "game-display.component",
+        "total_seconds": 471.37462,
+        "digital": "0:07:51",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 51,
+        "percent": 3.94
+      },
+      {
+        "name": "init.component",
+        "total_seconds": 404.151567,
+        "digital": "0:06:44",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 44,
+        "percent": 3.38
+      },
+      {
+        "name": "home.component",
+        "total_seconds": 400.661977,
+        "digital": "0:06:40",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 40,
+        "percent": 3.35
+      },
+      {
+        "name": "game.interface",
+        "total_seconds": 365.365387,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 3.06
+      },
+      {
+        "name": "ipc.service",
+        "total_seconds": 343.134369,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 2.87
+      },
+      {
+        "name": "platform-browser",
+        "total_seconds": 262.19793,
+        "digital": "0:04:22",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 22,
+        "percent": 2.19
+      },
+      {
+        "name": "app-routing.module",
+        "total_seconds": 262.19793,
+        "digital": "0:04:22",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 22,
+        "percent": 2.19
+      },
+      {
+        "name": "main.module",
+        "total_seconds": 262.19793,
+        "digital": "0:04:22",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 22,
+        "percent": 2.19
+      },
+      {
+        "name": "app.component",
+        "total_seconds": 262.19793,
+        "digital": "0:04:22",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 22,
+        "percent": 2.19
+      },
+      {
+        "name": "spinner.component",
+        "total_seconds": 262.19793,
+        "digital": "0:04:22",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 22,
+        "percent": 2.19
+      },
+      {
+        "name": "forms",
+        "total_seconds": 22.519037,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.19
+      },
+      {
+        "name": "navbar-element.component",
+        "total_seconds": 22.519037,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.19
+      },
+      {
+        "name": "common",
+        "total_seconds": 22.519037,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.19
+      },
+      {
+        "name": "main-lau.component",
+        "total_seconds": 7.532474,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.06
+      },
+      {
+        "name": "home-lau.component",
+        "total_seconds": 7.532474,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.06
+      },
+      {
+        "name": "error-lau.component",
+        "total_seconds": 7.532474,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.06
+      },
+      {
+        "name": "testing",
+        "total_seconds": 1.189733,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 12186.192441,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "3:23:06",
+        "decimal": "3.38",
+        "text": "3 hrs 23 mins",
+        "hours": 3,
+        "minutes": 23,
+        "seconds": 6,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 8577.362448,
+        "color": null,
+        "digital": "2:22:57",
+        "decimal": "2.37",
+        "text": "2 hrs 22 mins",
+        "hours": 2,
+        "minutes": 22,
+        "seconds": 57,
+        "percent": 70.39
+      },
+      {
+        "name": "fractal_launcher",
+        "total_seconds": 3210.670779,
+        "color": null,
+        "digital": "0:53:30",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 30,
+        "percent": 26.35
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 303.958442,
+        "color": null,
+        "digital": "0:05:03",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 3,
+        "percent": 2.49
+      },
+      {
+        "name": "Evaluacion",
+        "total_seconds": 94.200772,
+        "color": null,
+        "digital": "0:01:34",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 34,
+        "percent": 0.77
+      }
+    ],
+    "range": {
+      "start": "2024-03-11T23:00:00Z",
+      "end": "2024-03-12T22:59:59Z",
+      "date": "2024-03-12",
+      "text": "Tue Mar 12th 2024",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2024-03-11": {
+    "languages": [
+      {
+        "name": "SCSS",
+        "total_seconds": 3736.699455,
+        "digital": "1:02:16",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 16,
+        "percent": 54.9
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 1481.431743,
+        "digital": "0:24:41",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 41,
+        "percent": 21.76
+      },
+      {
+        "name": "C++",
+        "total_seconds": 1237.694103,
+        "digital": "0:20:37",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 37,
+        "percent": 18.18
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 303.83542,
+        "digital": "0:05:03",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 3,
+        "percent": 4.46
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 25.947997,
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 0.38
+      },
+      {
+        "name": "Other",
+        "total_seconds": 14.694921,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.22
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 6.339437,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.09
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 53,
+      "total_seconds": 6806.643076,
+      "digital": "1:53",
+      "decimal": "1.88",
+      "text": "1 hr 53 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6806.643076,
+        "digital": "1:53:26",
+        "decimal": "1.88",
+        "text": "1 hr 53 mins",
+        "hours": 1,
+        "minutes": 53,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6806.643076,
+        "digital": "1:53:26",
+        "decimal": "1.88",
+        "text": "1 hr 53 mins",
+        "hours": 1,
+        "minutes": 53,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6806.643076,
+        "digital": "1:53:26",
+        "decimal": "1.88",
+        "text": "1 hr 53 mins",
+        "hours": 1,
+        "minutes": 53,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "core",
+        "total_seconds": 5.4946,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 76.48
+      },
+      {
+        "name": "spinner.component",
+        "total_seconds": 0.844837,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 11.76
+      },
+      {
+        "name": "testing",
+        "total_seconds": 0.844837,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 11.76
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 6806.643076,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "1:53:26",
+        "decimal": "1.88",
+        "text": "1 hr 53 mins",
+        "hours": 1,
+        "minutes": 53,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fractal_launcher",
+        "total_seconds": 5519.535329,
+        "color": null,
+        "digital": "1:31:59",
+        "decimal": "1.52",
+        "text": "1 hr 31 mins",
+        "hours": 1,
+        "minutes": 31,
+        "seconds": 59,
+        "percent": 81.09
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 1252.389024,
+        "color": null,
+        "digital": "0:20:52",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 52,
+        "percent": 18.4
+      },
+      {
+        "name": "provisional",
+        "total_seconds": 34.718723,
+        "color": null,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.51
+      }
+    ],
+    "range": {
+      "start": "2024-03-10T23:00:00Z",
+      "end": "2024-03-11T22:59:59Z",
+      "date": "2024-03-11",
+      "text": "Mon Mar 11th 2024",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2024-03-10": {
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 724.62464,
+        "digital": "0:12:04",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 4,
+        "percent": 42.95
+      },
+      {
+        "name": "CSHTML",
+        "total_seconds": 688.460044,
+        "digital": "0:11:28",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 28,
+        "percent": 40.81
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 133.988877,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 7.94
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 130.968512,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 7.76
+      },
+      {
+        "name": "XML",
+        "total_seconds": 9.14138,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.54
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 28,
+      "total_seconds": 1687.183453,
+      "digital": "0:28",
+      "decimal": "0.47",
+      "text": "28 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 1544.053196,
+        "digital": "0:25:44",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 44,
+        "percent": 91.52
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 143.130257,
+        "digital": "0:02:23",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 23,
+        "percent": 8.48
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1687.183453,
+        "digital": "0:28:07",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1556.214941,
+        "digital": "0:25:56",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 56,
+        "percent": 92.24
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 119.664977,
+        "digital": "0:01:59",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 59,
+        "percent": 7.09
+      },
+      {
+        "name": "Building",
+        "total_seconds": 11.303535,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.67
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 400.515115,
+        "digital": "0:06:40",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 40,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 1687.183453,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "0:28:07",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 1544.053196,
+        "color": null,
+        "digital": "0:25:44",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 44,
+        "percent": 91.52
+      },
+      {
+        "name": "crypto",
+        "total_seconds": 133.988877,
+        "color": null,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 7.94
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 9.14138,
+        "color": null,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.54
+      }
+    ],
+    "range": {
+      "start": "2024-03-09T23:00:00Z",
+      "end": "2024-03-10T22:59:59Z",
+      "date": "2024-03-10",
+      "text": "Sun Mar 10th 2024",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2024-03-09": {
+    "languages": [
+      {
+        "name": "CSHTML",
+        "total_seconds": 3492.425042,
+        "digital": "0:58:12",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 12,
+        "percent": 70.87
+      },
+      {
+        "name": "C#",
+        "total_seconds": 634.416396,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 12.87
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 395.530752,
+        "digital": "0:06:35",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 35,
+        "percent": 8.03
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 372.397303,
+        "digital": "0:06:12",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 12,
+        "percent": 7.56
+      },
+      {
+        "name": "Razor",
+        "total_seconds": 33.15155,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 0.67
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 22,
+      "total_seconds": 4927.921043,
+      "digital": "1:22",
+      "decimal": "1.37",
+      "text": "1 hr 22 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 4927.921043,
+        "digital": "1:22:07",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4927.921043,
+        "digital": "1:22:07",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4529.578737,
+        "digital": "1:15:29",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 29,
+        "percent": 91.92
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 201.816861,
+        "digital": "0:03:21",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 21,
+        "percent": 4.1
+      },
+      {
+        "name": "Building",
+        "total_seconds": 196.525445,
+        "digital": "0:03:16",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 16,
+        "percent": 3.99
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 375.559317,
+        "digital": "0:06:15",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 15,
+        "percent": 80.85
+      },
+      {
+        "name": "ElectronNET",
+        "total_seconds": 88.959696,
+        "digital": "0:01:28",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 28,
+        "percent": 19.15
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 4927.921043,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "1:22:07",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 4927.921043,
+        "color": null,
+        "digital": "1:22:07",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 7,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-03-08T23:00:00Z",
+      "end": "2024-03-09T22:59:59Z",
+      "date": "2024-03-09",
+      "text": "Sat Mar 9th 2024",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2024-03-08": {
+    "languages": [
+      {
+        "name": "CSHTML",
+        "total_seconds": 1523.345367,
+        "digital": "0:25:23",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 23,
+        "percent": 64.51
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 516.582061,
+        "digital": "0:08:36",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 36,
+        "percent": 21.87
+      },
+      {
+        "name": "C++",
+        "total_seconds": 194.424042,
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 8.23
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 126.024239,
+        "digital": "0:02:06",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 6,
+        "percent": 5.34
+      },
+      {
+        "name": "Image (png)",
+        "total_seconds": 1.192189,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.05
+      },
+      {
+        "name": "C",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 39,
+      "total_seconds": 2361.567898,
+      "digital": "0:39",
+      "decimal": "0.65",
+      "text": "39 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 2167.143856,
+        "digital": "0:36:07",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 7,
+        "percent": 91.77
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 194.424042,
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 8.23
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2361.567898,
+        "digital": "0:39:21",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1844.985837,
+        "digital": "0:30:44",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 44,
+        "percent": 78.13
+      },
+      {
+        "name": "Building",
+        "total_seconds": 466.65677,
+        "digital": "0:07:46",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 46,
+        "percent": 19.76
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 49.925291,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 2.11
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 2361.567898,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "0:39:21",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 2167.143856,
+        "color": null,
+        "digital": "0:36:07",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 7,
+        "percent": 91.77
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 194.424042,
+        "color": null,
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 8.23
+      },
+      {
+        "name": "5_Mission",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2024-03-07T23:00:00Z",
+      "end": "2024-03-08T22:59:59Z",
+      "date": "2024-03-08",
+      "text": "Fri Mar 8th 2024",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2024-03-07": {
+    "languages": [
+      {
+        "name": "Binary",
+        "total_seconds": 1796.424663,
+        "digital": "0:29:56",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 56,
+        "percent": 37.44
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 1148.561583,
+        "digital": "0:19:08",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 8,
+        "percent": 23.93
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 663.089086,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 13.82
+      },
+      {
+        "name": "C#",
+        "total_seconds": 564.606205,
+        "digital": "0:09:24",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 24,
+        "percent": 11.77
+      },
+      {
+        "name": "C++",
+        "total_seconds": 373.753879,
+        "digital": "0:06:13",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 13,
+        "percent": 7.79
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 90.544294,
+        "digital": "0:01:30",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 30,
+        "percent": 1.89
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 60.491673,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 1.26
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 42.068407,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 0.88
+      },
+      {
+        "name": "C",
+        "total_seconds": 26.559237,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.55
+      },
+      {
+        "name": "CSHTML",
+        "total_seconds": 13.857087,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.29
+      },
+      {
+        "name": "SCSS",
+        "total_seconds": 9.963592,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.21
+      },
+      {
+        "name": "Image (png)",
+        "total_seconds": 5.110266,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.11
+      },
+      {
+        "name": "Other",
+        "total_seconds": 3.667993,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.08
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 19,
+      "total_seconds": 4798.697965,
+      "digital": "1:19",
+      "decimal": "1.32",
+      "text": "1 hr 19 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 2573.102595,
+        "digital": "0:42:53",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 53,
+        "percent": 53.62
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 2225.59537,
+        "digital": "0:37:05",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 5,
+        "percent": 46.38
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4798.697965,
+        "digital": "1:19:58",
+        "decimal": "1.32",
+        "text": "1 hr 19 mins",
+        "hours": 1,
+        "minutes": 19,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3002.273302,
+        "digital": "0:50:02",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 2,
+        "percent": 62.56
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 1764.929594,
+        "digital": "0:29:24",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 24,
+        "percent": 36.78
+      },
+      {
+        "name": "Building",
+        "total_seconds": 31.495069,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 0.66
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "core",
+        "total_seconds": 858.415275,
+        "digital": "0:14:18",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 18,
+        "percent": 23.6
+      },
+      {
+        "name": "router",
+        "total_seconds": 666.684292,
+        "digital": "0:11:06",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 6,
+        "percent": 18.33
+      },
+      {
+        "name": "ElectronNET",
+        "total_seconds": 564.606205,
+        "digital": "0:09:24",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 24,
+        "percent": 15.53
+      },
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 564.606205,
+        "digital": "0:09:24",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 24,
+        "percent": 15.53
+      },
+      {
+        "name": "game-display.component",
+        "total_seconds": 309.686868,
+        "digital": "0:05:09",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 9,
+        "percent": 8.52
+      },
+      {
+        "name": "game.interface",
+        "total_seconds": 272.99977,
+        "digital": "0:04:32",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 32,
+        "percent": 7.51
+      },
+      {
+        "name": "platform-browser",
+        "total_seconds": 64.086388,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.76
+      },
+      {
+        "name": "app-routing.module",
+        "total_seconds": 64.086388,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.76
+      },
+      {
+        "name": "main.module",
+        "total_seconds": 64.086388,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.76
+      },
+      {
+        "name": "app.component",
+        "total_seconds": 64.086388,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 1.76
+      },
+      {
+        "name": "forms",
+        "total_seconds": 34.069537,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.94
+      },
+      {
+        "name": "common",
+        "total_seconds": 34.069537,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.94
+      },
+      {
+        "name": "home.component",
+        "total_seconds": 34.069537,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.94
+      },
+      {
+        "name": "navbar.component",
+        "total_seconds": 27.217189,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 0.75
+      },
+      {
+        "name": "navbar-element.component",
+        "total_seconds": 6.852348,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.19
+      },
+      {
+        "name": "game-component.component",
+        "total_seconds": 6.752574,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.19
+      },
+      {
+        "name": "testing",
+        "total_seconds": 0.29131,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 4798.697965,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "1:19:58",
+        "decimal": "1.32",
+        "text": "1 hr 19 mins",
+        "hours": 1,
+        "minutes": 19,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 2573.102595,
+        "color": null,
+        "digital": "0:42:53",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 53,
+        "percent": 53.62
+      },
+      {
+        "name": "fractal_launcher",
+        "total_seconds": 1825.282254,
+        "color": null,
+        "digital": "0:30:25",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 25,
+        "percent": 38.04
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 400.313116,
+        "color": null,
+        "digital": "0:06:40",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 40,
+        "percent": 8.34
+      }
+    ],
+    "range": {
+      "start": "2024-03-06T23:00:00Z",
+      "end": "2024-03-07T22:59:59Z",
+      "date": "2024-03-07",
+      "text": "Thu Mar 7th 2024",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2024-03-06": {
+    "languages": [
+      {
+        "name": "CSS",
+        "total_seconds": 3378.24709,
+        "digital": "0:56:18",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 18,
+        "percent": 52.37
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 1383.139087,
+        "digital": "0:23:03",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 3,
+        "percent": 21.44
+      },
+      {
+        "name": "CSHTML",
+        "total_seconds": 858.131361,
+        "digital": "0:14:18",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 18,
+        "percent": 13.3
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 714.486014,
+        "digital": "0:11:54",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 54,
+        "percent": 11.08
+      },
+      {
+        "name": "C++",
+        "total_seconds": 50.516546,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 0.78
+      },
+      {
+        "name": "C#",
+        "total_seconds": 31.889747,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 0.49
+      },
+      {
+        "name": "Image (png)",
+        "total_seconds": 24.101449,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.37
+      },
+      {
+        "name": "Other",
+        "total_seconds": 10.036791,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.16
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 47,
+      "total_seconds": 6450.548085,
+      "digital": "1:47",
+      "decimal": "1.78",
+      "text": "1 hr 47 mins"
+    },
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 4227.208365,
+        "digital": "1:10:27",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 27,
+        "percent": 65.53
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 2223.33972,
+        "digital": "0:37:03",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 3,
+        "percent": 34.47
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6450.548085,
+        "digital": "1:47:30",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5067.408998,
+        "digital": "1:24:27",
+        "decimal": "1.40",
+        "text": "1 hr 24 mins",
+        "hours": 1,
+        "minutes": 24,
+        "seconds": 27,
+        "percent": 78.56
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 1356.226136,
+        "digital": "0:22:36",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 36,
+        "percent": 21.02
+      },
+      {
+        "name": "Building",
+        "total_seconds": 26.912951,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.42
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 31.889747,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 51.58
+      },
+      {
+        "name": "ElectronNET",
+        "total_seconds": 29.939614,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 48.42
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 6450.548085,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "1:47:30",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 4227.208365,
+        "digital": "1:10:27",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 27,
+        "percent": 65.53
+      },
+      {
+        "name": "Menu",
+        "total_seconds": 2172.823174,
+        "digital": "0:36:12",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 12,
+        "percent": 33.68
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 50.516546,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 0.78
+      }
+    ],
+    "range": {
+      "start": "2024-03-05T23:00:00Z",
+      "end": "2024-03-06T22:59:59Z",
+      "date": "2024-03-06",
+      "text": "Wed Mar 6th 2024",
+      "timezone": "Europe/Madrid"
+    }
+  },
+  "2024-03-05": {
+    "grand_total": {
+      "hours": 3,
+      "minutes": 18,
+      "total_seconds": 11906.074941,
+      "digital": "3:18",
+      "decimal": "3.30",
+      "text": "3 hrs 18 mins"
+    },
+    "range": {
+      "start": "2024-03-04T23:00:00Z",
+      "end": "2024-03-05T22:59:59Z",
+      "date": "2024-03-05",
+      "text": "Tue Mar 5th 2024",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 11850.529972,
+        "color": null,
+        "digital": "3:17:30",
+        "decimal": "3.28",
+        "text": "3 hrs 17 mins",
+        "hours": 3,
+        "minutes": 17,
+        "seconds": 30,
+        "percent": 99.53
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 55.544969,
+        "color": null,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 0.47
+      }
+    ],
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 7477.30406,
+        "digital": "2:04:37",
+        "decimal": "2.07",
+        "text": "2 hrs 4 mins",
+        "hours": 2,
+        "minutes": 4,
+        "seconds": 37,
+        "percent": 62.8
+      },
+      {
+        "name": "CSHTML",
+        "total_seconds": 2676.15636,
+        "digital": "0:44:36",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 36,
+        "percent": 22.48
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 1697.069552,
+        "digital": "0:28:17",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 17,
+        "percent": 14.25
+      },
+      {
+        "name": "C++",
+        "total_seconds": 55.544969,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 0.47
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 4712.214814,
+        "digital": "1:18:32",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 32,
+        "percent": 99.01
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 47.096079,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 0.99
+      },
+      {
+        "name": "ElectronNET",
+        "total_seconds": 0.154999,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 11906.074941,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "3:18:26",
+        "decimal": "3.30",
+        "text": "3 hrs 18 mins",
+        "hours": 3,
+        "minutes": 18,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 11850.529972,
+        "digital": "3:17:30",
+        "decimal": "3.28",
+        "text": "3 hrs 17 mins",
+        "hours": 3,
+        "minutes": 17,
+        "seconds": 30,
+        "percent": 99.53
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 55.544969,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 0.47
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 11906.074941,
+        "digital": "3:18:26",
+        "decimal": "3.30",
+        "text": "3 hrs 18 mins",
+        "hours": 3,
+        "minutes": 18,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10187.338668,
+        "digital": "2:49:47",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 47,
+        "percent": 85.56
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 1201.819861,
+        "digital": "0:20:01",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 1,
+        "percent": 10.09
+      },
+      {
+        "name": "Building",
+        "total_seconds": 516.916412,
+        "digital": "0:08:36",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 36,
+        "percent": 4.34
+      }
+    ]
+  },
+  "2024-03-04": {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 51,
+      "total_seconds": 10311.277894,
+      "digital": "2:51",
+      "decimal": "2.85",
+      "text": "2 hrs 51 mins"
+    },
+    "range": {
+      "start": "2024-03-03T23:00:00Z",
+      "end": "2024-03-04T22:59:59Z",
+      "date": "2024-03-04",
+      "text": "Mon Mar 4th 2024",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 9823.269921,
+        "color": null,
+        "digital": "2:43:43",
+        "decimal": "2.72",
+        "text": "2 hrs 43 mins",
+        "hours": 2,
+        "minutes": 43,
+        "seconds": 43,
+        "percent": 95.27
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 488.007973,
+        "color": null,
+        "digital": "0:08:08",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 8,
+        "percent": 4.73
+      }
+    ],
+    "languages": [
+      {
+        "name": "C#",
+        "total_seconds": 8787.94487,
+        "digital": "2:26:27",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 27,
+        "percent": 85.23
+      },
+      {
+        "name": "CSHTML",
+        "total_seconds": 1003.883841,
+        "digital": "0:16:43",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 43,
+        "percent": 9.74
+      },
+      {
+        "name": "C",
+        "total_seconds": 418.122082,
+        "digital": "0:06:58",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 58,
+        "percent": 4.05
+      },
+      {
+        "name": "C++",
+        "total_seconds": 69.885891,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 0.68
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 31.44121,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 0.3
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 5824.017997,
+        "digital": "1:37:04",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 4,
+        "percent": 89.03
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 367.820324,
+        "digital": "0:06:07",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 7,
+        "percent": 5.62
+      },
+      {
+        "name": "FileStream(path,FileMode",
+        "total_seconds": 320.986847,
+        "digital": "0:05:20",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 20,
+        "percent": 4.91
+      },
+      {
+        "name": "ElectronNET",
+        "total_seconds": 28.794393,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 0.44
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 10311.277894,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "2:51:51",
+        "decimal": "2.85",
+        "text": "2 hrs 51 mins",
+        "hours": 2,
+        "minutes": 51,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 9823.269921,
+        "digital": "2:43:43",
+        "decimal": "2.72",
+        "text": "2 hrs 43 mins",
+        "hours": 2,
+        "minutes": 43,
+        "seconds": 43,
+        "percent": 95.27
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 488.007973,
+        "digital": "0:08:08",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 8,
+        "percent": 4.73
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10311.277894,
+        "digital": "2:51:51",
+        "decimal": "2.85",
+        "text": "2 hrs 51 mins",
+        "hours": 2,
+        "minutes": 51,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10279.836684,
+        "digital": "2:51:19",
+        "decimal": "2.85",
+        "text": "2 hrs 51 mins",
+        "hours": 2,
+        "minutes": 51,
+        "seconds": 19,
+        "percent": 99.7
+      },
+      {
+        "name": "Building",
+        "total_seconds": 31.44121,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 0.3
+      }
+    ]
+  },
+  "2024-03-03": {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 55,
+      "total_seconds": 3303.083789,
+      "digital": "0:55",
+      "decimal": "0.92",
+      "text": "55 mins"
+    },
+    "range": {
+      "start": "2024-03-02T23:00:00Z",
+      "end": "2024-03-03T22:59:59Z",
+      "date": "2024-03-03",
+      "text": "Sun Mar 3rd 2024",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "fractal_importexport_front",
+        "total_seconds": 3303.083789,
+        "color": null,
+        "digital": "0:55:03",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1893.545614,
+        "digital": "0:31:33",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 33,
+        "percent": 57.33
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 1244.673037,
+        "digital": "0:20:44",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 44,
+        "percent": 37.68
+      },
+      {
+        "name": "SCSS",
+        "total_seconds": 164.865138,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 4.99
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "core",
+        "total_seconds": 1891.859415,
+        "digital": "0:31:31",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 31,
+        "percent": 12.24
+      },
+      {
+        "name": "form-status",
+        "total_seconds": 1836.094137,
+        "digital": "0:30:36",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 36,
+        "percent": 11.88
+      },
+      {
+        "name": "zone.interface",
+        "total_seconds": 1834.407938,
+        "digital": "0:30:34",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 34,
+        "percent": 11.87
+      },
+      {
+        "name": "router",
+        "total_seconds": 1687.433355,
+        "digital": "0:28:07",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 7,
+        "percent": 10.92
+      },
+      {
+        "name": "nui.service",
+        "total_seconds": 1629.981878,
+        "digital": "0:27:09",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 9,
+        "percent": 10.55
+      },
+      {
+        "name": "building.interface",
+        "total_seconds": 1629.981878,
+        "digital": "0:27:09",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 9,
+        "percent": 10.55
+      },
+      {
+        "name": "buyOffice.interface",
+        "total_seconds": 1629.981878,
+        "digital": "0:27:09",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 9,
+        "percent": 10.55
+      },
+      {
+        "name": "error.inteface",
+        "total_seconds": 1629.981878,
+        "digital": "0:27:09",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 9,
+        "percent": 10.55
+      },
+      {
+        "name": "shared.service",
+        "total_seconds": 1629.981878,
+        "digital": "0:27:09",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 9,
+        "percent": 10.55
+      },
+      {
+        "name": "rxjs",
+        "total_seconds": 57.451477,
+        "digital": "0:00:57",
+        "decimal": "0.00",
+        "text": "57 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 57,
+        "percent": 0.37
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 3303.083789,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "0:55:03",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3303.083789,
+        "digital": "0:55:03",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3303.083789,
+        "digital": "0:55:03",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3303.083789,
+        "digital": "0:55:03",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 3,
+        "percent": 100
+      }
+    ]
+  },
+  "2024-03-02": {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 14,
+      "total_seconds": 4449.933267,
+      "digital": "1:14",
+      "decimal": "1.23",
+      "text": "1 hr 14 mins"
+    },
+    "range": {
+      "start": "2024-03-01T23:00:00Z",
+      "end": "2024-03-02T22:59:59Z",
+      "date": "2024-03-02",
+      "text": "Sat Mar 2nd 2024",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 4449.933267,
+        "color": null,
+        "digital": "1:14:09",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "CSHTML",
+        "total_seconds": 2156.963871,
+        "digital": "0:35:56",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 56,
+        "percent": 48.47
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 1569.315839,
+        "digital": "0:26:09",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 9,
+        "percent": 35.27
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 379.588718,
+        "digital": "0:06:19",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 19,
+        "percent": 8.53
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 328.272071,
+        "digital": "0:05:28",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 28,
+        "percent": 7.38
+      },
+      {
+        "name": "C#",
+        "total_seconds": 15.792768,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.35
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 4449.933267,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "1:14:09",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 4449.933267,
+        "digital": "1:14:09",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4449.933267,
+        "digital": "1:14:09",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2880.617428,
+        "digital": "0:48:00",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 0,
+        "percent": 64.73
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 1544.76357,
+        "digital": "0:25:44",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 44,
+        "percent": 34.71
+      },
+      {
+        "name": "Building",
+        "total_seconds": 24.552269,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.55
+      }
+    ]
+  },
+  "2024-03-01": {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 27,
+      "total_seconds": 8873.712677,
+      "digital": "2:27",
+      "decimal": "2.45",
+      "text": "2 hrs 27 mins"
+    },
+    "range": {
+      "start": "2024-02-29T23:00:00Z",
+      "end": "2024-03-01T22:59:59Z",
+      "date": "2024-03-01",
+      "text": "Fri Mar 1st 2024",
+      "timezone": "Europe/Madrid"
+    },
+    "projects": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 8101.021039,
+        "color": null,
+        "digital": "2:15:01",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 1,
+        "percent": 91.29
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 772.691638,
+        "color": null,
+        "digital": "0:12:52",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 52,
+        "percent": 8.71
+      }
+    ],
+    "languages": [
+      {
+        "name": "Binary",
+        "total_seconds": 3025.035002,
+        "digital": "0:50:25",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 25,
+        "percent": 34.09
+      },
+      {
+        "name": "C#",
+        "total_seconds": 1696.84712,
+        "digital": "0:28:16",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 16,
+        "percent": 19.12
+      },
+      {
+        "name": "CSHTML",
+        "total_seconds": 1631.312064,
+        "digital": "0:27:11",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 11,
+        "percent": 18.38
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 797.171572,
+        "digital": "0:13:17",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 17,
+        "percent": 8.98
+      },
+      {
+        "name": "C++",
+        "total_seconds": 729.030409,
+        "digital": "0:12:09",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 9,
+        "percent": 8.22
+      },
+      {
+        "name": "XML",
+        "total_seconds": 543.107752,
+        "digital": "0:09:03",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 3,
+        "percent": 6.12
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 424.419025,
+        "digital": "0:07:04",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 4,
+        "percent": 4.78
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 26.789733,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.3
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Dayz_Fractal_ServerManager",
+        "total_seconds": 1696.84712,
+        "digital": "0:28:16",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 16,
+        "percent": 48.5
+      },
+      {
+        "name": "ElectronNET",
+        "total_seconds": 1575.376496,
+        "digital": "0:26:15",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 15,
+        "percent": 45.03
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 118.207564,
+        "digital": "0:01:58",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 58,
+        "percent": 3.38
+      },
+      {
+        "name": "FileStream(path,FileMode",
+        "total_seconds": 108.357503,
+        "digital": "0:01:48",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 3.1
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-MGRABQQ",
+        "total_seconds": 8873.712677,
+        "machine_name_id": "018da25a-73ea-4163-a74c-70f07e3cee45",
+        "digital": "2:27:53",
+        "decimal": "2.45",
+        "text": "2 hrs 27 mins",
+        "hours": 2,
+        "minutes": 27,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 8101.021039,
+        "digital": "2:15:01",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 1,
+        "percent": 91.29
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 772.691638,
+        "digital": "0:12:52",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 52,
+        "percent": 8.71
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8873.712677,
+        "digital": "2:27:53",
+        "decimal": "2.45",
+        "text": "2 hrs 27 mins",
+        "hours": 2,
+        "minutes": 27,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5848.677675,
+        "digital": "1:37:28",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 28,
+        "percent": 65.91
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 2435.736948,
+        "digital": "0:40:35",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 35,
+        "percent": 27.45
+      },
+      {
+        "name": "Building",
+        "total_seconds": 589.298054,
+        "digital": "0:09:49",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 49,
+        "percent": 6.64
+      }
+    ]
+  }
+}

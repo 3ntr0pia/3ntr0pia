@@ -14,7 +14,7 @@
         },
         {
             "name": "C#",
-            "total_seconds": 426712.68355099997
+            "total_seconds": 462520.912187
         },
         {
             "name": "Docker",
@@ -30,7 +30,7 @@
         },
         {
             "name": "XML",
-            "total_seconds": 33570.990755
+            "total_seconds": 35244.233844
         },
         {
             "name": "Properties",
@@ -38,11 +38,11 @@
         },
         {
             "name": "HTML",
-            "total_seconds": 285569.92856300005
+            "total_seconds": 291271.0727920001
         },
         {
             "name": "CSS",
-            "total_seconds": 114889.18260900001
+            "total_seconds": 122413.09364600001
         },
         {
             "name": "Java Properties",
@@ -54,7 +54,7 @@
         },
         {
             "name": "TypeScript",
-            "total_seconds": 305164.89475100004
+            "total_seconds": 309381.78044900007
         },
         {
             "name": "GitIgnore file",
@@ -74,11 +74,11 @@
         },
         {
             "name": "Other",
-            "total_seconds": 13874.541202999999
+            "total_seconds": 13902.940907999999
         },
         {
             "name": "Binary",
-            "total_seconds": 105285.53056099999
+            "total_seconds": 119390.111033
         },
         {
             "name": "Blender",
@@ -86,7 +86,7 @@
         },
         {
             "name": "C++",
-            "total_seconds": 9919.827422000002
+            "total_seconds": 12893.290524000002
         },
         {
             "name": "Image (jpeg)",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Image (png)",
-            "total_seconds": 19.086
+            "total_seconds": 51.85949599999999
         },
         {
             "name": "Lua",
@@ -102,7 +102,7 @@
         },
         {
             "name": "JavaScript",
-            "total_seconds": 51199.286140000004
+            "total_seconds": 52121.672155
         },
         {
             "name": "CSV",
@@ -110,7 +110,7 @@
         },
         {
             "name": "JSON",
-            "total_seconds": 21322.292217000002
+            "total_seconds": 22210.008083
         },
         {
             "name": "TSConfig",
@@ -130,7 +130,7 @@
         },
         {
             "name": "SCSS",
-            "total_seconds": 15869.280651999998
+            "total_seconds": 20319.411525999996
         },
         {
             "name": "Python",
@@ -142,7 +142,15 @@
         },
         {
             "name": "CSHTML",
-            "total_seconds": 22484.647129999998
+            "total_seconds": 46508.300457000005
+        },
+        {
+            "name": "Razor",
+            "total_seconds": 33.15155
+        },
+        {
+            "name": "C",
+            "total_seconds": 444.681319
         }
     ]
 }
