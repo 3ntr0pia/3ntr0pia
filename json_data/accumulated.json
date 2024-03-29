@@ -22,7 +22,7 @@
         },
         {
             "name": "Text",
-            "total_seconds": 28021.976249000003
+            "total_seconds": 28439.240703000003
         },
         {
             "name": "Markdown",
@@ -38,7 +38,7 @@
         },
         {
             "name": "HTML",
-            "total_seconds": 291271.0727920001
+            "total_seconds": 312178.37944100006
         },
         {
             "name": "CSS",
@@ -54,7 +54,7 @@
         },
         {
             "name": "TypeScript",
-            "total_seconds": 309381.78044900007
+            "total_seconds": 333839.27173200005
         },
         {
             "name": "GitIgnore file",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Other",
-            "total_seconds": 13902.940907999999
+            "total_seconds": 13985.492868
         },
         {
             "name": "Binary",
@@ -86,7 +86,7 @@
         },
         {
             "name": "C++",
-            "total_seconds": 12893.290524000002
+            "total_seconds": 17562.548017
         },
         {
             "name": "Image (jpeg)",
@@ -102,7 +102,7 @@
         },
         {
             "name": "JavaScript",
-            "total_seconds": 52121.672155
+            "total_seconds": 54095.279212
         },
         {
             "name": "CSV",
@@ -110,11 +110,11 @@
         },
         {
             "name": "JSON",
-            "total_seconds": 22210.008083
+            "total_seconds": 23911.814807000002
         },
         {
             "name": "TSConfig",
-            "total_seconds": 30.8345
+            "total_seconds": 37.456405
         },
         {
             "name": "Apache Config",
@@ -122,7 +122,7 @@
         },
         {
             "name": "INI",
-            "total_seconds": 261.153162
+            "total_seconds": 261.508778
         },
         {
             "name": "Blade Template",
@@ -130,7 +130,7 @@
         },
         {
             "name": "SCSS",
-            "total_seconds": 20319.411525999996
+            "total_seconds": 44620.04482999999
         },
         {
             "name": "Python",
@@ -151,6 +151,10 @@
         {
             "name": "C",
             "total_seconds": 444.681319
+        },
+        {
+            "name": "Image (svg)",
+            "total_seconds": 6.998172
         }
     ]
 }
