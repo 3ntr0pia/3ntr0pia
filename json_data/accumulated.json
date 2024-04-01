@@ -22,7 +22,7 @@
         },
         {
             "name": "Text",
-            "total_seconds": 28439.240703000003
+            "total_seconds": 28773.154143000003
         },
         {
             "name": "Markdown",
@@ -38,7 +38,7 @@
         },
         {
             "name": "HTML",
-            "total_seconds": 312178.37944100006
+            "total_seconds": 334278.02157700004
         },
         {
             "name": "CSS",
@@ -54,7 +54,7 @@
         },
         {
             "name": "TypeScript",
-            "total_seconds": 333839.27173200005
+            "total_seconds": 363242.46473700006
         },
         {
             "name": "GitIgnore file",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Other",
-            "total_seconds": 13985.492868
+            "total_seconds": 14064.053166
         },
         {
             "name": "Binary",
@@ -86,7 +86,7 @@
         },
         {
             "name": "C++",
-            "total_seconds": 17562.548017
+            "total_seconds": 20051.142031
         },
         {
             "name": "Image (jpeg)",
@@ -102,7 +102,7 @@
         },
         {
             "name": "JavaScript",
-            "total_seconds": 54095.279212
+            "total_seconds": 55970.696429
         },
         {
             "name": "CSV",
@@ -110,7 +110,7 @@
         },
         {
             "name": "JSON",
-            "total_seconds": 23911.814807000002
+            "total_seconds": 25488.201587000003
         },
         {
             "name": "TSConfig",
@@ -122,7 +122,7 @@
         },
         {
             "name": "INI",
-            "total_seconds": 261.508778
+            "total_seconds": 261.864394
         },
         {
             "name": "Blade Template",
@@ -130,7 +130,7 @@
         },
         {
             "name": "SCSS",
-            "total_seconds": 44620.04482999999
+            "total_seconds": 69625.49205799999
         },
         {
             "name": "Python",
@@ -154,7 +154,7 @@
         },
         {
             "name": "Image (svg)",
-            "total_seconds": 6.998172
+            "total_seconds": 13.996344
         }
     ]
 }
