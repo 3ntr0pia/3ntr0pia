@@ -38,7 +38,7 @@
         },
         {
             "name": "HTML",
-            "total_seconds": 366627.1511160001
+            "total_seconds": 372113.38679500006
         },
         {
             "name": "CSS",
@@ -54,7 +54,7 @@
         },
         {
             "name": "TypeScript",
-            "total_seconds": 439982.7087180001
+            "total_seconds": 443907.60762600007
         },
         {
             "name": "GitIgnore file",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Other",
-            "total_seconds": 14525.385595
+            "total_seconds": 14525.970075
         },
         {
             "name": "Binary",
@@ -86,7 +86,7 @@
         },
         {
             "name": "C++",
-            "total_seconds": 20927.75839
+            "total_seconds": 21802.226944
         },
         {
             "name": "Image (jpeg)",
@@ -102,7 +102,7 @@
         },
         {
             "name": "JavaScript",
-            "total_seconds": 58520.862008000004
+            "total_seconds": 59642.40031700001
         },
         {
             "name": "CSV",
@@ -130,7 +130,7 @@
         },
         {
             "name": "SCSS",
-            "total_seconds": 95427.583176
+            "total_seconds": 102669.61302
         },
         {
             "name": "Python",
@@ -154,7 +154,7 @@
         },
         {
             "name": "Image (svg)",
-            "total_seconds": 24.963121
+            "total_seconds": 35.929898
         },
         {
             "name": "Git",
