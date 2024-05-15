@@ -22,7 +22,7 @@
         },
         {
             "name": "Text",
-            "total_seconds": 29282.878441000004
+            "total_seconds": 29477.185374000004
         },
         {
             "name": "Markdown",
@@ -38,7 +38,7 @@
         },
         {
             "name": "HTML",
-            "total_seconds": 372113.38679500006
+            "total_seconds": 387953.07125800004
         },
         {
             "name": "CSS",
@@ -54,7 +54,7 @@
         },
         {
             "name": "TypeScript",
-            "total_seconds": 443907.60762600007
+            "total_seconds": 464988.59375600005
         },
         {
             "name": "GitIgnore file",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Other",
-            "total_seconds": 14525.970075
+            "total_seconds": 15000.611261999999
         },
         {
             "name": "Binary",
@@ -86,7 +86,7 @@
         },
         {
             "name": "C++",
-            "total_seconds": 21802.226944
+            "total_seconds": 21804.091665999997
         },
         {
             "name": "Image (jpeg)",
@@ -102,7 +102,7 @@
         },
         {
             "name": "JavaScript",
-            "total_seconds": 59642.40031700001
+            "total_seconds": 60631.10613300001
         },
         {
             "name": "CSV",
@@ -110,7 +110,7 @@
         },
         {
             "name": "JSON",
-            "total_seconds": 34333.108387
+            "total_seconds": 35243.830145
         },
         {
             "name": "TSConfig",
@@ -122,7 +122,7 @@
         },
         {
             "name": "INI",
-            "total_seconds": 265.941404
+            "total_seconds": 683.929353
         },
         {
             "name": "Blade Template",
@@ -130,7 +130,7 @@
         },
         {
             "name": "SCSS",
-            "total_seconds": 102669.61302
+            "total_seconds": 125175.701444
         },
         {
             "name": "Python",
@@ -154,7 +154,7 @@
         },
         {
             "name": "Image (svg)",
-            "total_seconds": 35.929898
+            "total_seconds": 45.973646
         },
         {
             "name": "Git",
