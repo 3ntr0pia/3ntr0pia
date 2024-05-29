@@ -22,11 +22,11 @@
         },
         {
             "name": "Text",
-            "total_seconds": 29477.185374000004
+            "total_seconds": 29539.676203000003
         },
         {
             "name": "Markdown",
-            "total_seconds": 6960.338544
+            "total_seconds": 6962.614186
         },
         {
             "name": "XML",
@@ -38,11 +38,11 @@
         },
         {
             "name": "HTML",
-            "total_seconds": 387953.07125800004
+            "total_seconds": 400092.41526400007
         },
         {
             "name": "CSS",
-            "total_seconds": 122537.38687100001
+            "total_seconds": 136473.672124
         },
         {
             "name": "Java Properties",
@@ -54,7 +54,7 @@
         },
         {
             "name": "TypeScript",
-            "total_seconds": 464988.59375600005
+            "total_seconds": 491190.17567100003
         },
         {
             "name": "GitIgnore file",
@@ -66,11 +66,11 @@
         },
         {
             "name": "Batchfile",
-            "total_seconds": 2.0789999999999997
+            "total_seconds": 6.012827
         },
         {
             "name": "Bash",
-            "total_seconds": 9855.103943000002
+            "total_seconds": 9864.293199000002
         },
         {
             "name": "Other",
@@ -86,7 +86,7 @@
         },
         {
             "name": "C++",
-            "total_seconds": 21804.091665999997
+            "total_seconds": 21952.742105999998
         },
         {
             "name": "Image (jpeg)",
@@ -102,7 +102,7 @@
         },
         {
             "name": "JavaScript",
-            "total_seconds": 60631.10613300001
+            "total_seconds": 66047.91957000001
         },
         {
             "name": "CSV",
@@ -110,11 +110,11 @@
         },
         {
             "name": "JSON",
-            "total_seconds": 35243.830145
+            "total_seconds": 41090.368633
         },
         {
             "name": "TSConfig",
-            "total_seconds": 38.90416999999999
+            "total_seconds": 815.617898
         },
         {
             "name": "Apache Config",
@@ -122,7 +122,7 @@
         },
         {
             "name": "INI",
-            "total_seconds": 683.929353
+            "total_seconds": 684.983444
         },
         {
             "name": "Blade Template",
@@ -130,7 +130,7 @@
         },
         {
             "name": "SCSS",
-            "total_seconds": 125175.701444
+            "total_seconds": 126532.50899900001
         },
         {
             "name": "Python",
@@ -138,7 +138,7 @@
         },
         {
             "name": "Git Config",
-            "total_seconds": 4070.953082
+            "total_seconds": 4074.222946
         },
         {
             "name": "CSHTML",
