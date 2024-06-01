@@ -38,11 +38,11 @@
         },
         {
             "name": "HTML",
-            "total_seconds": 400092.41526400007
+            "total_seconds": 418198.09488900006
         },
         {
             "name": "CSS",
-            "total_seconds": 136473.672124
+            "total_seconds": 167473.837058
         },
         {
             "name": "Java Properties",
@@ -54,7 +54,7 @@
         },
         {
             "name": "TypeScript",
-            "total_seconds": 491190.17567100003
+            "total_seconds": 527880.311387
         },
         {
             "name": "GitIgnore file",
@@ -86,7 +86,7 @@
         },
         {
             "name": "C++",
-            "total_seconds": 21952.742105999998
+            "total_seconds": 22101.392546
         },
         {
             "name": "Image (jpeg)",
@@ -102,7 +102,7 @@
         },
         {
             "name": "JavaScript",
-            "total_seconds": 66047.91957000001
+            "total_seconds": 66382.20850200001
         },
         {
             "name": "CSV",
@@ -110,11 +110,11 @@
         },
         {
             "name": "JSON",
-            "total_seconds": 41090.368633
+            "total_seconds": 44191.033306
         },
         {
             "name": "TSConfig",
-            "total_seconds": 815.617898
+            "total_seconds": 826.419501
         },
         {
             "name": "Apache Config",
@@ -122,7 +122,7 @@
         },
         {
             "name": "INI",
-            "total_seconds": 684.983444
+            "total_seconds": 685.246843
         },
         {
             "name": "Blade Template",
