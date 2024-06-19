@@ -27,8 +27,8 @@ I'm proud to be a part of the Fractal Game Studios team. Currently, I'm juggling
 ### **Programming Languages:**
 |  |  |  |
 |--------------|--------------|--------------|
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | JavaScript | 🟡🟡⚪⚪⚪⚪ |
-| ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) | TypeScript | 🟡🟡⚪⚪⚪⚪ |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | JavaScript | 🟢🟢🟢⚪⚪⚪ |
+| ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) | TypeScript | 🟢🟢🟢⚪⚪⚪ |
 | ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) | C# | 🟡🟡⚪⚪⚪⚪ |
 | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | Java | 🔴⚪⚪⚪⚪⚪ |
 
@@ -43,9 +43,8 @@ I'm proud to be a part of the Fractal Game Studios team. Currently, I'm juggling
 |  |  |  |
 |--------------|--------------|--------------|
 | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) | HTML |🟢🟢🟢🟢⚪⚪ |
-| ![CSS](https://img.icons8.com/color/48/000000/css3.png) | CSS | 🟢🟢🟢⚪⚪⚪ |
-| ![SASS](https://img.icons8.com/color/48/000000/sass.png) | SASS | 🟡🟡⚪⚪⚪⚪ |
-
+| ![CSS](https://img.icons8.com/color/48/000000/css3.png) | CSS | 🟢🟢🟢🟢⚪⚪ |
+|
 ### **Databases:**
 |  |  |  |
 |--------------|--------------|--------------|
